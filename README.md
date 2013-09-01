@@ -37,9 +37,9 @@
 ★★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95
 ★★★★  | [ForkLift] | Finder替代品兼FTP | $19.95
 ★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99
-★★★★  | [Xee] | 替代原生的图片浏览工具 | $4.50
+★★★★  | [Xee] | 替代原生的图片浏览工具 | $4.5
 ★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $14.99
-★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99.00
+★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99
 ★★★☆  | [OmmWriter] | 静心写作 | $4.99
 ★★★☆  | [Parallels Desktop] | 虚拟机 | $79.99
 ★★★☆  | [Proxifier] | 单App规则代理工具 | $39.95
@@ -64,7 +64,7 @@
 ★★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99
 ★★★★☆ | [MAMP PRO] | 开发继承环境，本地网站管理 | $59
 ★★★★☆ | [CodeRunner] | 各编程语言快速测试继承环境 | $9.99
-★★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50.00
+★★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50
 ★★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99
 ★★★★  | [Versions] | SVN 版本控制工具 | $59
 ★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99
