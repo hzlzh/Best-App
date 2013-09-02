@@ -11,7 +11,7 @@
 `Mac OS`平台下有众多优秀的软件工具。  
 下面先就付费软件做一个推荐列表，希望供大家购买付费App时参考。
 
-以下推荐理由中不会再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为此列表中的Apps都是非常出色的，是金子总会发光～
+以下推荐理由中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为此处列表中的Apps都是非常出色的，是金子总会发光～
 
 #### 1.1 效率工具类
 
@@ -66,6 +66,9 @@
 ★★★★☆ | [CodeRunner] | 各编程语言快速测试继承环境 | $9.99
 ★★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50
 ★★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99
+★★★★  | [Sublime Text] | 编辑器 | $70
+★★★★  | [Intellij IDEA] | 编辑器 | $199
+★★★★  | [TextMate] | 编辑器 | £39
 ★★★★  | [Versions] | SVN 版本控制工具 | $59
 ★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99
 ★★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99
@@ -79,6 +82,8 @@
 * 建议尽量选择`冰点价格`或`打折促销`时购入，可以获得更大的优惠
 * 部分软件开发商会有官方`团购打折`或`家庭装促销`
 * 关注和参与`个人`或`集体`组织的团购`活动`
+* 选择购买`Mac App Store`的版本通常升级后续版本会 Free
+* 如果官方有非沙盒版，建议不要选择`Mac App Store`的阉割版，购入原版
 
 ## 关于
 
@@ -151,3 +156,6 @@
 [Kaleidoscope]: http://www.kaleidoscopeapp.com/‎
 [MAMP PRO]: http://www.mamp.info/
 [Play by Play]: http://www.playonmac.com/
+[TextMate]: http://macromates.com/
+[Intellij IDEA]: http://www.jetbrains.com/idea/
+[Sublime Text]: http://www.sublimetext.com/‎
