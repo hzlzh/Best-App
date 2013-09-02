@@ -85,6 +85,21 @@
 * 选择购买`Mac App Store`的版本通常升级后续版本会 Free
 * 如果官方有非沙盒版，建议不要选择`Mac App Store`的阉割版，购入原版
 
+## Mac OS App 优惠&促销信息媒体
+
+* [AppShopper](http://appshopper.com/)
+* [MacUpdate](https://deals.macupdate.com/)
+* [Current Mac Bundles](http://www.squidoo.com/current-mac-bundles)
+* [“反”斗限免](http://free.apprcn.com/)
+* [AppyDays for Mac](https://itunes.apple.com/cn/app/id428240257?mt=12)
+* [AppDown for Mac](http://www.ipadown.com/appdown-mac/)
+* [MacAppDeals](http://www.macappdeals.com/)
+* [$2tuesday](http://twodollartues.com/)
+* [AppFridays](http://appyfridays.com/)
+* [Macheist](http://macheist.com/)
+* [V2EX MacOS](http://v2ex.com/go/macosx)
+* [iNews](http://inews.io/)
+
 ## 关于
 
 #### 评分说明： 
