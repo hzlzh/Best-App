@@ -39,7 +39,7 @@
 ★★★★  | [ForkLift] | Finder替代品兼FTP | $19.95
 ★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99
 ★★★★  | [Xee] | 替代原生的图片浏览工具 | $4.5
-★★★★  | [Day One] | 各种sensor让你的mac不仅节能，而且智能 | $9.99
+★★★★  | [Should I Sleep] | 各种sensor让你的mac不仅节能，而且智能 | $9.99
 ★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $14.99
 ★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99
 ★★★☆  | [OmmWriter] | 静心写作 | $4.99
@@ -127,7 +127,7 @@
 
  
 
-[issue]: https://github.com/hzlzh/Best-App/issues/new
+[issue]: https://github.com/hzlzh/Best-App/issues/1
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
 
 [Alfred]: https://www.macupdate.com/app/mac/34344/alfred
@@ -142,6 +142,7 @@
 [BreakTime]: http://breaktimeapp.com/
 [Timing]: http://timingapp.com/
 [Day One]: http://dayoneapp.com/
+[Should I Sleep]: http://www.mrmilk.com.br/
 [CleanMyMac]: http://macpaw.com/cleanmymac/
 [LockScreen2]: https://itunes.apple.com/us/app/lock-screen-2/id445423011?mt=12
 [Moom]: http://manytricks.com/moom/
