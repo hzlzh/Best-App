@@ -30,6 +30,7 @@
 ★★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99
 ★★★★☆ | [Clear] | 轻量级GTD工具、iCloud 完美同步  | $9.99
 ★★★★☆ | [BreakTime] | 健康管理和休息提醒中断 | $4.99
+★★★★☆ | [Timing] | 统计你每一次操作，每一秒状态 | $9.99
 ★★★★☆ | [CleanMyMac] | 正如其名 | $39.95
 ★★★★☆ | [Things] | 又一个GTD | $49.99
 ★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95 
@@ -38,6 +39,7 @@
 ★★★★  | [ForkLift] | Finder替代品兼FTP | $19.95
 ★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99
 ★★★★  | [Xee] | 替代原生的图片浏览工具 | $4.5
+★★★★  | [Day One] | 各种sensor让你的mac不仅节能，而且智能 | $9.99
 ★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $14.99
 ★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99
 ★★★☆  | [OmmWriter] | 静心写作 | $4.99
@@ -138,6 +140,8 @@
 [Versions]: http://versionsapp.com/
 [Bartender]: http://www.macbartender.com/
 [BreakTime]: http://breaktimeapp.com/
+[Timing]: http://timingapp.com/
+[Day One]: http://dayoneapp.com/
 [CleanMyMac]: http://macpaw.com/cleanmymac/
 [LockScreen2]: https://itunes.apple.com/us/app/lock-screen-2/id445423011?mt=12
 [Moom]: http://manytricks.com/moom/
