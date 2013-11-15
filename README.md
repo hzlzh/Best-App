@@ -56,6 +56,8 @@
 ★★★   | [plup] | 新闻阅读器 | $9.99
 ★★★   | [Play by Play] | Dribbble客户端 | $4.99
 ★★★   | [iExplorer] | 管理iOS设备 | $34.99
+★★★   | [Short Menu] | 短链接生成工具，支持多种短链接服务 | $1.99
+★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99
 
 #### 1.2 开发类
 
@@ -185,3 +187,5 @@
 [TextMate]: http://macromates.com/
 [Intellij IDEA]: http://www.jetbrains.com/idea/
 [Sublime Text]: http://www.sublimetext.com/‎
+[Short Menu]: http://floschliep.com/short-menu-mac/
+[Picatext]: http://www.picatext.com/
