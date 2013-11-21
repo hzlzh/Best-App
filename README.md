@@ -30,9 +30,9 @@
 ★★★★☆ | [Keyboard Maestro] | 键盘快捷操作就是你需要的一切 | $36
 ★★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99
 ★★★★☆ | [Clear] | 轻量级GTD工具、iCloud 完美同步  | $9.99
-★★★★☆ | [BreakTime] | 健康管理和休息提醒中断 | $4.99
+★★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99
 ★★★★☆ | [Timing] | 统计你每一次操作，每一秒状态 | $9.99
-★★★★☆ | [CleanMyMac] | 正如其名 | $39.95
+★★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95
 ★★★★☆ | [Things] | 又一个GTD | $49.99
 ★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95 
 ★★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，上手之后秒杀同类所有 | $79.95
@@ -72,6 +72,7 @@
 ★★★★☆ | [CodeRunner] | 各编程语言快速测试继承环境 | $9.99
 ★★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50
 ★★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99
+★★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28
 ★★★★  | [Sublime Text] | 编辑器 | $70
 ★★★★  | [Intellij IDEA] | 编辑器 | $199
 ★★★★  | [TextMate] | 编辑器 | £39
@@ -194,3 +195,4 @@
 [Picatext]: http://www.picatext.com/
 [BetterSnap Tool]: http://blog.boastr.net/
 [Airmail]: http://airmailapp.com/
+[CodeKit]: http://incident57.com/codekit/
