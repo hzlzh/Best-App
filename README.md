@@ -34,7 +34,7 @@
 ★★★★☆ | [CleanMyMac] | 正如其名 | $39.95
 ★★★★☆ | [Things] | 又一个GTD | $49.99
 ★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95 
-★★★★☆ | [Devonthink Pro] | GTD，学好上手之后秒杀同类所有 | $79.95
+★★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，上手之后秒杀同类所有 | $79.95
 ★★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95
 ★★★★  | [ForkLift] | Finder替代品兼FTP | $19.95
 ★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99
