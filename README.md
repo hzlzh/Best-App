@@ -86,7 +86,7 @@
 ★★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99
 ★★★   | [Frank DeLoupe] | 精美拾色器、可PhotoShop联动 | $0.99
 ★★★   | [CodeBox] | 代码片段收集 | $9.99
-★★★   | [Sketch] | 2012苹果设计大奖得主 | $69.99
+★★★   | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $69.99
 
 #### 2.1 不断更新中...
 
@@ -104,6 +104,7 @@
 * [AppShopper](http://appshopper.com/)
 * [MacUpdate](https://deals.macupdate.com/)
 * [Current Mac Bundles](http://www.squidoo.com/current-mac-bundles)
+* [hzlzh/Best-App](https://github.com/hzlzh/Best-App)
 * [“反”斗限免](http://free.apprcn.com/)
 * [AppyDays for Mac](https://itunes.apple.com/cn/app/id428240257?mt=12)
 * [AppDown for Mac](http://www.ipadown.com/appdown-mac/)
@@ -113,7 +114,6 @@
 * [Macheist](http://macheist.com/)
 * [V2EX MacOS](http://v2ex.com/go/macosx)
 * [iNews](http://inews.io/)
-* [hzlzh/Best-App](https://github.com/hzlzh/Best-App)
 
 ## 关于
 
@@ -129,11 +129,11 @@
 
 *注1：排名怎么可能不分先后*  
 *注2：此列表客观公正，绝无广告或推广*  
-*注3：次列表维护有个人感情色彩，如遇不适者，欢迎`Fork`之后自行维护*
+*注3：此列表维护有个人感情色彩，如遇不适者，欢迎`Fork`一份自己的*
 
 #### 支持正版：
 
-软件开发者和作家一样，有的只是文字和代码，支持正版，建立一个好的软件生态环境。
+软件开发者和作家一样，有的只是代码和文字，支持正版，建立一个好的软件生态环境。
 
 #### 欢迎反馈：
 
