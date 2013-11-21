@@ -90,6 +90,7 @@
 ★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99
 ★★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99
 ★★★   | [Frank DeLoupe] | 精美拾色器、可PhotoShop联动 | $0.99
+★★★   | [ColorSnapper] | 屏幕取色，只做一件事，做到极致 | $4.99 
 ★★★   | [CodeBox] | 代码片段收集 | $9.99
 ★★★   | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $69.99
 
@@ -219,9 +220,11 @@
 [CodeKit]: http://incident57.com/codekit/
 [Instacast]: http://vemedio.com/products/instacast-mac
 [Sketch]: http://www.bohemiancoding.com/sketch/
+[ColorSnapper]: http://colorsnapper.com
 [Scrivener]: http://www.literatureandlatte.com/
 [Ulysses]: http://www.ulyssesapp.com/
 [OmniGraffle]: http://www.omnigroup.com/omnigraffle
+<<<<<<< HEAD
 [Promotee]: http://www.netwalkapps.com/app/promotee
 
 [Spotify]: https://www.spotify.com/
@@ -229,3 +232,5 @@
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
 [Ember]: https://realmacsoftware.com/ember
+=======
+>>>>>>> pr/5
