@@ -42,7 +42,7 @@
 ★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99
 ★★★★  | [Xee] | 替代原生的图片浏览工具 | $4.5
 ★★★★  | [Should I Sleep] | 各种sensor让你的mac不仅节能，而且智能 | $9.99
-★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $14.99
+★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $29.99
 ★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99
 ★★★☆  | [OmmWriter] | 静心写作 | $4.99
 ★★★☆  | [Parallels Desktop] | 虚拟机 | $79.99
@@ -194,7 +194,7 @@
 [LiveReload]: http://livereload.com/‎
 [Kaleidoscope]: http://www.kaleidoscopeapp.com/‎
 [MAMP PRO]: http://www.mamp.info/
-[Play by Play]: http://www.playonmac.com/
+[Play by Play]: http://playbyplayapp.com/
 [TextMate]: http://macromates.com/
 [Intellij IDEA]: http://www.jetbrains.com/idea/
 [Sublime Text]: http://www.sublimetext.com/‎
