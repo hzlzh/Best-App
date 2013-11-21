@@ -224,7 +224,6 @@
 [Scrivener]: http://www.literatureandlatte.com/
 [Ulysses]: http://www.ulyssesapp.com/
 [OmniGraffle]: http://www.omnigroup.com/omnigraffle
-<<<<<<< HEAD
 [Promotee]: http://www.netwalkapps.com/app/promotee
 
 [Spotify]: https://www.spotify.com/
@@ -232,5 +231,3 @@
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
 [Ember]: https://realmacsoftware.com/ember
-=======
->>>>>>> pr/5
