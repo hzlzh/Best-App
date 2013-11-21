@@ -24,6 +24,7 @@
 ★★★★★ | [iStat Menus] | 系统状态实时查看 | $16
 ★★★★★ | [Bartender] | 自定义右上角Menu栏图标 | $15
 ★★★★☆ | [Fantastical] | 基于日历的GTD提醒 | $19.99
+★★★★☆ | [Tweetbot] | 口碑最好的Twitter客户端 | $19.99
 ★★★★☆ | [Sparrow] | Email客户端 | $9.99
 ★★★★☆ | [Airmail] | Email客户端新秀 | $1.99
 ★★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $5.99
@@ -39,6 +40,7 @@
 ★★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，上手之后秒杀同类所有 | $79.95
 ★★★★☆ | [BetterSnap Tool] | 窗口管理工具，同类 Moom、Divvy | €1,79
 ★★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95
+★★★★  | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99
 ★★★★  | [ForkLift] | Finder替代品兼FTP | $19.95
 ★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99
 ★★★★  | [Xee] | 替代原生的图片浏览工具 | $4.5
@@ -57,13 +59,15 @@
 ★★★   | [DaisyDisk] | 磁盘容量占用分布一目了然 | $9.95
 ★★★   | [Gemini] | 重复文件查找删除 | $9.99
 ★★★   | [plup] | 新闻阅读器 | $9.99
-★★★   | [Play by Play] | Dribbble客户端 | $4.99
+★★★   | [Play by Play] | Dribbble 客户端 | $4.99
+★★★   | [Ember] | Dribbble 订阅器及素材管理 | $49.99
 ★★★   | [Scrivener] | 专业写作工具 | $59
-★★★   | [Ulysses] | 专业文本编辑工具 | $44.99
-★★★   | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99
+★★★   | [OmniOutliner] | 写PPT、文档的好帮手 | $39.99
+★★★   | [Ulysses] | 专业文本编辑工具，支持 Markdown | $44.99
 ★★★   | [iExplorer] | 管理iOS设备 | $34.99
 ★★★   | [Short Menu] | 短链接生成工具，支持多种短链接服务 | $1.99
 ★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99
+★★★   | [Promotee] | Apps官网素材，设备更新还算即时 | $4.99
 ★★★   | [Instacast] | 出色的 Podcast 应用 | $20
 
 
@@ -92,6 +96,11 @@
 
 #### 1.3 服务订阅类
 
+评分   | 名称  | 推荐理由 | 单价
+----- | ----- | ------ | -----
+★★★   | [Spotify] | 口碑很赞的音乐服务 | $9.99/mon
+★★★   | [Droplr Pro] | 分享文件，Pro支持自定义短链接域名，可跟踪点击 | $30/year
+★★★   | [MacUpdate Desktop] | 管理App更新下载安装 | $29.99/year
 
 #### 2.1 不断更新中...
 
@@ -140,13 +149,13 @@
 
 软件开发者和作家一样，有的只是代码和文字，支持正版，建立一个良好的软件生态环境。
 
-#### 欢迎反馈：
+#### 感谢所有参与推荐的朋友
 
-本推荐列表不断更新维护中，会有更多分类和更多利器加入推荐，有任何好的建议欢迎[反馈]。
- 
+本推荐 List 会不断更新维护中，会有更多分类和更多利器加入推荐，有任何好的建议欢迎[收集&提交页]。
+
 
 [issue]: https://github.com/hzlzh/Best-App/issues/1
-[反馈]: https://github.com/hzlzh/Best-App/issues/new
+[收集&提交页]: https://github.com/hzlzh/Best-App/issues/new
 
 [Alfred]: https://www.macupdate.com/app/mac/34344/alfred
 [1Password]: https://agilebits.com/onepassword/mac
@@ -181,6 +190,7 @@
 [ScreenFlow]: http://www.telestream.net/screenflow/
 [Sparkbox]: http://www.icyblaze.com/sparkbox/
 [Sparrow]: http://sparrowmailapp.com/
+[Tweetbot]: http://tapbots.com/software/tweetbot/mac/
 [Xee]: http://xee.c3.cx/
 [Pixelmator]: http://www.pixelmator.com/
 [xScope]: http://xscopeapp.com/
@@ -214,3 +224,13 @@
 [Scrivener]: http://www.literatureandlatte.com/
 [Ulysses]: http://www.ulyssesapp.com/
 [OmniGraffle]: http://www.omnigroup.com/omnigraffle
+<<<<<<< HEAD
+[Promotee]: http://www.netwalkapps.com/app/promotee
+
+[Spotify]: https://www.spotify.com/
+[Droplr Pro]: https://droplr.com/
+[MacUpdate Desktop]: https://www.macupdate.com/
+[OmniOutliner]: http://www.omnigroup.com/omnioutliner
+[Ember]: https://realmacsoftware.com/ember
+=======
+>>>>>>> pr/5
