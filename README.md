@@ -57,9 +57,14 @@
 ★★★   | [Gemini] | 重复文件查找删除 | $9.99
 ★★★   | [plup] | 新闻阅读器 | $9.99
 ★★★   | [Play by Play] | Dribbble客户端 | $4.99
+★★★   | [Scrivener] | 专业写作工具 | $59
+★★★   | [Ulysses] | 专业文本编辑工具 | $44.99
+★★★   | [OmniGraffle] | 专业绘图制表工具 | $99.99
 ★★★   | [iExplorer] | 管理iOS设备 | $34.99
 ★★★   | [Short Menu] | 短链接生成工具，支持多种短链接服务 | $1.99
 ★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99
+★★★   | [Instacast] | 出色的 Podcast 应用 | $20
+
 
 #### 1.2 开发类
 
@@ -81,13 +86,15 @@
 ★★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99
 ★★★   | [Frank DeLoupe] | 精美拾色器、可PhotoShop联动 | $0.99
 ★★★   | [CodeBox] | 代码片段收集 | $9.99
+★★★   | [Sketch] | 2012苹果设计大奖得主 | $69.99
 
 #### 2.1 不断更新中...
 
 ## 购买建议
 
 * 建议尽量选择`冰点价格`或`打折促销`时购入，可以获得更大的优惠
-* 部分软件开发商会有官方`团购打折`或`家庭装促销`
+* 部分软件开发商会有**官方**`团购打折`
+* `家庭装促销包授权`适合家里人一起使用
 * 关注和参与`个人`或`集体`组织的团购`活动`
 * 选择购买`Mac App Store`的版本通常升级后续版本会 Free
 * 如果官方有非沙盒版，建议不要选择`Mac App Store`的阉割版，购入原版
@@ -196,3 +203,8 @@
 [BetterSnap Tool]: http://blog.boastr.net/
 [Airmail]: http://airmailapp.com/
 [CodeKit]: http://incident57.com/codekit/
+[Instacast]: http://vemedio.com/products/instacast-mac
+[Sketch]: http://www.bohemiancoding.com/sketch/
+[Scrivener]: http://www.literatureandlatte.com/
+[Ulysses]: http://www.ulyssesapp.com/
+[OmniGraffle]: http://www.omnigroup.com/omnigraffle
