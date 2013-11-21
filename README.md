@@ -103,6 +103,7 @@
 * [Macheist](http://macheist.com/)
 * [V2EX MacOS](http://v2ex.com/go/macosx)
 * [iNews](http://inews.io/)
+* [hzlzh/Best-App](https://github.com/hzlzh/Best-App)
 
 ## 关于
 
