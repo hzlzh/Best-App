@@ -151,11 +151,12 @@
 
 #### 感谢所有参与推荐的朋友
 
-本推荐 List 会不断更新维护中，会有更多分类和更多利器加入推荐，有任何好的建议欢迎[收集&提交页]。
+本推荐 List 会不断更新维护中，会有更多分类和更多利器加入推荐，有任何好的建议欢迎[收集&提交页]，或[反馈]。
 
 
 [issue]: https://github.com/hzlzh/Best-App/issues/1
-[收集&提交页]: https://github.com/hzlzh/Best-App/issues/new
+[收集&提交页]: https://github.com/hzlzh/Best-App/issues/1
+[反馈]: https://github.com/hzlzh/Best-App/issues/new
 
 [Alfred]: https://www.macupdate.com/app/mac/34344/alfred
 [1Password]: https://agilebits.com/onepassword/mac
