@@ -88,6 +88,7 @@
 ★★★★  | [Sublime Text] | 编辑器 | $70
 ★★★★  | [Intellij IDEA] | 编辑器 | $199
 ★★★★  | [TextMate] | 编辑器 | £39
+★★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
 ★★★★  | [Versions] | SVN 版本控制工具 | $59
 ★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99
 ★★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99
@@ -233,3 +234,4 @@
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
 [Ember]: https://realmacsoftware.com/ember
+[Coda2]: https://panic.com/coda/
