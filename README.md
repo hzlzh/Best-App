@@ -39,6 +39,7 @@
 ★★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95 | 
 ★★★★☆ | [Things] | 又一个GTD | $49.99 | 
 ★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | 
+★★★★☆ | [aText] | 同 TextExpander 快速键入 | $4.99  | [#](http://mac.appstorm.net/reviews/productivity-review/atext-a-text-expansion-contender/)
 ★★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | 
 ★★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1,79 | 
 ★★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95 | 
@@ -186,6 +187,7 @@
 [Growl]: http://growl.info/
 [Frank DeLoupe]: http://jumpzero.com/frank/
 [Fantastical]: http://flexibits.com/fantastical
+[aText]: http://www.trankynam.com/atext/
 [Dash]: http://kapeli.com/dash 
 [ForkLift]: http://www.binarynights.com/
 [CodeRunner]: http://krillapps.com/coderunner/
