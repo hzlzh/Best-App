@@ -71,7 +71,7 @@
 ★★★   | [Short Menu] | 短链接生成工具，支持多种短链接服务 | $1.99 | 
 ★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99 | 
 ★★★   | [Promotee] | Apps官网素材，设备更新还算即时 | $4.99 | 
-★★★   | [Instacast] | 出色的 Podcast 应用 | $20 | 
+★★★   | [Instacast] | 出色的 Podcast 应用 | $20 | [#](http://aoxuis.me/posts/2013/06/18/instacast-for-mac)
 
 
 #### 1.2 开发类
@@ -234,4 +234,4 @@
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
 [Ember]: https://realmacsoftware.com/ember
-[Coda2]: https://panic.com/coda/
+[Coda]: https://panic.com/coda/
