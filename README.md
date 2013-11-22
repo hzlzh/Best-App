@@ -19,7 +19,7 @@
 #### 1.1 效率工具类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
------ | ----- | ------ | -----
+----- | ----- | ------ | ----- | -----
 ★★★★★ | [Alfred] | Top#，不解释 | £17 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 ★★★★★ | [1Password] | 密码管理，用过就离不开了 | $49.99 | [#](http://www.macstories.net/reviews/1password-4-for-mac-review/)
 ★★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
@@ -33,50 +33,50 @@
 ★★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99 | [#]()
 ★★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#]()
 ★★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99 | [#]()
-★★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99
-★★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99
-★★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $9.99
-★★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95
-★★★★☆ | [Things] | 又一个GTD | $49.99
-★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95 
-★★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95
-★★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1,79
-★★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95
-★★★★  | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99
-★★★★  | [ForkLift] | Finder替代品兼FTP工具 | $19.95
-★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99
-★★★★  | [Xee] | 图片浏览工具，可替代原生 | $4.5
-★★★★  | [Should I Sleep] | 让你的mac不仅节能，而且智能 | $9.99
-★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $29.99
-★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99
-★★★☆  | [OmmWriter] | 静心写作 | $4.99
-★★★☆  | [Parallels Desktop] | 虚拟机 | $79.99
-★★★☆  | [Proxifier] | 单App，规则代理工具 | $39.95
-★★★☆  | [Growl] | 消息提醒，原声提醒的鼻祖 | $3.99
-★★★☆  | [iPack] | 压缩/解压工具 | $1.99
-★★★☆  | [Aperture] | 专业的摄影相关软件 | $79.99
-★★★☆  | [Keycard] | 蓝牙设备锁屏，人走屏锁 | $6.99
-★★★☆  | [Geekbench] | 性能测试、硬件跑分 | $9.99
-★★★   | [LockScreen2] | iOS风格锁屏、触摸板解锁 | $1.99
-★★★   | [DaisyDisk] | 磁盘容量占用分布一目了然 | $9.95
-★★★   | [Gemini] | 重复文件查找删除 | $9.99
-★★★   | [plup] | 新闻阅读器 | $9.99
-★★★   | [Play by Play] | Dribbble 客户端 | $4.99
-★★★   | [Ember] | Dribbble 订阅器及素材管理 | $49.99
-★★★   | [Scrivener] | 专业写作工具 | $59
-★★★   | [OmniOutliner] | 写PPT、文档的好帮手 | $39.99
-★★★   | [Ulysses] | 专业文本编辑工具，支持 Markdown | $44.99
-★★★   | [iExplorer] | 管理iOS设备 | $34.99
-★★★   | [Short Menu] | 短链接生成工具，支持多种短链接服务 | $1.99
-★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99
-★★★   | [Promotee] | Apps官网素材，设备更新还算即时 | $4.99
-★★★   | [Instacast] | 出色的 Podcast 应用 | $20
+★★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | 
+★★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | 
+★★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $9.99 | 
+★★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95 | 
+★★★★☆ | [Things] | 又一个GTD | $49.99 | 
+★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | 
+★★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | 
+★★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1,79 | 
+★★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95 | 
+★★★★  | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99 | 
+★★★★  | [ForkLift] | Finder替代品兼FTP工具 | $19.95 | 
+★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99 | 
+★★★★  | [Xee] | 图片浏览工具，可替代原生 | $4.5 | 
+★★★★  | [Should I Sleep] | 让你的mac不仅节能，而且智能 | $9.99 | 
+★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $29.99 | 
+★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99 | 
+★★★☆  | [OmmWriter] | 静心写作 | $4.99 | 
+★★★☆  | [Parallels Desktop] | 虚拟机 | $79.99 | 
+★★★☆  | [Proxifier] | 单App，规则代理工具 | $39.95 | 
+★★★☆  | [Growl] | 消息提醒，原声提醒的鼻祖 | $3.99 | 
+★★★☆  | [iPack] | 压缩/解压工具 | $1.99 | 
+★★★☆  | [Aperture] | 专业的摄影相关软件 | $79.99 | 
+★★★☆  | [Keycard] | 蓝牙设备锁屏，人走屏锁 | $6.99 | 
+★★★☆  | [Geekbench] | 性能测试、硬件跑分 | $9.99 | 
+★★★   | [LockScreen2] | iOS风格锁屏、触摸板解锁 | $1.99 | 
+★★★   | [DaisyDisk] | 磁盘容量占用分布一目了然 | $9.95 | 
+★★★   | [Gemini] | 重复文件查找删除 | $9.99 | 
+★★★   | [plup] | 新闻阅读器 | $9.99 | 
+★★★   | [Play by Play] | Dribbble 客户端 | $4.99 | 
+★★★   | [Ember] | Dribbble 订阅器及素材管理 | $49.99 | 
+★★★   | [Scrivener] | 专业写作工具 | $59 | 
+★★★   | [OmniOutliner] | 写PPT、文档的好帮手 | $39.99 | 
+★★★   | [Ulysses] | 专业文本编辑工具，支持 Markdown | $44.99 | 
+★★★   | [iExplorer] | 管理iOS设备 | $34.99 | 
+★★★   | [Short Menu] | 短链接生成工具，支持多种短链接服务 | $1.99 | 
+★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99 | 
+★★★   | [Promotee] | Apps官网素材，设备更新还算即时 | $4.99 | 
+★★★   | [Instacast] | 出色的 Podcast 应用 | $20 | 
 
 
 #### 1.2 开发类
 
-评分   | 名称  | 推荐理由 | 单价
------ | ----- | ------ | -----
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
 ★★★★★ | [Dash] | 全语言文档手册速查 | $19.99
 ★★★★★ | [xScope] | 8合一标尺神器 | $29.99
 ★★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99
@@ -98,8 +98,8 @@
 
 #### 1.3 服务订阅类
 
-评分   | 名称  | 推荐理由 | 单价
------ | ----- | ------ | -----
+评分   | 名称  | 推荐理由 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
 ★★★   | [Spotify] | 著名音乐服务 | $9.99/mon
 ★★★   | [Droplr Pro] | 分享文件，支持自定义短链接域名，可跟踪点击 | $30/year
 ★★★   | [MacUpdate Desktop] | 管理 App 更新下载安装，追踪 App 优惠信息 | $29.99/year
