@@ -29,81 +29,79 @@
 ★★★★☆ | [Tweetbot] | Twitter客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
 ★★★★☆ | [Sparrow] | Email客户端 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/sparrow-minimal-functional-and-elegant-email/)
 ★★★★☆ | [Airmail] | Email客户端新秀，被称为Sparrow终结者 | $1.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
-★★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $5.99 | [#]()
-★★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99 | [#]()
-★★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#]()
-★★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99 | [#]()
-★★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | 
-★★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | 
-★★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $9.99 | 
-★★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95 | 
-★★★★☆ | [Things] | 又一个GTD | $49.99 | 
-★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | 
+★★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $5.99 | [#](http://www.macworld.com/article/1151457/jitouch.html)
+★★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
+★★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#](http://mac.appstorm.net/how-to/productivity-how-to/how-to-become-a-mac-keyboard-maestro/)
+★★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99 | [#](http://mac.appstorm.net/reviews/productivity-review/popclip-the-unexpectedly-awesome-productivity-tool/)
+★★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | [#](http://www.macstories.net/reviews/clear-for-mac-review/)
+★★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | [#](http://www.macworld.com/article/1164136/break_time_reminds_you_to_take_five.html)
+★★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $9.99 | [#](http://macdownload.informer.com/timing1/)
+★★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95 | [#](http://www.macworld.com/article/2036159/review-cleanmymac-2-removes-unnecessary-files-to-free-up-storage-space.html)
+★★★★☆ | [Things] | 又一个GTD | $49.99 | [#](http://www.lifehack.org/articles/productivity/battle-of-the-mac-and-ios-productivity-apps-omnifocus-vs-things-2-0.html)
+★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | [#](http://mac.appstorm.net/reviews/productivity-review/head-to-head-text-expander-mac-software-compared/)
 ★★★★☆ | [aText] | 同 TextExpander 快速键入 | $4.99  | [#](http://mac.appstorm.net/reviews/productivity-review/atext-a-text-expansion-contender/)
-★★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | 
-★★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1,79 | 
-★★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95 | 
-★★★★  | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99 | 
-★★★★  | [ForkLift] | Finder替代品兼FTP工具 | $19.95 | 
-★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99 | 
-★★★★  | [Xee] | 图片浏览工具，可替代原生 | $4.5 | 
-★★★★  | [Should I Sleep] | 让你的mac不仅节能，而且智能 | $9.99 | 
-★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $29.99 | 
-★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99 | 
-★★★☆  | [OmmWriter] | 静心写作 | $4.99 | 
-★★★☆  | [Parallels Desktop] | 虚拟机 | $79.99 | 
-★★★☆  | [Proxifier] | 单App，规则代理工具 | $39.95 | 
-★★★☆  | [Growl] | 消息提醒，原声提醒的鼻祖 | $3.99 | 
-★★★☆  | [iPack] | 压缩/解压工具 | $1.99 | 
-★★★☆  | [Aperture] | 专业的摄影相关软件 | $79.99 | 
-★★★☆  | [Keycard] | 蓝牙设备锁屏，人走屏锁 | $6.99 | 
-★★★☆  | [Geekbench] | 性能测试、硬件跑分 | $9.99 | 
-★★★   | [LockScreen2] | iOS风格锁屏、触摸板解锁 | $1.99 | 
-★★★   | [DaisyDisk] | 磁盘容量占用分布一目了然 | $9.95 | 
-★★★   | [Gemini] | 重复文件查找删除 | $9.99 | 
-★★★   | [plup] | 新闻阅读器 | $9.99 | 
-★★★   | [Play by Play] | Dribbble 客户端 | $4.99 | 
-★★★   | [Ember] | Dribbble 订阅器及素材管理 | $49.99 | 
-★★★   | [Scrivener] | 专业写作工具 | $59 | 
-★★★   | [OmniOutliner] | 写PPT、文档的好帮手 | $39.99 | 
-★★★   | [Ulysses] | 专业文本编辑工具，支持 Markdown | $44.99 | 
-★★★   | [iExplorer] | 管理iOS设备 | $34.99 | 
-★★★   | [Short Menu] | 短链接生成工具，支持多种短链接服务 | $1.99 | 
-★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99 | 
-★★★   | [Promotee] | Apps官网素材，设备更新还算即时 | $4.99 | 
+★★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | [#](http://www.macworld.com/article/1161735/review_devonthink_pro_office_2_2_1_helps_manage_your_data.html)
+★★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1,79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
+★★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95 | [#](http://www.macworld.com/article/2017161/mac-gems-little-snitch-snitches-on-misbehaving-apps.html)
+★★★★  | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99 | [#](http://www.macworld.com/article/1136253/omnigrafflepro5.html)
+★★★★  | [ForkLift] | Finder替代品兼FTP工具 | $19.95 | [#](http://mac.appstorm.net/reviews/forklift-the-fast-functional-ftp-client/)
+★★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99 | [#](http://mac.appstorm.net/reviews/lifestyle/an-in-depth-look-at-ember-the-new-digital-scrapbook/)
+★★★★  | [Xee] | 图片浏览工具，可替代原生 | $4.5 | [#](http://www.cultofmac.com/49171/review-xee-a-cute-little-image-browser/)
+★★★★  | [Should I Sleep] | 让你的mac不仅节能，而且智能 | $9.99 | [#](http://www.macworld.com/article/2044786/mac-gems-should-i-sleep-puts-your-mac-into-a-proper-sleep-routine.html)
+★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/clash-of-the-image-editors-acorn-vs-pixelmator/)
+★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99 | [#](http://www.macworld.com/article/2039696/review-screenflow-4-a-great-but-quirky-video-capture-and-edit-tool.html)
+★★★☆  | [OmmWriter] | 静心写作 | $4.99 | [#](http://www.macworld.com/article/1166079/ommwriter_dana_helps_you_focus_when_writing.html)
+★★★☆  | [Parallels Desktop] | 虚拟机 | $79.99 | [#](http://www.macworld.com/article/2010694/review-parallels-desktop-8-vs-vmware-fusion-5.html)
+★★★☆  | [Proxifier] | 单App，规则代理工具 | $39.95 | [#](http://download.cnet.com/Proxifier/3000-2155_4-147076.html)
+★★★☆  | [Growl] | 消息提醒，原声提醒的鼻祖 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/meet-the-new-growl-improved-functionality-but-at-a-price/)
+★★★☆  | [iPack] | 压缩/解压工具 | $1.99 | [#](http://www.zhihu.com/question/20383279)
+★★★☆  | [Aperture] | 专业的摄影相关软件 | $79.99 | [#](http://www.digitalcameraworld.com/2013/01/28/apple-aperture-3-4-3-review/)
+★★★☆  | [Keycard] | 蓝牙设备锁屏，人走屏锁 | $6.99 | [#](http://macreview.com/2013/02/keycard-review/)
+★★★☆  | [Geekbench] | 性能测试、硬件跑分 | $9.99 | [#](http://www.macrumors.com/2013/08/16/geekbench-3-with-15-new-benchmark-tests-released-for-mac-ios-and-more/)
+★★★   | [LockScreen] | iOS风格锁屏、触摸板解锁 | $1.99 | [#](http://www.youtube.com/watch?v=aFpbSGasq2A)
+★★★   | [DaisyDisk] | 磁盘容量占用分布一目了然 | $9.95 | [#](http://mac.appstorm.net/reviews/utilities/daisydisk-3-beta-is-here-with-a-revamped-interface-and-new-tools/)
+★★★   | [Gemini] | 重复文件查找删除 | $9.99 | [#](http://www.macworld.com/article/1167669/gemini_finds_and_removes_your_duplicate_files.html)
+★★★   | [plup] | 新闻阅读器 | $9.99 | [#](http://mac.appstorm.net/reviews/internet-reviews/pulp-an-innovative-way-to-read-the-news-on-your-mac/)
+★★★   | [Play by Play] | Dribbble 客户端 | $4.99 | [#](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/)
+★★★   | [Ember] | Dribbble 订阅器及素材管理 | $49.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
+★★★   | [Scrivener] | 专业写作工具 | $59 | [#](http://mac.appstorm.net/reviews/office-review/scrivener-a-writers-best-friend/)
+★★★   | [OmniOutliner] | 写PPT、文档的好帮手 | $39.99 | [#](http://www.lifehack.org/articles/technology/30-days-with-omnioutliner-professional.html)
+★★★   | [Ulysses] | 专业文本编辑工具，支持 Markdown | $44.99 | [#](http://mac.appstorm.net/reviews/productivity-review/ulysses-iii-a-markdown-writing-app-like-no-other/)
+★★★   | [iExplorer] | 管理iOS设备 | $34.99 | [#](http://www.techrepublic.com/blog/windows-and-office/review-get-direct-access-to-your-iphones-files-with-iexplorer/)
+★★★   | [Promotee] | Apps官网素材，设备更新还算即时 | $4.99 | [#](http://5key.net/post/promotee-for-mac/)
 ★★★   | [Instacast] | 出色的 Podcast 应用 | $20 | [#](http://aoxuis.me/posts/2013/06/18/instacast-for-mac)
-
+★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/picatext-an-attempt-at-ocr-on-the-mac/)
 
 #### 1.2 开发类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★ | [Dash] | 全语言文档手册速查 | $19.99
-★★★★★ | [xScope] | 8合一标尺神器 | $29.99
-★★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99
-★★★★☆ | [MAMP PRO] | 开发集成环境，本地网站管理 | $59
-★★★★☆ | [CodeRunner] | 各编程语言快速测试继承环境 | $9.99
-★★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50
-★★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99
-★★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28
-★★★★  | [Sublime Text] | 编辑器 | $70
-★★★★  | [Intellij IDEA] | 编辑器 | $199
-★★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
-★★★★  | [Versions] | SVN 版本控制工具 | $59
-★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99
-★★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99
-★★★   | [Frank DeLoupe] | 精美拾色器、可PhotoShop联动 | $0.99
-★★★   | [ColorSnapper] | 屏幕取色，只做一件事，做到极致 | $4.99 
-★★★   | [CodeBox] | 代码片段收集 | $9.99
-★★★   | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $69.99
+★★★★★ | [Dash] | 全语言文档手册速查 | $19.99 | [#](http://brettterpstra.com/2013/04/26/mac-app-review-dash-for-developers/)
+★★★★★ | [xScope] | 8合一标尺神器 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/xscope-3-big-improvements-to-the-designers-best-friend/)
+★★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99 | [#](http://mac.appstorm.net/reviews/utilities/easily-compare-file-versions-with-kaleidoscope/)
+★★★★☆ | [MAMP PRO] | 开发集成环境，本地网站管理 | $59 | [#](http://mac.appstorm.net/reviews/internet-reviews/running-a-local-server-with-mamp/)
+★★★★☆ | [CodeRunner] | 各编程语言快速测试继承环境 | $9.99 | [#](http://brettterpstra.com/2011/10/28/app-review-coderunner/)
+★★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50 | [#](http://www.99css.com/archives/1272)
+★★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99 | [#](http://brettterpstra.com/2011/12/02/app-review-livereload/)
+★★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
+★★★★  | [Sublime Text] | 编辑器 | $70 | N/A
+★★★★  | [Intellij IDEA] | 编辑器 | $199 | N/A
+★★★★  | [Coda] | 编辑器 | $74.99 | N/A
+★★★★  | [Versions] | SVN 版本控制工具 | $59 | [#](http://stackoverflow.com/questions/899/best-subversion-client-for-mac-os)
+★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/colorschemer-studio-2-instant-color-schemes/)
+★★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99 | [#](http://mac.appstorm.net/reviews/productivity-review/keep-your-digital-inspiration-organized-with-sparkbox/)
+★★★   | [Frank DeLoupe] | 精美拾色器、可PhotoShop联动 | $0.99 | [#](http://mac.appstorm.net/reviews/graphics/frank-deloupe-your-color-picking-friend/)
+★★★   | [ColorSnapper] | 屏幕取色，只做一件事，做到极致 | $4.99 | [#](http://mac.appstorm.net/reviews/utilities/colorsnapper-a-slick-simple-color-picker-for-the-mac/)
+★★★   | [CodeBox] | 代码片段收集 | $9.99 | [#](http://mac.appstorm.net/reviews/utilities/codebox-manage-your-snippets-effectively-and-efficiently/)
+★★★   | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $69.99 | [#](http://mac.appstorm.net/reviews/graphics/sketch-2-a-simple-powerful-vector-graphics-app/)
 
 #### 1.3 服务订阅类
 
 评分   | 名称  | 推荐理由 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★   | [Spotify] | 著名音乐服务 | $9.99/mon
-★★★   | [Droplr Pro] | 分享文件，支持自定义短链域名和统计 | $30/year
-★★★   | [MacUpdate Desktop] | 管理/更新/下载App，跟踪App优惠信息 | $29.99/year
+★★★   | [Spotify] | 著名音乐服务 | $9.99/mon | [#](http://www.cultofmac.com/104703/spotify-is-everything-that-itunes-in-the-cloud-should-be-review/)
+★★★   | [Droplr Pro] | 分享文件，支持自定义短链域名和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
+★★★   | [MacUpdate Desktop] | 管理/更新/下载App，跟踪App优惠信息 | $29.99/year | [#](http://www.macworld.com/article/1143823/macupdate_desktop_5.html)
 
 #### 2.1 不断更新中...
 
@@ -175,7 +173,7 @@
 [Day One]: http://dayoneapp.com/
 [Should I Sleep]: http://www.mrmilk.com.br/
 [CleanMyMac]: http://macpaw.com/cleanmymac/
-[LockScreen2]: https://itunes.apple.com/us/app/lock-screen-2/id445423011?mt=12
+[LockScreen]: https://itunes.apple.com/us/app/lock-screen-2/id445423011?mt=12
 [Moom]: http://manytricks.com/moom/
 [OmmWriter]: http://www.ommwriter.com/
 [Parallels Desktop]: http://www.parallels.com/products/desktop/
