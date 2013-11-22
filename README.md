@@ -7,7 +7,9 @@
 
 ====
 
->注：以下推荐理由中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为此处列表中的Apps都是非常出色的，是金子总会发光～
+>注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为此处列表中的Apps都是非常出色的，
+>  
+>注2：行末的 # 为相关测评文章或同类横向对比文章链接(完善中...)，请自行参考。
 
 ## 1. 付费软件篇 (Mac OS)
 
@@ -16,21 +18,21 @@
 
 #### 1.1 效率工具类
 
-评分   | 名称  | 推荐理由 | 单价
+评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | -----
-★★★★★ | [Alfred] | Top#1，不解释 | £17 
-★★★★★ | [1Password] | 密码管理，用过就离不开了 | $49.99 |
-★★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 
-★★★★★ | [iStat Menus] | 系统状态参数实时查看 | $16
-★★★★★ | [Bartender] | 自定义右上角Menu栏图标 | $15
-★★★★☆ | [Fantastical] | 基于日历的GTD提醒 | $19.99
-★★★★☆ | [Tweetbot] | Twitter客户端 | $19.99
-★★★★☆ | [Sparrow] | Email客户端 | $9.99
-★★★★☆ | [Airmail] | Email客户端新秀 | $1.99
-★★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $5.99
-★★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99
-★★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36
-★★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99
+★★★★★ | [Alfred] | Top#，不解释 | £17 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
+★★★★★ | [1Password] | 密码管理，用过就离不开了 | $49.99 | [#](http://www.macstories.net/reviews/1password-4-for-mac-review/)
+★★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
+★★★★★ | [iStat Menus] | 系统状态参数实时查看 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
+★★★★★ | [Bartender] | 自定义右上角Menu栏图标 | $15 | [#](http://www.macworld.com/article/2013739/mac-gems-bartender-helps-you-take-control-of-menu-bar-icons.html)
+★★★★☆ | [Fantastical] | 基于日历的GTD提醒 | $19.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
+★★★★☆ | [Tweetbot] | Twitter客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
+★★★★☆ | [Sparrow] | Email客户端 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/sparrow-minimal-functional-and-elegant-email/)
+★★★★☆ | [Airmail] | Email客户端新秀，被称为Sparrow终结者 | $1.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
+★★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $5.99 | [#]()
+★★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99 | [#]()
+★★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#]()
+★★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99 | [#]()
 ★★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99
 ★★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99
 ★★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $9.99
