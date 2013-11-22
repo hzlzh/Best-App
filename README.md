@@ -88,7 +88,6 @@
 ★★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28
 ★★★★  | [Sublime Text] | 编辑器 | $70
 ★★★★  | [Intellij IDEA] | 编辑器 | $199
-★★★★  | [TextMate] | 编辑器 | £39
 ★★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
 ★★★★  | [Versions] | SVN 版本控制工具 | $59
 ★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99
@@ -216,7 +215,6 @@
 [Kaleidoscope]: http://www.kaleidoscopeapp.com/‎
 [MAMP PRO]: http://www.mamp.info/
 [Play by Play]: http://playbyplayapp.com/
-[TextMate]: http://macromates.com/
 [Intellij IDEA]: http://www.jetbrains.com/idea/
 [Sublime Text]: http://www.sublimetext.com/‎
 [Short Menu]: http://floschliep.com/short-menu-mac/
