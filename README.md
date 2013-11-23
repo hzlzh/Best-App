@@ -37,6 +37,7 @@
 ★★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | [#](http://www.macworld.com/article/1164136/break_time_reminds_you_to_take_five.html)
 ★★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $9.99 | [#](http://macdownload.informer.com/timing1/)
 ★★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95 | [#](http://www.macworld.com/article/2036159/review-cleanmymac-2-removes-unnecessary-files-to-free-up-storage-space.html)
+★★★★☆ | [Hazel] | 自动化整理工具 | $28 | [#](http://www.macworld.com/article/1165835/hazel_the_standout_file_organizer_gets_even_smarter.html)
 ★★★★☆ | [Things] | 又一个GTD | $49.99 | [#](http://www.lifehack.org/articles/productivity/battle-of-the-mac-and-ios-productivity-apps-omnifocus-vs-things-2-0.html)
 ★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | [#](http://mac.appstorm.net/reviews/productivity-review/head-to-head-text-expander-mac-software-compared/)
 ★★★★☆ | [aText] | 同 TextExpander 快速键入 | $4.99  | [#](http://mac.appstorm.net/reviews/productivity-review/atext-a-text-expansion-contender/)
@@ -233,3 +234,4 @@
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
 [Ember]: https://realmacsoftware.com/ember
 [Coda]: https://panic.com/coda/
+[Hazel]: http://www.noodlesoft.com/
