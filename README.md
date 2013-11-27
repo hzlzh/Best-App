@@ -20,7 +20,7 @@
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★ | [Alfred] | Top#，不解释 | £17 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
+★★★★★ | [Alfred] | Top#1，不解释 | £17 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 ★★★★★ | [1Password] | 密码管理，用过就离不开了 | $49.99 | [#](http://www.macstories.net/reviews/1password-4-for-mac-review/)
 ★★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
 ★★★★★ | [iStat Menus] | 系统状态参数实时查看 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
@@ -52,6 +52,7 @@
 ★★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/clash-of-the-image-editors-acorn-vs-pixelmator/)
 ★★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99 | [#](http://www.macworld.com/article/2039696/review-screenflow-4-a-great-but-quirky-video-capture-and-edit-tool.html)
 ★★★☆  | [OmmWriter] | 静心写作 | $4.99 | [#](http://www.macworld.com/article/1166079/ommwriter_dana_helps_you_focus_when_writing.html)
+★★★☆  | [Byword] | 写博客App，支持MarkDown语法 | $9.99 | [#](http://macreview.com/2013/02/keycard-review/)
 ★★★☆  | [Parallels Desktop] | 虚拟机 | $79.99 | [#](http://www.macworld.com/article/2010694/review-parallels-desktop-8-vs-vmware-fusion-5.html)
 ★★★☆  | [Proxifier] | 单App，规则代理工具 | $39.95 | [#](http://download.cnet.com/Proxifier/3000-2155_4-147076.html)
 ★★★☆  | [Growl] | 消息提醒，原声提醒的鼻祖 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/meet-the-new-growl-improved-functionality-but-at-a-price/)
@@ -235,3 +236,4 @@
 [Ember]: https://realmacsoftware.com/ember
 [Coda]: https://panic.com/coda/
 [Hazel]: http://www.noodlesoft.com/
+[Byword]: http://metaclassy.com/
