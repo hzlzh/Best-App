@@ -82,7 +82,7 @@
 ★★★★★ | [xScope] | 8合一标尺神器 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/xscope-3-big-improvements-to-the-designers-best-friend/)
 ★★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99 | [#](http://mac.appstorm.net/reviews/utilities/easily-compare-file-versions-with-kaleidoscope/)
 ★★★★☆ | [MAMP PRO] | 开发集成环境，本地网站管理 | $59 | [#](http://mac.appstorm.net/reviews/internet-reviews/running-a-local-server-with-mamp/)
-★★★★☆ | [CodeRunner] | 各编程语言快速测试继承环境 | $9.99 | [#](http://brettterpstra.com/2011/10/28/app-review-coderunner/)
+★★★★☆ | [CodeRunner] | 各编程语言快速测试集成环境 | $9.99 | [#](http://brettterpstra.com/2011/10/28/app-review-coderunner/)
 ★★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50 | [#](http://www.99css.com/archives/1272)
 ★★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99 | [#](http://brettterpstra.com/2011/12/02/app-review-livereload/)
 ★★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
