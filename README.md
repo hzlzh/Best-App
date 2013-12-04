@@ -200,23 +200,23 @@
 [Pixelmator]: http://www.pixelmator.com/
 [xScope]: http://xscopeapp.com/
 [plup]: http://www.acrylicapps.com/pulp/
-[Things]: http://culturedcode.com/things/‎
-[Aperture]: http://www.apple.com/hk/en/aperture/‎
+[Things]: http://culturedcode.com/things/
+[Aperture]: http://www.apple.com/hk/en/aperture/
 [jitouch]: http://www.jitouch.com/
-[OmniFocus]: http://www.omnigroup.com/products/omnifocus/‎
+[OmniFocus]: http://www.omnigroup.com/products/omnifocus/
 [Devonthink Pro]: http://www.devontechnologies.com/products/devonthink/overview.html
-[TextExpander]: http://smilesoftware.com/TextExpander/index.html‎
+[TextExpander]: http://smilesoftware.com/TextExpander/index.html
 [CodeBox]: http://www.codeboxapp.com
 [Gemini]: http://macpaw.com/gemini
-[Keycard]: http://www.appuous.com/products/mac/keycard.html‎
-[Geekbench]: http://browser.primatelabs.com/mac-benchmarks‎
+[Keycard]: http://www.appuous.com/products/mac/keycard.html
+[Geekbench]: http://browser.primatelabs.com/mac-benchmarks
 [iPack]: http://ipackapp.com/‎
 [LiveReload]: http://livereload.com/‎
-[Kaleidoscope]: http://www.kaleidoscopeapp.com/‎
+[Kaleidoscope]: http://www.kaleidoscopeapp.com/
 [MAMP PRO]: http://www.mamp.info/
 [Play by Play]: http://playbyplayapp.com/
 [Intellij IDEA]: http://www.jetbrains.com/idea/
-[Sublime Text]: http://www.sublimetext.com/‎
+[Sublime Text]: http://www.sublimetext.com/
 [Short Menu]: http://floschliep.com/short-menu-mac/
 [Picatext]: http://www.picatext.com/
 [BetterSnap Tool]: http://blog.boastr.net/
