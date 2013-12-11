@@ -86,9 +86,9 @@
 ★★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50 | [#](http://www.99css.com/archives/1272)
 ★★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99 | [#](http://brettterpstra.com/2011/12/02/app-review-livereload/)
 ★★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
-★★★★  | [Sublime Text] | 编辑器 | $70 | N/A
-★★★★  | [Intellij IDEA] | 编辑器 | $199 | N/A
-★★★★  | [Coda] | 编辑器 | $74.99 | N/A
+★★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
+★★★★  | [Intellij IDEA] | 编辑器 | $199 | [#](http://development-software.findthebest.com/l/19/IntelliJ-IDEA)
+★★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
 ★★★★  | [Versions] | SVN 版本控制工具 | $59 | [#](http://stackoverflow.com/questions/899/best-subversion-client-for-mac-os)
 ★★★★  | [Cornerstone] | 同样是 SVN 管理工具 | $59 | [#](http://srced.com/2011/02/cornerstone-2-review-the-best-version-control-system/)
 ★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/colorschemer-studio-2-instant-color-schemes/)
