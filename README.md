@@ -90,6 +90,7 @@
 ★★★★  | [Intellij IDEA] | 编辑器 | $199 | N/A
 ★★★★  | [Coda] | 编辑器 | $74.99 | N/A
 ★★★★  | [Versions] | SVN 版本控制工具 | $59 | [#](http://stackoverflow.com/questions/899/best-subversion-client-for-mac-os)
+★★★★  | [Cornerstone] | 同样是 SVN 管理工具 | $59 | [#](http://srced.com/2011/02/cornerstone-2-review-the-best-version-control-system/)
 ★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/colorschemer-studio-2-instant-color-schemes/)
 ★★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99 | [#](http://mac.appstorm.net/reviews/productivity-review/keep-your-digital-inspiration-organized-with-sparkbox/)
 ★★★   | [Frank DeLoupe] | 精美拾色器、可PhotoShop联动 | $0.99 | [#](http://mac.appstorm.net/reviews/graphics/frank-deloupe-your-color-picking-friend/)
@@ -237,3 +238,4 @@
 [Coda]: https://panic.com/coda/
 [Hazel]: http://www.noodlesoft.com/
 [Byword]: http://metaclassy.com/
+[Cornerstone]: https://www.zennaware.com/cornerstone/
