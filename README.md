@@ -102,7 +102,7 @@
 
 #### 1.3 服务订阅类
 
-评分   | 名称  | 推荐理由 | 单价 | 测评
+评分   | 名称  | 推荐理由 | 单价 | 详细
 ----- | ----- | ------ | ----- | -----
 ★★★☆  | [MacUpdate Desktop] | 管理/更新/下载App，跟踪App优惠信息 | $29.99/year | [#](http://www.macworld.com/article/1143823/macupdate_desktop_5.html)  
 ★★★   | [Spotify Pro] | 音乐服务 | $9.99/month | [#](http://www.cultofmac.com/104703/spotify-is-everything-that-itunes-in-the-cloud-should-be-review/)
