@@ -9,7 +9,8 @@
 
 >注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为此处列表中的Apps都是非常出色的，
 >  
->注2：行末的 # 为相关测评文章或同类横向对比文章链接(完善中...)，请自行参考。
+>注2：行末的 # 为相关测评文章或同类横向对比文章链接(完善中...)，请自行参考。  
+>注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
 ## 1. 付费软件篇 (Mac OS)
 
@@ -104,10 +105,15 @@
 评分   | 名称  | 推荐理由 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
 ★★★☆  | [MacUpdate Desktop] | 管理/更新/下载App，跟踪App优惠信息 | $29.99/year | [#](http://www.macworld.com/article/1143823/macupdate_desktop_5.html)  
-★★★   | [Spotify Pro] | 著名音乐服务 | $9.99/mon | [#](http://www.cultofmac.com/104703/spotify-is-everything-that-itunes-in-the-cloud-should-be-review/)
+★★★   | [Spotify Pro] | 音乐服务 | $9.99/month | [#](http://www.cultofmac.com/104703/spotify-is-everything-that-itunes-in-the-cloud-should-be-review/)
+★★★   | [Rdio Pro] | 音乐服务 | $9.99/month | [#](http://www.rdio.com/features/)
 ★★★   | [iTunes Match] | iTunes 音乐服务 | $24.99/year | [#](http://www.maclife.com/article/reviews/itunes_match_review)
+★★★   | [Google Music] | Google 音乐服务 | $9.99/year | [#](https://play.google.com/about/music/)
 ★★★   | [Evernote Pro] | 笔记服务 | $45/year | [#](http://www.pcworld.com/article/2033479/become-an-evernote-power-user-10-must-know-tips.html)
+★★★   | [Github Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features‎)
+★★★   | [Dropbox Pro] | 云存储/分享服务 | $9.99/month | [#](https://www.dropbox.com/upgrade)
 ★★★   | [Droplr Pro] | 分享文件，支持自定义短链域名和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
+★★★   | [CloudApp Pro] | 云存储/分享服务 | $45/year | [#](http://store.getcloudapp.com/)
 
 #### 2.1 不断更新中...
 
@@ -233,7 +239,7 @@
 [Ulysses]: http://www.ulyssesapp.com/
 [OmniGraffle]: http://www.omnigroup.com/omnigraffle
 [Promotee]: http://www.netwalkapps.com/app/promotee
-[Spotify Pro]: https://www.spotify.com/
+[Spotify Pro]: https://www.spotify.com/	
 [Droplr Pro]: https://droplr.com/
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
@@ -245,3 +251,8 @@
 [Evernote Pro]: https://evernote.com/
 [iTunes Match]: http://www.apple.com/itunes/itunes-match/
 [Textastic]: http://www.textasticapp.com/
+[Dropbox Pro]: https://www.dropbox.com/pricing
+[Github Pro]: https://github.com/features
+[CloudApp Pro]: http://store.getcloudapp.com/
+[Rdio Pro]: http://www.rdio.com/
+[Google Music]: https://play.google.com/about/music/
