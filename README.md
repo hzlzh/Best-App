@@ -102,9 +102,11 @@
 
 评分   | 名称  | 推荐理由 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★   | [Spotify] | 著名音乐服务 | $9.99/mon | [#](http://www.cultofmac.com/104703/spotify-is-everything-that-itunes-in-the-cloud-should-be-review/)
+★★★☆  | [MacUpdate Desktop] | 管理/更新/下载App，跟踪App优惠信息 | $29.99/year | [#](http://www.macworld.com/article/1143823/macupdate_desktop_5.html)  
+★★★   | [Spotify Pro] | 著名音乐服务 | $9.99/mon | [#](http://www.cultofmac.com/104703/spotify-is-everything-that-itunes-in-the-cloud-should-be-review/)
+★★★   | [iTunes Match] | iTunes 音乐服务 | $24.99/year | [#](http://www.maclife.com/article/reviews/itunes_match_review)
+★★★   | [Evernote Pro] | 笔记服务 | $45/year | [#](http://www.pcworld.com/article/2033479/become-an-evernote-power-user-10-must-know-tips.html)
 ★★★   | [Droplr Pro] | 分享文件，支持自定义短链域名和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
-★★★   | [MacUpdate Desktop] | 管理/更新/下载App，跟踪App优惠信息 | $29.99/year | [#](http://www.macworld.com/article/1143823/macupdate_desktop_5.html)
 
 #### 2.1 不断更新中...
 
@@ -230,7 +232,7 @@
 [Ulysses]: http://www.ulyssesapp.com/
 [OmniGraffle]: http://www.omnigroup.com/omnigraffle
 [Promotee]: http://www.netwalkapps.com/app/promotee
-[Spotify]: https://www.spotify.com/
+[Spotify Pro]: https://www.spotify.com/
 [Droplr Pro]: https://droplr.com/
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
@@ -239,3 +241,5 @@
 [Hazel]: http://www.noodlesoft.com/
 [Byword]: http://metaclassy.com/
 [Cornerstone]: https://www.zennaware.com/cornerstone/
+[Evernote Pro]: https://evernote.com/
+[iTunes Match]: http://www.apple.com/itunes/itunes-match/
