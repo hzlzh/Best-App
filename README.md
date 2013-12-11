@@ -89,6 +89,7 @@
 ★★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
 ★★★★  | [Intellij IDEA] | 编辑器 | $199 | [#](http://development-software.findthebest.com/l/19/IntelliJ-IDEA)
 ★★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
+★★★★  | [Textastic] | 编辑器，iOS 同步/友好 | $8.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/textastic-the-ios-code-editor-to-beat-now-on-the-mac/)
 ★★★★  | [Versions] | SVN 版本控制工具 | $59 | [#](http://stackoverflow.com/questions/899/best-subversion-client-for-mac-os)
 ★★★★  | [Cornerstone] | 同样是 SVN 管理工具 | $59 | [#](http://srced.com/2011/02/cornerstone-2-review-the-best-version-control-system/)
 ★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/colorschemer-studio-2-instant-color-schemes/)
@@ -243,3 +244,4 @@
 [Cornerstone]: https://www.zennaware.com/cornerstone/
 [Evernote Pro]: https://evernote.com/
 [iTunes Match]: http://www.apple.com/itunes/itunes-match/
+[Textastic]: http://www.textasticapp.com/
