@@ -26,9 +26,9 @@
 ★★★★  | [Camera+] | 替代原生拍照软件 | $1.99 | [#](http://iphone.appstorm.net/reviews/graphics/camera-4-an-almost-perfect-camera-app/)
 ★★★★  | [1Password] | 密码管理&同步 | $17.99 | [#](http://mac.appstorm.net/reviews/security/1password-4-is-hands-down-the-best-password-app/)
 ★★★★  | [Tweetbot] | Twitter 客户端 | $2.99 | [#](http://www.macstories.net/reviews/tweetbot-3-review-human-after-all/)
-★★★★  | [iTranslate Voice] | Twitter 客户端 | $4.99 | [#](http://www.idownloadblog.com/2013/07/03/itranslate-voice-2/)
+★★★★  | [iTranslate Voice] | 翻译利器 | $4.99 | [#](http://www.idownloadblog.com/2013/07/03/itranslate-voice-2/)
 ★★★★  | [Launch Center Pro] | 快速启动&书签 | $17 | [#](http://www.macstories.net/reviews/launch-center-pro-2-0-review/)
-★★★★  | [Clear] | Twitter 客户端 | $4.99 | [#](http://www.macworld.com/article/2048920/clear-for-ios-7-review-slick-to-do-list-app-gets-bigger-slicker.html)
+★★★★  | [Clear+] | 轻量级 To-Do List | $4.99 | [#](http://www.macworld.com/article/2048920/clear-for-ios-7-review-slick-to-do-list-app-gets-bigger-slicker.html)
 ★★★   | [Omnifocus] | 还是那个GTD | $19.99 | [#](http://www.imore.com/omnifocus-2-iphone-review-completely-redesigned-ios-7-easier-use-ever)
 ★★★   | [Sleep Cycle] | 智能闹钟 | $1.99 | [#](http://mymorningroutine.com/sleep-cycle-review/)
 ★★★   | [Afterlight] | 照片处理软件 | $0.99 | [#](http://ipad.appstorm.net/reviews/photography-reviews/afterlight-simple-subtle-photo-editing-brilliance/)
@@ -145,7 +145,7 @@ Released under [MIT] LICENSE
 [iTranslate Voice]: http://itranslatevoice.com/
 [Launch Center Pro]: http://contrast.co/launch-center-pro/
 [Moves]: http://www.moves-app.com/
-[Clear]: http://www.realmacsoftware.com/clear
+[Clear+]: http://www.realmacsoftware.com/clear
 [Omnifocus]: http://www.omnigroup.com/products/omnifocus-iphone/
 [TextExpander]: http://ipad.appstorm.net/reviews/productivity/text-expander-a-staggeringly-useful-time-saver/
 [Pastebot]: http://tapbots.com/software/pastebot/
