@@ -1,15 +1,23 @@
-# Best App
+Best App v1.2
+----
+_发现 App 之美_
 
-*经常会有朋友询问有哪些 Mac OS 下的 App 或 服务 值得付费使用，  
-于是制作了这个 List 页面，旨在收集和推荐出色的 App 和 服务*
+*经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，   
+于是创建了这个 List 项目，旨在收集和推荐出色的 App 和 服务*
 
 欢迎大家推荐好的 App 添加，请`Fork`、`Star`或在 [收集&提交页] 中提交 :)
 
+## 总目录
+
+1. [付费 Apps 推荐列表(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/README.md)
+2. [付费 Apps 推荐列表(iOS & Cydia)](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md)
+3. 免费 Apps 推荐(Mac OS) - 整理中...
+4. 免费 Apps 推荐列表(iOS & Cydia) - 整理中...
+
 ====
 
->注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为此处列表中的Apps都是非常出色的，
->  
->注2：行末的 # 为相关测评文章或同类横向对比文章链接(完善中...)，请自行参考。  
+>注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。  
+>注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
 ## 1. 付费软件篇 (Mac OS)
@@ -148,7 +156,7 @@
  
 评分   | 推荐度 
 ----- | -----
-★★★★★ | 必装神器
+★★★   | 必装神器
 ★★★★☆ | 十分出色
 ★★★★  | 值得购入
 ★★★☆  | 亮点突出
@@ -156,20 +164,27 @@
 
 *注1：排名怎么可能不分先后*  
 *注2：此列表客观公正，绝无广告或推广*  
-*注3：此列表维护有个人感情色彩，如遇不适者，欢迎`Fork`一份自己的*
+*注3：此列表维护有个人感情色彩，如遇不适者，欢迎`Fork`一份进行修改*
 
 #### 支持正版：
 
-软件开发者和作家一样，有的只是代码和文字，支持正版，建立一个良好的软件生态环境。
+软件开发者和作家一样，有的只是代码和文字。  
+在条件允许的情况下，请支持正版，有了良好的生态环境，App 开发者们会做出更多好玩的东西。
 
 #### 感谢所有参与推荐的朋友
 
 本推荐 List 会不断更新维护，会有更多分类和利器加入推荐。  
-感谢在此处\[[收集&提交页]\]提交的朋友们
+感谢此处\[[收集&提交页]\]参与提交和讨论的朋友们
 
-[issue]: https://github.com/hzlzh/Best-App/issues/1
-[收集&提交页]: https://github.com/hzlzh/Best-App/issues/1
-[反馈]: https://github.com/hzlzh/Best-App/issues/new
+[<< 查看总目录]
+
+#### License
+
+Released under [MIT] LICENSE
+
+[issue]: https://github.com/hzlzh/Best-App/issues
+[收集&提交页]: https://github.com/hzlzh/Best-App/issues
+[反馈]: https://github.com/hzlzh/Best-App/issues
 
 [Alfred]: https://www.macupdate.com/app/mac/34344/alfred
 [1Password]: https://agilebits.com/onepassword/mac
