@@ -92,7 +92,7 @@ _发现 App 之美_
 ★★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99 | [#](http://mac.appstorm.net/reviews/utilities/easily-compare-file-versions-with-kaleidoscope/)
 ★★★★☆ | [MAMP PRO] | 开发集成环境，本地网站管理 | $59 | [#](http://mac.appstorm.net/reviews/internet-reviews/running-a-local-server-with-mamp/)
 ★★★★☆ | [CodeRunner] | 各编程语言快速测试集成环境 | $9.99 | [#](http://brettterpstra.com/2011/10/28/app-review-coderunner/)
-★★★★☆ | [Charles] | 抓包代理调试工具、类Findler | $r50 | [#](http://www.99css.com/archives/1272)
+★★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50 | [#](http://www.99css.com/archives/1272)
 ★★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99 | [#](http://brettterpstra.com/2011/12/02/app-review-livereload/)
 ★★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
 ★★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
@@ -156,7 +156,7 @@ _发现 App 之美_
  
 评分   | 推荐度 
 ----- | -----
-★★★   | 必装神器
+★★★★★ | 必装神器
 ★★★★☆ | 十分出色
 ★★★★  | 值得购入
 ★★★☆  | 亮点突出
