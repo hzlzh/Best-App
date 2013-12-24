@@ -82,6 +82,7 @@ _发现 App 之美_
 ★★★   | [Promotee] | Apps官网素材，设备更新还算即时 | $4.99 | [#](http://5key.net/post/promotee-for-mac/)
 ★★★   | [Instacast] | 出色的 Podcast 应用 | $20 | [#](http://aoxuis.me/posts/2013/06/18/instacast-for-mac)
 ★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/picatext-an-attempt-at-ocr-on-the-mac/)
+★★★   | [RescueTime] | 时间管理跟踪分析 | $72/y | [#](http://mac.appstorm.net/reviews/office-review/rescuetime-what-have-you-been-up-to/)
 
 #### 1.2 开发类
 
@@ -273,3 +274,4 @@ Released under [MIT] LICENSE
 [CloudApp Pro]: http://store.getcloudapp.com/
 [Rdio Pro]: http://www.rdio.com/
 [Google Music]: https://play.google.com/about/music/
+[RescueTime]: https://www.rescuetime.com/plans
