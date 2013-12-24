@@ -38,7 +38,7 @@
 ★★★   | [Afterlight] | 照片处理软件 | $0.99 | [#](http://ipad.appstorm.net/reviews/photography-reviews/afterlight-simple-subtle-photo-editing-brilliance/)
 ★★★   | [Byword] | Markdown写作 | $4.99 | [#](http://iphone.appstorm.net/reviews/productivity/byword-2-1-beautiful-markdown-for-ios-7/)
 ★★★   | [Day One] | 日记软件 | $4.99 | [#](http://www.macstories.net/tag/day-one/)
-★★★   | [Solar Walk] | 银河系模型 | $2.99 | [#](http://reviews.cnet.com/8301-19512_7-57539611-233/coolest-app-ive-seen-all-month-solar-walk/)
+★★★   | [Solar Walk] | 太阳系模型 | $2.99 | [#](http://reviews.cnet.com/8301-19512_7-57539611-233/coolest-app-ive-seen-all-month-solar-walk/)
 ★★★   | [OmniGraffle] | 制图制表 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/omnigraffle-6-a-huge-leap-for-the-mac-diagraming-app-2/)
 ★★★   | [DailyCost] | 记账软件 | $1.99 | [#](http://iphone.appstorm.net/reviews/business-finance/dailycost-tracking-your-spending-just-got-beautiful/)
 ★★★   | [Splashtop] | 用iOS远程控制计算机 | $9.99 | [#](http://www.macworld.com/article/2030876/review-splashtop-2-a-free-innovative-remote-desktop-mac-ios-app-with-issues.html)
