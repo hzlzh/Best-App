@@ -23,8 +23,8 @@
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | 暂无 | 欢迎推荐 iOS 五星付费 App | $0 | 
-★★★★☆  | 暂无 | 欢迎推荐 iOS 四星半付费 App | $0 |
+★★★★★  | 暂无 ([评级说明](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 五星付费 App  |  | 
+★★★★☆  | 暂无 ([评级说明](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 四星半付费 App |  |
 ★★★★  | [Camera+] | 替代原生拍照软件 | $1.99 | [#](http://iphone.appstorm.net/reviews/graphics/camera-4-an-almost-perfect-camera-app/)
 ★★★★  | [1Password] | 密码管理&同步 | $17.99 | [#](http://mac.appstorm.net/reviews/security/1password-4-is-hands-down-the-best-password-app/)
 ★★★★  | [Tweetbot] | Twitter 客户端 | $2.99 | [#](http://www.macstories.net/reviews/tweetbot-3-review-human-after-all/)
@@ -37,6 +37,7 @@
 ★★★   | [Moves] | 健康计步类| $2.99 | [#](http://www.trustedreviews.com/moves_Mobile-App_review)
 ★★★   | [TextExpander] | 快速输入/扩展增强工具 | $4.99 | [#](http://www.macstories.net/reviews/textexpander-touch-2-0-brings-fill-in-snippets-formatted-text-to-ios/)
 ★★★   | [Pastebot] | 云剪切板 | $3.99 | [#](http://www.macstories.net/reviews/pastebot-iphone-review/)
+★★★   | [Afterlight] | 照片处理软件 | $0.99 | [#](http://ipad.appstorm.net/reviews/photography-reviews/afterlight-simple-subtle-photo-editing-brilliance/)
 ★★★   | [Byword] | Markdown写作 | $4.99 | [#](http://iphone.appstorm.net/reviews/productivity/byword-2-1-beautiful-markdown-for-ios-7/)
 ★★★   | [Day One] | 日记软件 | $4.99 | [#](http://www.macstories.net/tag/day-one/)
 ★★★   | [Solar Walk] | 银河系模型 | $2.99 | [#](http://reviews.cnet.com/8301-19512_7-57539611-233/coolest-app-ive-seen-all-month-solar-walk/)
