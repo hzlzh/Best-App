@@ -28,6 +28,7 @@
 ★★★★  | [Camera+] | 替代原生拍照软件 | $1.99 | [#](http://iphone.appstorm.net/reviews/graphics/camera-4-an-almost-perfect-camera-app/)
 ★★★★  | [1Password] | 密码管理&同步 | $17.99 | [#](http://mac.appstorm.net/reviews/security/1password-4-is-hands-down-the-best-password-app/)
 ★★★★  | [Tweetbot] | Twitter 客户端 | $2.99 | [#](http://www.macstories.net/reviews/tweetbot-3-review-human-after-all/)
+★★★★  | [Weico Pro] | 新浪微博第三方客户端 | ￥6 | [#](http://sspai.com/24186)
 ★★★★  | [iTranslate Voice] | 翻译利器 | $4.99 | [#](http://www.idownloadblog.com/2013/07/03/itranslate-voice-2/)
 ★★★★  | [Launch Center Pro] | 快速启动&书签 | $4.99 | [#](http://www.macstories.net/reviews/launch-center-pro-2-0-review/)
 ★★★★  | [Clear+] | 轻量级 To-Do List | $4.99 | [#](http://www.macworld.com/article/2048920/clear-for-ios-7-review-slick-to-do-list-app-gets-bigger-slicker.html)
@@ -41,6 +42,7 @@
 ★★★   | [Day One] | 日记软件 | $4.99 | [#](http://www.macstories.net/tag/day-one/)
 ★★★   | [Solar Walk] | 银河系模型 | $2.99 | [#](http://reviews.cnet.com/8301-19512_7-57539611-233/coolest-app-ive-seen-all-month-solar-walk/)
 ★★★   | [OmniGraffle] | 制图制表 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/omnigraffle-6-a-huge-leap-for-the-mac-diagraming-app-2/)
+★★★   | [随手记专业版] | 记账软件 | ￥6 | [#](http://digi.tech.qq.com/a/20111107/000548_1.htm)
 ★★★   | [DailyCost] | 记账软件 | $1.99 | [#](http://iphone.appstorm.net/reviews/business-finance/dailycost-tracking-your-spending-just-got-beautiful/)
 ★★★   | [Splashtop] | 用iOS远程控制计算机 | $9.99 | [#](http://www.macworld.com/article/2030876/review-splashtop-2-a-free-innovative-remote-desktop-mac-ios-app-with-issues.html)
 ★★★   | [Things] | 还是GTD | $9.99 | [#](http://www.idownloadblog.com/2013/10/15/todo-7-review/)
@@ -186,5 +188,7 @@ Released under [MIT] LICENSE
 [Live Cams Pro]: http://eggmantechnologies.com/apps/livecamspro/
 [FileBrowser]: http://www.stratospherix.com/products/filebrowser
 [TextGrabber]: http://www.abbyy.com/textgrabber/
+[Weico Pro]: http://www.weico.com/
 [欧路词典 Pro]: http://www.eudic.net/
+[随手记专业版]: http://www.feidee.com/money/
 [Mercury Browser Pro]: http://mercury-browser.com/
