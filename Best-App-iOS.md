@@ -37,7 +37,6 @@
 ★★★   | [Moves] | 健康计步类| $2.99 | [#](http://www.trustedreviews.com/moves_Mobile-App_review)
 ★★★   | [TextExpander] | 快速输入/扩展增强工具 | $4.99 | [#](http://www.macstories.net/reviews/textexpander-touch-2-0-brings-fill-in-snippets-formatted-text-to-ios/)
 ★★★   | [Pastebot] | 云剪切板 | $3.99 | [#](http://www.macstories.net/reviews/pastebot-iphone-review/)
-★★★   | [Afterlight] | 照片处理软件 | $0.99 | [#](http://ipad.appstorm.net/reviews/photography-reviews/afterlight-simple-subtle-photo-editing-brilliance/)
 ★★★   | [Byword] | Markdown写作 | $4.99 | [#](http://iphone.appstorm.net/reviews/productivity/byword-2-1-beautiful-markdown-for-ios-7/)
 ★★★   | [Day One] | 日记软件 | $4.99 | [#](http://www.macstories.net/tag/day-one/)
 ★★★   | [Solar Walk] | 银河系模型 | $2.99 | [#](http://reviews.cnet.com/8301-19512_7-57539611-233/coolest-app-ive-seen-all-month-solar-walk/)
