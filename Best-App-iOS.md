@@ -66,7 +66,9 @@
 ★★★   | [Mobile Mouse] | 用手机做为鼠标或触控板 | $1.99 | [#](http://www.knowyourmobile.com/apps/10288/mobile-mouse-ipad-review)
 ★★★   | [Live Cams Pro] | 使用查看全球数以千计的公共摄像头 | $3.99 | [#](http://forums.imore.com/ios-apps-games/258748-world-live-cams-pro-surveillance-camera-viewer-app.html)
 ★★★   | [FileBrowser] | 查看远程电脑的文件 | $4.99 | [#](http://www.macworld.com/product/462870/filebrowser-access-files-on-remote-computers.html)
-
+★★★   | [TextGrabber] | OCR图片文字识别(图转字)工具 | $5.99 | [#](http://www.iphonejd.com/iphone_jd/2013/04/review-abbyy-textgrabber-translator.html)
+★★★   | [欧路词典 Pro] | 翻译软件，支持离线词库，屏幕取词 | ￥18 | [#](http://www.eudic.net/eudic/mac_dictionary.aspx)
+★★★   | [Mercury Browser Pro] | 浏览器 | $0.99 | [#](http://www.macworld.com/product/377687/mercury-web-browser-pro-the-most-advanced-brow.html)
 
 ## 2. 付费 Cydia 插件篇
 
@@ -182,3 +184,6 @@ Released under [MIT] LICENSE
 [Mobile Mouse]: http://mobilemouse.com/
 [Live Cams Pro]: http://eggmantechnologies.com/apps/livecamspro/
 [FileBrowser]: http://www.stratospherix.com/products/filebrowser
+[TextGrabber]: http://www.abbyy.com/textgrabber/
+[欧路词典 Pro]: http://www.eudic.net/
+[Mercury Browser Pro]: http://mercury-browser.com/
