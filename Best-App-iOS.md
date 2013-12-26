@@ -51,7 +51,7 @@
 ★★★   | [Reeder] | RSS阅读器 | $4.99 | [#](http://www.macstories.net/reviews/reeder-2-review-2/)
 ★★★   | [Notability] | 日记软件 | $2.99 | [#](http://www.laptopmag.com/reviews/note-taking-apps/notability.aspx)
 ★★★   | [Gneo] | GTD:To-do类 | $9.99 | [#](http://appadvice.com/review/quickadvice-gneo)
-★★★   | [Mextures] | Markdown写作 | $1.99 | [#](http://reviews.cnet.com/software/mextures-ios/4505-3513_7-35782639.html)
+★★★   | [Mextures] | 照片效果处理软件 | $1.99 | [#](http://reviews.cnet.com/software/mextures-ios/4505-3513_7-35782639.html)
 ★★★   | [Vesper] | 收集想法笔记 | $4.99 | [#](http://www.macstories.net/reviews/vesper-review-collect-your-thoughts/)
 ★★★   | [TeeVee] | 追美剧、TV Show等 | $1.99 | [#](http://www.imore.com/teevee-2-iphone-can-track-your-favorite-shows-and-alert-you-when-new-episode-airing)
 ★★★   | [Air Display] | 用iOS设备做为扩展屏 | $19.99 | [#](http://www.148apps.com/reviews/air-display-2-review/)
