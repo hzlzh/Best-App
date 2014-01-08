@@ -83,6 +83,7 @@ _发现 App 之美_
 ★★★   | [Instacast] | 出色的 Podcast 应用 | $20 | [#](http://aoxuis.me/posts/2013/06/18/instacast-for-mac)
 ★★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/picatext-an-attempt-at-ocr-on-the-mac/)
 ★★★   | [RescueTime] | 时间管理跟踪分析 | $72/y | [#](http://mac.appstorm.net/reviews/office-review/rescuetime-what-have-you-been-up-to/)
+★★★   | [Instashare] | 基于 蓝牙/WiFi 文件互传(iOS/Mac)  | $2.99 | [#](http://www.imore.com/instashare-iphone-and-ipad-review)
 
 #### 1.2 开发类
 
@@ -275,3 +276,4 @@ Released under [MIT] LICENSE
 [Rdio Pro]: http://www.rdio.com/
 [Google Music]: https://play.google.com/about/music/
 [RescueTime]: https://www.rescuetime.com/plans
+[Instashare]: http://instashareapp.com/
