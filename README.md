@@ -51,6 +51,7 @@ _发现 App 之美_
 ★★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | [#](http://mac.appstorm.net/reviews/productivity-review/head-to-head-text-expander-mac-software-compared/)
 ★★★★☆ | [aText] | 同 TextExpander 快速键入 | $4.99  | [#](http://mac.appstorm.net/reviews/productivity-review/atext-a-text-expansion-contender/)
 ★★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | [#](http://www.macworld.com/article/1161735/review_devonthink_pro_office_2_2_1_helps_manage_your_data.html)
+★★★★☆ | [Writer Pro] | 写作利器，iA Writer的续作 | $19.99 | [#](http://mac.appstorm.net/reviews/office-review/writer-pro-is-an-exercise-in-disappointment/)
 ★★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1,79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
 ★★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95 | [#](http://www.macworld.com/article/2017161/mac-gems-little-snitch-snitches-on-misbehaving-apps.html)
 ★★★★  | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99 | [#](http://www.macworld.com/article/1136253/omnigrafflepro5.html)
@@ -118,7 +119,7 @@ _发现 App 之美_
 ★★★   | [Spotify Pro] | 音乐服务 | $9.99/month | [#](http://www.cultofmac.com/104703/spotify-is-everything-that-itunes-in-the-cloud-should-be-review/)
 ★★★   | [Rdio Pro] | 音乐服务 | $9.99/month | [#](http://www.rdio.com/features/)
 ★★★   | [iTunes Match] | iTunes 音乐服务 | $24.99/year | [#](http://www.maclife.com/article/reviews/itunes_match_review)
-★★★   | [Google Music] | Google 音乐服务 | $9.99/year | [#](https://play.google.com/about/music/)
+★★★   | [Google Music] | Google 音乐服务 | $9.99/month | [#](https://play.google.com/about/music/)
 ★★★   | [Evernote Pro] | 笔记服务 | $45/year | [#](http://www.pcworld.com/article/2033479/become-an-evernote-power-user-10-must-know-tips.html)
 ★★★   | [Github Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features‎)
 ★★★   | [Dropbox Pro] | 云存储/分享服务 | $9.99/month | [#](https://www.dropbox.com/upgrade)
@@ -277,3 +278,4 @@ Released under [MIT] LICENSE
 [Google Music]: https://play.google.com/about/music/
 [RescueTime]: https://www.rescuetime.com/plans
 [Instashare]: http://instashareapp.com/
+[Writer Pro]: http://writer.pro/
