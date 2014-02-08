@@ -32,9 +32,11 @@
 ★★★★  | [iTranslate Voice] | 翻译利器 | $4.99 | [#](http://www.idownloadblog.com/2013/07/03/itranslate-voice-2/)
 ★★★★  | [Launch Center Pro] | 快速启动&书签 | $4.99 | [#](http://www.macstories.net/reviews/launch-center-pro-2-0-review/)
 ★★★★  | [Clear+] | 轻量级 To-Do List | $4.99 | [#](http://www.macworld.com/article/2048920/clear-for-ios-7-review-slick-to-do-list-app-gets-bigger-slicker.html)
+★★★☆  | [Todo] | 重量级 To-Do GTD | $4.99 | [#](http://www.imore.com/todo-7-ios-review-brand-new-look-and-great-new-experience)
 ★★★☆  | [Reeder] | RSS阅读器 | $4.99 | [#](http://www.macstories.net/reviews/reeder-2-review-2/)
 ★★★☆  | [Omnifocus] | 还是那个GTD | $19.99 | [#](http://www.imore.com/omnifocus-2-iphone-review-completely-redesigned-ios-7-easier-use-ever)
 ★★★☆  | [Fantastical] | 日历和提醒工具 | $3.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
+★★★☆  | [GoodReader] | 日历和提醒工具 | $4.99 | [#](http://www.macworld.com/product/460078/goodreader-for-ipad.html)
 ★★★   | [Sleep Cycle] | 智能闹钟 | $1.99 | [#](http://mymorningroutine.com/sleep-cycle-review/)
 ★★★   | [Afterlight] | 照片处理软件 | $0.99 | [#](http://ipad.appstorm.net/reviews/photography-reviews/afterlight-simple-subtle-photo-editing-brilliance/)
 ★★★   | [Moves] | 健康计步类| $2.99 | [#](http://www.trustedreviews.com/moves_Mobile-App_review)
@@ -73,6 +75,7 @@
 ★★★   | [TextGrabber] | OCR图片文字识别(图转字)工具 | $5.99 | [#](http://www.iphonejd.com/iphone_jd/2013/04/review-abbyy-textgrabber-translator.html)
 ★★★   | [欧路词典 Pro] | 翻译软件，支持离线词库，屏幕取词 | ￥18 | [#](http://www.eudic.net/eudic/mac_dictionary.aspx)
 ★★★   | [Mercury Browser Pro] | 浏览器 | $0.99 | [#](http://www.macworld.com/product/377687/mercury-web-browser-pro-the-most-advanced-brow.html)
+★★★   | [Air Video] | 移动端播放电脑上的视频流，无需拷贝 | $2.99 | [#](http://www.tuaw.com/2013/11/05/how-a-pc-and-air-video-hd-turned-my-ipad-into-the-ultimate-enter/)
 
 ## 2. 付费 Cydia 插件篇
 
@@ -194,3 +197,6 @@ Released under [MIT] LICENSE
 [欧路词典 Pro]: http://www.eudic.net/
 [随手记专业版]: http://www.feidee.com/money/
 [Mercury Browser Pro]: http://mercury-browser.com/
+[Todo]: http://www.appigo.com/
+[Air Video]: http://inmethod.com/airvideo/index.html
+[GoodReader]: http://www.goodreader.com/goodreader.html
