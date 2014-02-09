@@ -36,7 +36,7 @@
 ★★★☆  | [Reeder] | RSS阅读器 | $4.99 | [#](http://www.macstories.net/reviews/reeder-2-review-2/)
 ★★★☆  | [Omnifocus] | 还是那个GTD | $19.99 | [#](http://www.imore.com/omnifocus-2-iphone-review-completely-redesigned-ios-7-easier-use-ever)
 ★★★☆  | [Fantastical] | 日历和提醒工具 | $3.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
-★★★☆  | [GoodReader] | 日历和提醒工具 | $4.99 | [#](http://www.macworld.com/product/460078/goodreader-for-ipad.html)
+★★★☆  | [GoodReader] | 文档管理、阅读工具 | $4.99 | [#](http://www.macworld.com/product/460078/goodreader-for-ipad.html)
 ★★★   | [Sleep Cycle] | 智能闹钟 | $1.99 | [#](http://mymorningroutine.com/sleep-cycle-review/)
 ★★★   | [Afterlight] | 照片处理软件 | $0.99 | [#](http://ipad.appstorm.net/reviews/photography-reviews/afterlight-simple-subtle-photo-editing-brilliance/)
 ★★★   | [Moves] | 健康计步类| $2.99 | [#](http://www.trustedreviews.com/moves_Mobile-App_review)
