@@ -30,7 +30,7 @@ _发现 App 之美_
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-<span name="Alfred">★★★★★</span> | [Alfred] | Top#1，不解释 | £17 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
+<a name="Alfred"></a>★★★★★ | [Alfred] | Top#1，不解释 | £17 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 [★★★★★](#1Password) | [1Password] | 密码管理，用过就离不开了 | $49.99 | [#](http://www.macstories.net/reviews/1password-4-for-mac-review/)
 [★★★★★](#Moom) | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
 [★★★★★](#iStat-Menus) | [iStat Menus] | 系统状态参数实时查看 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
