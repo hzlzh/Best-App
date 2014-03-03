@@ -1,9 +1,9 @@
 
-Best App v1.2
+Best App v1.3
 ----
 _发现 App 之美_
 
-*经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，   
+*经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，
 于是创建了这个 List 项目，旨在收集和推荐出色的 App 和 服务*
 
 欢迎大家推荐好的 App 添加，请`Fork`、`Star`或在 [收集&提交页] 中提交 :)
@@ -18,13 +18,13 @@ _发现 App 之美_
 
 ====
 
->注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。  
->注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
+>注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。
+>注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
 ## 1. 付费软件篇 (Mac OS)
 
-`Mac OS`平台下有众多优秀的软件工具。  
+`Mac OS`平台下有众多优秀的软件工具。
 下面先就付费软件做一个推荐列表，希望供大家购买付费App时参考。
 
 #### 1.1 效率工具类
@@ -103,6 +103,7 @@ _发现 App 之美_
 <a href="#CodeKit" name="CodeKit">★</a>★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
 <a href="#Sublime-Text" name="Sublime-Text">★</a>★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
 <a href="#Intellij-IDEA" name="Intellij-IDEA">★</a>★★★  | [Intellij IDEA] | 编辑器 | $199 | [#](http://development-software.findthebest.com/l/19/IntelliJ-IDEA)
+<a href="#Atom" name="Atom">★</a>★★★  | [Atom] | Github 自家出的编辑器 | $xx/Free | [#](http://www.techspot.com/news/55845-github-unveils-atom-text-editor-for-developers.html)
 <a href="#Coda" name="Coda">★</a>★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
 <a href="#Textastic" name="Textastic">★</a>★★★  | [Textastic] | 编辑器，iOS 同步/友好 | $8.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/textastic-the-ios-code-editor-to-beat-now-on-the-mac/)
 <a href="#Versions" name="Versions">★</a>★★★  | [Versions] | SVN 版本控制工具 | $59 | [#](http://stackoverflow.com/questions/899/best-subversion-client-for-mac-os)
@@ -118,7 +119,7 @@ _发现 App 之美_
 
 评分   | 名称  | 推荐理由 | 单价 | 详细
 ----- | ----- | ------ | ----- | -----
-<a href="#MacUpdate-Desktop" name="MacUpdate-Desktop">★</a>★★☆  | [MacUpdate Desktop] | 管理/更新/下载App，跟踪App优惠信息 | $29.99/year | [#](http://www.macworld.com/article/1143823/macupdate_desktop_5.html)  
+<a href="#MacUpdate-Desktop" name="MacUpdate-Desktop">★</a>★★☆  | [MacUpdate Desktop] | 管理/更新/下载App，跟踪App优惠信息 | $29.99/year | [#](http://www.macworld.com/article/1143823/macupdate_desktop_5.html)
 <a href="#Spotify-Pro" name="Spotify-Pro">★</a>★★   | [Spotify Pro] | 音乐服务 | $9.99/month | [#](http://www.cultofmac.com/104703/spotify-is-everything-that-itunes-in-the-cloud-should-be-review/)
 <a href="#Rdio-Pro" name="Rdio-Pro">★</a>★★   | [Rdio Pro] | 音乐服务 | $9.99/month | [#](http://www.rdio.com/features/)
 <a href="#iTunes-Match" name="iTunes-Match">★</a>★★   | [iTunes Match] | iTunes 音乐服务 | $24.99/year | [#](http://www.maclife.com/article/reviews/itunes_match_review)
@@ -158,9 +159,9 @@ _发现 App 之美_
 
 ## 关于
 
-#### 评分说明： 
- 
-评分   | 推荐度 
+#### 评分说明：
+
+评分   | 推荐度
 ----- | -----
 ★★★★★ | 必装神器
 ★★★★☆ | 十分出色
@@ -168,18 +169,18 @@ _发现 App 之美_
 ★★★☆  | 亮点突出
 ★★★   | 同类出众
 
-*注1：排名怎么可能不分先后*  
-*注2：此列表客观公正，绝无广告或推广*  
+*注1：排名怎么可能不分先后*
+*注2：此列表客观公正，绝无广告或推广*
 *注3：此列表维护有个人感情色彩，如遇不适者，欢迎`Fork`一份进行修改*
 
 #### 支持正版：
 
-软件开发者和作家一样，有的只是代码和文字。  
+软件开发者和作家一样，有的只是代码和文字。
 在条件允许的情况下，请支持正版，有了良好的生态环境，App 开发者们会做出更多好玩的东西。
 
 #### 感谢所有参与推荐的朋友
 
-本推荐 List 会不断更新维护，会有更多分类和利器加入推荐。  
+本推荐 List 会不断更新维护，会有更多分类和利器加入推荐。
 感谢此处\[[收集&提交页]\]参与提交和讨论的朋友们
 
 [<< 查看总目录]
@@ -220,7 +221,7 @@ Released under [MIT] LICENSE
 [Frank DeLoupe]: http://jumpzero.com/frank/
 [Fantastical]: http://flexibits.com/fantastical
 [aText]: http://www.trankynam.com/atext/
-[Dash]: http://kapeli.com/dash 
+[Dash]: http://kapeli.com/dash
 [ForkLift]: http://www.binarynights.com/
 [CodeRunner]: http://krillapps.com/coderunner/
 [Charles]: http://www.charlesproxy.com/
@@ -262,7 +263,7 @@ Released under [MIT] LICENSE
 [Ulysses]: http://www.ulyssesapp.com/
 [OmniGraffle]: http://www.omnigroup.com/omnigraffle
 [Promotee]: http://www.netwalkapps.com/app/promotee
-[Spotify Pro]: https://www.spotify.com/	
+[Spotify Pro]: https://www.spotify.com/
 [Droplr Pro]: https://droplr.com/
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
@@ -283,3 +284,4 @@ Released under [MIT] LICENSE
 [Instashare]: http://instashareapp.com/
 [Writer Pro]: http://writer.pro/
 [WiFi Explorer]: http://www.adriangranados.com/
+[Atom]: https://atom.io/
