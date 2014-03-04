@@ -87,7 +87,8 @@ _发现 App 之美_
 <a href="#Picatext" name="Picatext">★</a>★★   | [Picatext] | 简单易用的 OCR 软件 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/picatext-an-attempt-at-ocr-on-the-mac/)
 <a href="#RescueTime" name="RescueTime">★</a>★★   | [RescueTime] | 时间管理跟踪分析 | $72/y | [#](http://mac.appstorm.net/reviews/office-review/rescuetime-what-have-you-been-up-to/)
 <a href="#Instashare" name="Instashare">★</a>★★   | [Instashare] | 基于 蓝牙/WiFi 文件互传(iOS/Mac)  | $2.99 | [#](http://www.imore.com/instashare-iphone-and-ipad-review)
-<a href="#WiFi-Explorer" name="WiFi-Explorer">★</a>★★   | [WiFi Explorer] | 深度解读周围的 WiFi 信号，做到了如指掌 | $2.99 | [#](http://mac.appstorm.net/reviews/utilities/wifi-explorer-the-wireless-swiss-army-knife/)
+<a href="#WiFi-Explorer" name="WiFi-Explorer">★</a>★★   | [WiFi Explorer] | 深度解读身边 WiFi 信号，了如指掌 | $2.99 | [#](http://mac.appstorm.net/reviews/utilities/wifi-explorer-the-wireless-swiss-army-knife/)
+<a href="#WiFi-Scanner" name="WiFi-Scanner">★</a>★★   | [WiFi Scanner] | 同上，另一款，冰点中 | $0.99 | [#](http://download.cnet.com/WiFi-Scanner/3000-18508_4-75017924.html)
 
 #### 1.2 开发类
 
@@ -284,4 +285,5 @@ Released under [MIT] LICENSE
 [Instashare]: http://instashareapp.com/
 [Writer Pro]: http://writer.pro/
 [WiFi Explorer]: http://www.adriangranados.com/
+[WiFi Scanner]: https://itunes.apple.com/us/app/wifi-scanner/id411680127?mt=12
 [Atom]: https://atom.io/
