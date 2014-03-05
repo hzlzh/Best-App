@@ -69,6 +69,7 @@ _发现 App 之美_
 <a href="#Proxifier" name="Proxifier">★</a>★★☆  | [Proxifier] | 单App，规则代理工具 | $39.95 | [#](http://download.cnet.com/Proxifier/3000-2155_4-147076.html)
 <a href="#Growl" name="Growl">★</a>★★☆  | [Growl] | 消息提醒，原声提醒的鼻祖 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/meet-the-new-growl-improved-functionality-but-at-a-price/)
 <a href="#iPack" name="iPack">★</a>★★☆  | [iPack] | 压缩/解压工具 | $1.99 | [#](http://www.zhihu.com/question/20383279)
+<a href="#Keka" name="Keka">★</a>★★☆  | [Keka] | 压缩/解压工具 | $1.99 | [#](http://www.tuaw.com/2011/12/06/daily-mac-app-keka/)
 <a href="#Aperture" name="Aperture">★</a>★★☆  | [Aperture] | 专业的摄影相关软件 | $79.99 | [#](http://www.digitalcameraworld.com/2013/01/28/apple-aperture-3-4-3-review/)
 <a href="#Keycard" name="Keycard">★</a>★★☆  | [Keycard] | 蓝牙设备锁屏，人走屏锁 | $6.99 | [#](http://macreview.com/2013/02/keycard-review/)
 <a href="#Geekbench" name="Geekbench">★</a>★★☆  | [Geekbench] | 性能测试、硬件跑分 | $9.99 | [#](http://www.macrumors.com/2013/08/16/geekbench-3-with-15-new-benchmark-tests-released-for-mac-ios-and-more/)
@@ -287,3 +288,4 @@ Released under [MIT] LICENSE
 [WiFi Explorer]: http://www.adriangranados.com/
 [WiFi Scanner]: https://itunes.apple.com/us/app/wifi-scanner/id411680127?mt=12
 [Atom]: https://atom.io/
+[Keka]: http://www.kekaosx.com/
