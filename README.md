@@ -53,7 +53,7 @@ _发现 App 之美_
 <a href="#TextExpander" name="TextExpander">★</a>★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | [#](http://mac.appstorm.net/reviews/productivity-review/head-to-head-text-expander-mac-software-compared/)
 <a href="#aText" name="aText">★</a>★★★☆ | [aText] | 同 TextExpander 快速键入 | $4.99  | [#](http://mac.appstorm.net/reviews/productivity-review/atext-a-text-expansion-contender/)
 <a href="#Devonthink-Pro" name="Devonthink Pro">★</a>★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | [#](http://www.macworld.com/article/1161735/review_devonthink_pro_office_2_2_1_helps_manage_your_data.html)
-<a href="#Ember" name="Ember">★</a>★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $49.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
+<a href="#Ember" name="Ember">★</a>★★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $49.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
 <a href="#Writer-Pro" name="Writer Pro">★</a>★★★☆ | [Writer Pro] | 写作利器，iA Writer的续作 | $19.99 | [#](http://mac.appstorm.net/reviews/office-review/writer-pro-is-an-exercise-in-disappointment/)
 <a href="#BetterSnap-Tool" name="BetterSnap Tool">★</a>★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1,79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
 <a href="#Little-Snitch" name="Little Snitch">★</a>★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95 | [#](http://www.macworld.com/article/2017161/mac-gems-little-snitch-snitches-on-misbehaving-apps.html)
