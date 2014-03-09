@@ -13,15 +13,26 @@
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。  
 >注4：**不**提供电商网站链接，请自行搜索**购买链接**  
 
-## 1. Mac 周边
+## 1. 周边
 
-Mac 的硬件周边，供大家参考。
+注：若某周边无官网展示，外链均为TB搜索结果页，请大家自行参考，如：
+`http://s.taobao.com/search?q=手机壳`
 
-#### 1.1 外设类
+#### 1.1 Mac 外设周边类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | 整理中 | 欢迎推荐 |  | 
+★★★★★  |  | 欢迎推荐 |  | 
+★★★★★  | [Incase 电脑包] | 优质设计，苹果官方推荐 |  | 
+★★★★★  | [STM 电脑包] | 澳洲设计师作品，特点是容量很能装 |  | 
+★★★★★  | 电源适配器x2 | 家里一个公司一个，让背包更轻盈 |  | 
+
+#### 1.2 iPhone/iPad 外设周边类
+
+评分   | 名称  | 功能简述 | 参考报价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | [VOJO 数据线] | 人性化设计，磁性，多彩，短小精湛 | ≈ ¥25 | 
+★★★★★  | [小米移动电源] | 大容量，酷设计，同Macbook质感外观 | ¥69/¥49 | 
 
 ## 购买建议
 
@@ -61,3 +72,8 @@ Released under [MIT] LICENSE
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
 [MIT]: http://rem.mit-license.org/
+[Incase 电脑包]: http://goincase.com/
+[STM 电脑包]: http://www.stmbags.com.au/
+
+[VOJO 数据线]: http://vojotech.taobao.com/
+[小米移动电源]: http://www.xiaomi.com/dianyuan
