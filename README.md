@@ -34,7 +34,7 @@ _发现 App 之美_
 <a href="#Alfred" name="Alfred">★</a>★★★★ | [Alfred] | Top#1，不解释 | £17 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 <a href="#1Password" name="1Password">★</a>★★★★ | [1Password] | 密码管理，用过就离不开了 | $49.99 | [#](http://www.macstories.net/reviews/1password-4-for-mac-review/)
 <a href="#Moom" name="Moom">★</a>★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
-<a href="#iStat Menus" name="iStat-Menus">★</a>★★★★ | [iStat Menus] | 系统状态参数实时查看 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
+<a href="#iStat-Menus" name="iStat-Menus">★</a>★★★★ | [iStat Menus] | 系统状态参数实时查看 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
 <a href="#Bartender" name="Bartender">★</a>★★★★ | [Bartender] | 自定义右上角Menu栏图标 | $15 | [#](http://www.macworld.com/article/2013739/mac-gems-bartender-helps-you-take-control-of-menu-bar-icons.html)
 <a href="#Fantastical" name="Fantastical">★</a>★★★☆ | [Fantastical] | 基于日历的GTD提醒 | $19.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
 <a href="#Tweetbot" name="Tweetbot">★</a>★★★☆ | [Tweetbot] | Twitter客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
