@@ -22,9 +22,9 @@
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | [Magic Mouse] | 原装外设 |  | 
-★★★★★  | [Magic Trackpad] | 原装外设 |  | 
-★★★★★  | [Wireless Keyboard] | 原装外设 |  | 
+★★★★★  | [Magic Mouse] | 苹果原装外设 |  | 
+★★★★★  | [Magic Trackpad] | 苹果原装外设 |  | 
+★★★★★  | [Wireless Keyboard] | 苹果原装外设 |  | 
 ★★★★   | [HHKB静电容键盘] | 通过UNIX的认证，口碑推荐 | ≈ ￥1700 | [#](http://bbs.weiphone.com/read-htm-tid-6671450.html)
 ★★★★   | [Incase 电脑包] | 优质设计，业内口碑，苹果官方推荐 | ≈ ￥60~$100 | [#](https://www.youtube.com/watch?v=Re7hyVB01z4)
 ★★★★   | [赛钛客M.M.O 7] | 良好Mac驱动支持，充足自定义键 | ≈ ￥1129 | [#](http://news3.sanhaojie.com/2/lib/201209/28/20120928447.htm)
@@ -33,6 +33,7 @@
 ★★★★   | [QNAP NAS] | TimeMachine，同步，备份 | N/A | [#](http://8jiaz.com/archives/2605)
 ★★★    | 电源适配器x2 | 家里一个公司一个，让背包更轻盈 | N/A | #
 ★★★    | [iklear清洁套装] | 官方推荐 | ￥250 | #
+★★★    | [Zowie P-TF Rough] | 鼠标垫，做工好，手感好 | ￥139 | [#](http://www.popgear.net/news/review/20130113_837.htm)
 ★★★    | [zefyr2 散热器] | USB风扇，一体外观，折叠携带 | ￥388 | #
 ★★★    | [JMLC 散热器] | 小巧，极为便携，扔包即走 | ￥128 | [#](http://store.apple.com/hk/product/H5003ZM/A/just-mobile-lazy-couch-stand-for-ipad-and-macbook-pro)
 
@@ -40,8 +41,7 @@
 
 评分   | 名称  | 功能简述 | 参考报价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | 5星暂缺 | 欢迎推荐 |  |
-★★★★   | [Smart Cover] | 原装外设 | | #
+★★★★★  | [Smart Cover] | 苹果原装外设 | | #
 ★★★★   | [VOJO 数据线] | 人性化设计，自带磁性收纳，多彩，短小精湛 | ≈ ¥25 | #
 ★★★★   | [外置镜头] | 广角、鱼眼、微距三合一，拍照独特 | ≈ ¥25 | [#](http://digi.tech.qq.com/a/20110716/000005_2.htm)
 ★★★★   | [小米移动电源] | 大容量，酷设计，同Macbook质感外观 | ¥69/¥49 | [#](http://www.imore.com/elevation-dock-iphone-review)
@@ -99,6 +99,7 @@ Released under [MIT] LICENSE
 [Wireless Keyboard]: https://www.apple.com/hk/en/keyboard/
 [Magic Trackpad]: https://www.apple.com/hk/en/magictrackpad/
 [Magic Mouse]: https://www.apple.com/hk/en/magicmouse/
+[Zowie P-TF Rough]: http://www.zowiegear.com/
 
 [Smart Cover]: http://www.apple.com/hk/en/ipad/accessories/
 [VOJO 数据线]: http://vojotech.taobao.com/
