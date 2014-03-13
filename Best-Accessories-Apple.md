@@ -24,18 +24,23 @@
 ----- | ----- | ------ | ----- | -----
 ★★★★★  | 5星暂缺 | 欢迎推荐 |  | 
 ★★★★   | [Incase 电脑包] | 优质设计，业内口碑，苹果官方推荐 | ≈ ￥60~$100 | [#](https://www.youtube.com/watch?v=Re7hyVB01z4)
+★★★★   | [赛钛客M.M.O 7] | 良好Mac驱动支持，充足自定义键 | ≈ ￥1129	 | [#](http://news3.sanhaojie.com/2/lib/201209/28/20120928447.htm)
 ★★★★   | [STM 电脑包] | 澳洲设计师作品，特点是容量很能装 | ≈ $60 | [#](http://v.youku.com/v_show/id_XMzA1ODM3MjUy.html)
 ★★★★   | [xkaye 真皮内胆包] | 真皮，贴合，表面无苹果Logo | ≈ ¥200 | [#](http://detail.tmall.com/item.htm?id=15979234188)
+★★★★   | [QNAP NAS] | TimeMachine，同步，备份 | N/A | [#](http://8jiaz.com/archives/2605)
 ★★★    | 电源适配器x2 | 家里一个公司一个，让背包更轻盈 | N/A | #
 
 #### 1.2 iPhone/iPad 外设周边类
 
 评分   | 名称  | 功能简述 | 参考报价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | 5星暂缺 | 欢迎推荐 |  | 
+★★★★★  | 5星暂缺 | 欢迎推荐 |  |
 ★★★★   | [VOJO 数据线] | 人性化设计，自带磁性收纳，多彩，短小精湛 | ≈ ¥25 | #
 ★★★★   | [外置镜头] | 广角、鱼眼、微距三合一，拍照独特 | ≈ ¥25 | [#](http://digi.tech.qq.com/a/20110716/000005_2.htm)
-★★★★   | [小米移动电源] | 大容量，酷设计，同Macbook质感外观 | ¥69/¥49 | [#](http://v.youku.com/v_show/id_XNjQ1NzI3MjA4.html)
+★★★★   | [小米移动电源] | 大容量，酷设计，同Macbook质感外观 | ¥69/¥49 | [#](http://www.imore.com/elevation-dock-iphone-review)
+★★★★   | [Elevation Dock] | 时尚外观，航空材质，可带套充电 | ≈ ¥599 | [#](http://knewone.com/things/elevationdock/reviews/51f87e9cb10be55f3c000001)
+★★★★   | [罗技ik610] |  iPad Mini 2键盘，配合蜂窝网络版mini使用 | ≈ ¥430 | [#](http://apple.yesky.com/451/35418451.shtml)
+★★★★   | [Elementcase Sector] |  酷感外观，航空材质，贴合保护 | ≈ $150 | [#](http://www.chiphell.com/forum.php?mod=viewthread&tid=911118)
 
 ## 购买建议
 
@@ -78,7 +83,13 @@ Released under [MIT] LICENSE
 [Incase 电脑包]: http://goincase.com/
 [STM 电脑包]: http://www.stmbags.com.au/
 [xkaye 真皮内胆包]: http://detail.tmall.com/item.htm?id=15979234188
+[QNAP NAS]: http://www.synology.com/
+[赛钛客M.M.O 7]: http://www.saitek.com.cn/
+
 
 [VOJO 数据线]: http://vojotech.taobao.com/
 [外置镜头]: http://s.taobao.com/search?q=iphone%203合一镜头
+[Elevation Dock]: http://www.elevationlab.com/
 [小米移动电源]: http://www.xiaomi.com/dianyuan
+[罗技ik610]: http://store.logitech.com.cn/category/1527.html
+[Elementcase Sector]: http://www.elementcase.com/
