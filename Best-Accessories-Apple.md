@@ -11,57 +11,68 @@
 >注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达  
 >注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。  
->注4：**不**提供电商网站链接，请自行搜索**购买链接**  
+>注4：**不**提供电商网站链接，请自行搜索**购买链接**，价格均为**参考报价**  
 
 ## 1. 周边
 
-注：若某周边无官网展示，外链均为 TB/JD 等搜索结果页，请大家自行参考，如：  
-`http://s.taobao.com/search?q=手机壳`
+注：若无官网，外链为 TB/JD 等搜索结果页，请大家自行参考，例如：  
+`http://s.taobao.com/search?q=键盘`
+
+注：某些名称型号过长，`指针悬停`可获取具体型号参数 :)
 
 #### 1.1 Mac 外设周边类
 
-评分   | 名称  | 功能简述 | 单价 | 测评
+评分   | 名称  | 功能简述 | 参考价格 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | [Magic Mouse] | 原装外设 |  | 
-★★★★★  | [Magic Trackpad] | 原装外设 |  | 
-★★★★★  | [Wireless Keyboard] | 原装外设 |  | 
-★★★★   | [HHKB静电容键盘] | 通过UNIX的认证，口碑推荐 | ≈ ￥1700 | [#](http://bbs.weiphone.com/read-htm-tid-6671450.html)
-★★★★   | [Incase 电脑包] | 优质设计，业内口碑，苹果官方推荐 | ≈ ￥60~$100 | [#](https://www.youtube.com/watch?v=Re7hyVB01z4)
-★★★★   | [赛钛客M.M.O 7] | 良好Mac驱动支持，充足自定义键 | ≈ ￥1129 | [#](http://news3.sanhaojie.com/2/lib/201209/28/20120928447.htm)
-★★★★   | [STM 电脑包] | 澳洲设计师作品，特点是容量很能装 | ≈ $60 | [#](http://v.youku.com/v_show/id_XMzA1ODM3MjUy.html)
-★★★★   | [xkaye 真皮内胆包] | 真皮，贴合，表面无苹果Logo | ≈ ¥200 | [#](http://detail.tmall.com/item.htm?id=15979234188)
-★★★★   | [QNAP NAS] | TimeMachine，同步，备份 | N/A | [#](http://8jiaz.com/archives/2605)
-★★★★   | [COCOON Rock GRID-IT] | 弹性收纳板，分iPad版和普通版，告别线的凌乱 | N/A | [#](http://bbs.dgtle.com/thread-104520-1-1.html)
-★★★    | 电源适配器x2 | 家里一个公司一个，让背包更轻盈 | N/A | #
-★★★    | [iklear清洁套装] | 官方推荐 | ￥250 | #
-★★★    | [Zowie P-TF Rough] | 鼠标垫，做工好，手感好 | ￥139 | [#](http://www.popgear.net/news/review/20130113_837.htm)
-★★★    | [zefyr2 散热器] | USB风扇，一体外观，折叠携带 | ￥388 | #
-★★★    | [JMLC 散热器] | 小巧，极为便携，扔包即走 | ￥128 | [#](http://store.apple.com/hk/product/H5003ZM/A/just-mobile-lazy-couch-stand-for-ipad-and-macbook-pro)
+★★★★★  | [Magic Mouse] | 官方出品，无线鼠标 | ￥488 | [#](https://www.apple.com/cn/magicmouse/)
+★★★★★  | [Magic Trackpad] | 官方出品，无线触控板 | ￥488 | [#](https://www.apple.com/cn/magictrackpad/)
+★★★★★  | [Wireless Keyboard] | 官方出品，无线键盘 | ￥488| [#](https://www.apple.com/cn/keyboard/)
+★★★★☆  | [HHKB 键盘] | 口碑极佳，Vim/Emacs友好 | ￥1799 | [#](http://knewone.com/things/hhkb-pro-2)
+★★★★   | [Incase 电脑包] | 优秀设计，口碑极佳，官方推荐 | ￥600 | [#](https://www.youtube.com/watch?v=Re7hyVB01z4)
+★★★★   | [Mad Catz 鼠标] | 优质Mac驱动支持，充足自定义键 | ￥1129 | [#](http://news3.sanhaojie.com/2/lib/201209/28/20120928447.htm)
+★★★☆   | [zefyr2 散热器] | USB风扇(不占用接口)，金属外观，折叠便携 | ￥388 | [#](http://input.yesky.com/301/30441301.shtml)
+★★★☆   | [STM 电脑包] | 澳洲设计团队作品，收纳容量很大 | ￥360 | [#](http://v.youku.com/v_show/id_XMzA1ODM3MjUy.html)
+★★★☆   | [xkaye 内胆包] | 真皮，贴合，表面无苹果Logo | ￥200 | [#](http://detail.tmall.com/item.htm?id=15979234188)
+★★★☆   | [Cocoon 收纳板] | 弹性收纳板，iPad版或普通版，告别凌乱 | ￥178 | [#](http://bbs.dgtle.com/thread-104520-1-1.html)
+★★★☆   | [Just Mobile 支架] | 铝质外壳，小巧便携，扔包即走 | ￥128 | [#](http://store.apple.com/hk/product/H5003ZM/A/just-mobile-lazy-couch-stand-for-ipad-and-macbook-pro)
+★★★☆   | [电源适配器x2] | 适合多地点使用，让背包更轻盈 | ￥588 | [#](http://store.apple.com/cn/mac/mac-accessories/power)
+★★★    | [QNAP NAS] | 网络存储器 | ￥1000 | [#](http://8jiaz.com/archives/2605)
+★★★    | [Synology NAS] | 网络存储器 | ￥5800 | [#](http://detail.zol.com.cn/nas_networkstorage/index331932.shtml)
+★★★    | [iklear 清洁套装] | 专业环保，无毒，防油，防静电 | ￥250 | [#](http://www.pcpop.com/doc/0/842/842237_all.shtml)
+★★★    | [Zowie 鼠标垫] | 粗面版，边缝防磨，电竞级别 | ￥139 | [#](http://www.popgear.net/news/review/20130113_837.htm)
+★★★    | [iFixit 工具包] | 硬件Geek必备，拆机/DIY好帮手 | ￥430 | [#](http://www.ifixit.com/Store)
+★★★    | [mStand 支架] | 铝质外壳，简约设计 | ￥300 | [#](http://show.smzdm.com/detail/21439)
 
 #### 1.2 iPhone/iPad 外设周边类
 
 评分   | 名称  | 功能简述 | 参考报价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | 5星暂缺 | 欢迎推荐 |  |
-★★★★   | [Smart Cover] | 原装外设 | | #
-★★★★   | [VOJO 数据线] | 人性化设计，自带磁性收纳，多彩，短小精湛 | ≈ ¥25 | #
-★★★★   | [外置镜头] | 广角、鱼眼、微距三合一，拍照独特 | ≈ ¥25 | [#](http://digi.tech.qq.com/a/20110716/000005_2.htm)
-★★★★   | [小米移动电源] | 大容量，酷设计，同Macbook质感外观 | ¥69/¥49 | [#](http://www.imore.com/elevation-dock-iphone-review)
-★★★★   | [Elevation Dock] | 时尚外观，航空材质，可带套充电 | ≈ ¥599 | [#](http://knewone.com/things/elevationdock/reviews/51f87e9cb10be55f3c000001)
-★★★★   | [罗技ik610] |  iPad Mini 2键盘，配合蜂窝网络版mini使用 | ≈ ¥430 | [#](http://apple.yesky.com/451/35418451.shtml)
-★★★★   | [Elementcase Sector] |  酷感外观，航空材质，贴合保护 | ≈ $150 | [#](http://www.chiphell.com/forum.php?mod=viewthread&tid=911118)
+★★★★★  | [Smart Cover] | 官方出品，iPad好伴侣 | ￥298 | [#](http://store.apple.com/cn/ipad/ipad-accessories/cases#!)
+★★★★   | [小米 移动电源] | 大容量，酷设计，同Macbook质感外观 | ￥69 | [#](http://www.imore.com/elevation-dock-iphone-review)
+★★★☆   | [VOJO 数据线] | 多彩，短小，自带磁性收纳 | ￥25 | [#](http://item.jd.com/706550.html)
+★★★☆   | [Elevation 底座] | 时尚外观，航空材质，可带套充电 | ￥599 | [#](http://knewone.com/things/elevationdock/reviews/51f87e9cb10be55f3c000001)
+★★★☆   | [罗技 mini键盘] |  iPad Mini 2键盘，配合蜂窝网络版mini使用 | ￥430 | [#](http://apple.yesky.com/451/35418451.shtml)
+★★★☆   | [Element 手机壳] |  酷感外观，航空材质，贴合保护 | ￥900 | [#](http://www.chiphell.com/forum.php?mod=viewthread&tid=911118)
+★★★    | [外置镜头] | 玩具，广角、鱼眼、微距三合一 | ￥25 | [#](http://digi.tech.qq.com/a/20110716/000005_2.htm)
 
 ## 购买建议
 
 * 按需购入，勿冲动
+* 剁手前，多查测评，可自行解毒
 * 电源，充电线类请慎重挑选，防止对机器造成伤害
-* 尽量选择官方出品或授权通过的外设
+* 尽量选择`官方出品`或`官方已认证配件`
+
+### 以下不建议购买
+
+* 屏幕膜
+* Macbook 键盘膜
+* Macbook 掌托
 
 ## 关于
 
-#### 评分说明： 
+#### 评分说明：
  
-评分   | 推荐度 
+评分   | 推荐度
 ----- | -----
 ★★★★★ | 必用神器
 ★★★★☆ | 十分出色
@@ -71,7 +82,7 @@
 
 *注1：排名怎么可能不分先后*  
 *注2：此列表客观公正，绝无广告或推广*  
-*注3：此列表维护有个人感情色彩，如遇不适者，欢迎`Fork`一份进行修改*
+*注3：此列表维护有个人感情色彩，如遇不适者，欢迎讨论或`Fork`修改*
 
 #### 感谢所有参与推荐的朋友
 
@@ -89,25 +100,30 @@ Released under [MIT] LICENSE
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
 [MIT]: http://rem.mit-license.org/
+
+[Wireless Keyboard]: https://www.apple.com/cn/keyboard/
+[Magic Trackpad]: https://www.apple.com/cn/magictrackpad/
+[Magic Mouse]: https://www.apple.com/cn/magicmouse/
 [Incase 电脑包]: http://goincase.com/
 [STM 电脑包]: http://www.stmbags.com.au/
-[xkaye 真皮内胆包]: http://detail.tmall.com/item.htm?id=15979234188
-[QNAP NAS]: http://www.synology.com/
-[赛钛客M.M.O 7]: http://www.saitek.com.cn/
-[iklear清洁套装]: https://www.klearscreen.com/
-[HHKB静电容键盘]: https://elitekeyboards.com/
-[JMLC 散热器]: http://www.just-mobile.com/mac/lazy-couch.html?JmSwitchCountry=CN
+[电源适配器x2]: http://store.apple.com/cn/mac/mac-accessories/power
+[xkaye 内胆包]: http://detail.tmall.com/item.htm?id=15979234188
+[QNAP NAS]: http://www.synology.com/ 'QNAP NAS 网络存储器'
+[Synology NAS]: http://www.synology.com/zh-cn/products/overview/DS412+ '群晖NAS DS412+'
+[Mad Catz 鼠标]: http://www.saitek.com.cn/ 'Mad Catz(赛钛客) M.M.O 7'
+[iklear 清洁套装]: https://www.klearscreen.com/ 'iklear 清洁套装'
+[HHKB 键盘]: https://elitekeyboards.com/ 'HHKB Pro 2'
+[Just Mobile 支架]: http://www.just-mobile.com/mac/lazy-couch.html 'Just Mobile Lazy Couch 支架'
 [zefyr2 散热器]: http://www.moshistore.com/
-[Wireless Keyboard]: https://www.apple.com/hk/en/keyboard/
-[Magic Trackpad]: https://www.apple.com/hk/en/magictrackpad/
-[Magic Mouse]: https://www.apple.com/hk/en/magicmouse/
-[Zowie P-TF Rough]: http://www.zowiegear.com/
-[COCOON Rock GRID-IT]: http://www.cocooninnovations.com/product_info.php?cat_id=69&product_id=234
+[Zowie 鼠标垫]: http://www.zowiegear.com/
+[Cocoon 收纳板]: https://www.cocooninnovations.com/grid.php
+[iFixit 工具包]: http://www.ifixit.com/Store
+[mStand 支架]: https://www.raindesigninc.com/mstand.html
 
-[Smart Cover]: http://www.apple.com/hk/en/ipad/accessories/
+[Smart Cover]: http://store.apple.com/cn/ipad/ipad-accessories/cases
 [VOJO 数据线]: http://vojotech.taobao.com/
 [外置镜头]: http://s.taobao.com/search?q=iphone%203合一镜头
-[Elevation Dock]: http://www.elevationlab.com/
-[小米移动电源]: http://www.xiaomi.com/dianyuan
-[罗技ik610]: http://store.logitech.com.cn/category/1527.html
-[Elementcase Sector]: http://www.elementcase.com/
+[Elevation 底座]: http://www.elevationlab.com/
+[小米 移动电源]: http://www.xiaomi.com/dianyuan
+[罗技 mini键盘]: http://store.logitech.com.cn/category/1527.html
+[Element 手机壳]: http://www.elementcase.com/ 'Element Case Sector'
