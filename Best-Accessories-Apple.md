@@ -27,12 +27,14 @@
 ★★★★★  | [Wireless Keyboard] | 原装外设 |  | 
 ★★★★   | [HHKB静电容键盘] | 通过UNIX的认证，口碑推荐 | ≈ ￥1700 | [#](http://bbs.weiphone.com/read-htm-tid-6671450.html)
 ★★★★   | [Incase 电脑包] | 优质设计，业内口碑，苹果官方推荐 | ≈ ￥60~$100 | [#](https://www.youtube.com/watch?v=Re7hyVB01z4)
-★★★★   | [赛钛客M.M.O 7] | 良好Mac驱动支持，充足自定义键 | ≈ ￥1129	 | [#](http://news3.sanhaojie.com/2/lib/201209/28/20120928447.htm)
+★★★★   | [赛钛客M.M.O 7] | 良好Mac驱动支持，充足自定义键 | ≈ ￥1129 | [#](http://news3.sanhaojie.com/2/lib/201209/28/20120928447.htm)
 ★★★★   | [STM 电脑包] | 澳洲设计师作品，特点是容量很能装 | ≈ $60 | [#](http://v.youku.com/v_show/id_XMzA1ODM3MjUy.html)
 ★★★★   | [xkaye 真皮内胆包] | 真皮，贴合，表面无苹果Logo | ≈ ¥200 | [#](http://detail.tmall.com/item.htm?id=15979234188)
 ★★★★   | [QNAP NAS] | TimeMachine，同步，备份 | N/A | [#](http://8jiaz.com/archives/2605)
 ★★★    | 电源适配器x2 | 家里一个公司一个，让背包更轻盈 | N/A | #
 ★★★    | [iklear清洁套装] | 官方推荐 | ￥250 | #
+★★★    | [zefyr2 散热器] | USB风扇，一体外观，折叠携带 | ￥388 | #
+★★★    | [JMLC 散热器] | 小巧，极为便携，扔包即走 | ￥128 | [#](http://store.apple.com/hk/product/H5003ZM/A/just-mobile-lazy-couch-stand-for-ipad-and-macbook-pro)
 
 #### 1.2 iPhone/iPad 外设周边类
 
@@ -92,8 +94,13 @@ Released under [MIT] LICENSE
 [赛钛客M.M.O 7]: http://www.saitek.com.cn/
 [iklear清洁套装]: https://www.klearscreen.com/
 [HHKB静电容键盘]: https://elitekeyboards.com/
+[JMLC 散热器]: http://www.just-mobile.com/mac/lazy-couch.html?JmSwitchCountry=CN
+[zefyr2 散热器]: http://www.moshistore.com/
+[Wireless Keyboard]: https://www.apple.com/hk/en/keyboard/
+[Magic Trackpad]: https://www.apple.com/hk/en/magictrackpad/
+[Magic Mouse]: https://www.apple.com/hk/en/magicmouse/
 
-
+[Smart Cover]: http://www.apple.com/hk/en/ipad/accessories/
 [VOJO 数据线]: http://vojotech.taobao.com/
 [外置镜头]: http://s.taobao.com/search?q=iphone%203合一镜头
 [Elevation Dock]: http://www.elevationlab.com/
