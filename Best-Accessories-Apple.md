@@ -22,19 +22,24 @@
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | 5星暂缺 | 欢迎推荐 |  | 
+★★★★★  | [Magic Mouse] | 原装外设 |  | 
+★★★★★  | [Magic Trackpad] | 原装外设 |  | 
+★★★★★  | [Wireless Keyboard] | 原装外设 |  | 
+★★★★   | [HHKB静电容键盘] | 通过UNIX的认证，口碑推荐 | ≈ ￥1700 | [#](http://bbs.weiphone.com/read-htm-tid-6671450.html)
 ★★★★   | [Incase 电脑包] | 优质设计，业内口碑，苹果官方推荐 | ≈ ￥60~$100 | [#](https://www.youtube.com/watch?v=Re7hyVB01z4)
 ★★★★   | [赛钛客M.M.O 7] | 良好Mac驱动支持，充足自定义键 | ≈ ￥1129	 | [#](http://news3.sanhaojie.com/2/lib/201209/28/20120928447.htm)
 ★★★★   | [STM 电脑包] | 澳洲设计师作品，特点是容量很能装 | ≈ $60 | [#](http://v.youku.com/v_show/id_XMzA1ODM3MjUy.html)
 ★★★★   | [xkaye 真皮内胆包] | 真皮，贴合，表面无苹果Logo | ≈ ¥200 | [#](http://detail.tmall.com/item.htm?id=15979234188)
 ★★★★   | [QNAP NAS] | TimeMachine，同步，备份 | N/A | [#](http://8jiaz.com/archives/2605)
 ★★★    | 电源适配器x2 | 家里一个公司一个，让背包更轻盈 | N/A | #
+★★★    | [iklear清洁套装] | 官方推荐 | ￥250 | #
 
 #### 1.2 iPhone/iPad 外设周边类
 
 评分   | 名称  | 功能简述 | 参考报价 | 测评
 ----- | ----- | ------ | ----- | -----
 ★★★★★  | 5星暂缺 | 欢迎推荐 |  |
+★★★★   | [Smart Cover] | 原装外设 | | #
 ★★★★   | [VOJO 数据线] | 人性化设计，自带磁性收纳，多彩，短小精湛 | ≈ ¥25 | #
 ★★★★   | [外置镜头] | 广角、鱼眼、微距三合一，拍照独特 | ≈ ¥25 | [#](http://digi.tech.qq.com/a/20110716/000005_2.htm)
 ★★★★   | [小米移动电源] | 大容量，酷设计，同Macbook质感外观 | ¥69/¥49 | [#](http://www.imore.com/elevation-dock-iphone-review)
@@ -85,6 +90,8 @@ Released under [MIT] LICENSE
 [xkaye 真皮内胆包]: http://detail.tmall.com/item.htm?id=15979234188
 [QNAP NAS]: http://www.synology.com/
 [赛钛客M.M.O 7]: http://www.saitek.com.cn/
+[iklear清洁套装]: https://www.klearscreen.com/
+[HHKB静电容键盘]: https://elitekeyboards.com/
 
 
 [VOJO 数据线]: http://vojotech.taobao.com/
