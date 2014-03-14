@@ -31,6 +31,7 @@
 <a href="#Incase-电脑包" name="Incase-电脑包">★</a>★★★   | [Incase 电脑包] | 优秀设计，口碑极佳，官方推荐 | ￥600 | [#](https://www.youtube.com/watch?v=Re7hyVB01z4)
 <a href="#Mad-Catz-鼠标" name="Mad-Catz-鼠标">★</a>★★★   | [Mad Catz 鼠标] | 优质Mac驱动支持，充足自定义键 | ￥1129 | [#](http://news3.sanhaojie.com/2/lib/201209/28/20120928447.htm)
 <a href="#zefyr2-散热器" name="zefyr2-散热器">★</a>★★☆   | [zefyr2 散热器] | USB风扇(不占用接口)，金属外观，折叠便携 | ￥388 | [#](http://input.yesky.com/301/30441301.shtml)
+<a href="#SLIM-电脑包" name="SLIM-电脑包">★</a>★★☆   | [SLIM 电脑包] | 外观简约，内部收纳规整 | ￥500 | [#](http://www.cocooninnovations.com/cat_info.php)
 <a href="#STM-电脑包" name="STM-电脑包">★</a>★★☆   | [STM 电脑包] | 澳洲设计团队作品，收纳容量很大 | ￥360 | [#](http://v.youku.com/v_show/id_XMzA1ODM3MjUy.html)
 <a href="#xkaye-内胆包" name="xkaye-内胆包">★</a>★★☆   | [xkaye 内胆包] | 真皮，贴合，表面无苹果Logo | ￥200 | [#](http://detail.tmall.com/item.htm?id=15979234188)
 <a href="#Cocoon-收纳板" name="Cocoon-收纳板">★</a>★★☆   | [Cocoon 收纳板] | 弹性收纳板，iPad版或普通版，告别凌乱 | ￥178 | [#](http://bbs.dgtle.com/thread-104520-1-1.html)
@@ -42,6 +43,9 @@
 <a href="#Zowie-鼠标垫" name="Zowie-鼠标垫">★</a>★★    | [Zowie 鼠标垫] | 粗面版，边缝防磨，电竞级别 | ￥139 | [#](http://www.popgear.net/news/review/20130113_837.htm)
 <a href="#iFixit-工具包" name="iFixit-工具包">★</a>★★    | [iFixit 工具包] | 硬件Geek必备，拆机/DIY好帮手 | ￥430 | [#](http://www.ifixit.com/Store)
 <a href="#mStand-支架" name="mStand-支架">★</a>★★    | [mStand 支架] | 铝质外壳，简约设计 | ￥300 | [#](http://show.smzdm.com/detail/21439)
+<a href="#Belkin-USB扩展" name="Belkin-USB扩展">★</a>★★    | [Belkin USB扩展] | USB Hub | ￥80 | [#](http://www.belkin.com/cn/)
+<a href="#LG-蓝牙耳机" name="LG-蓝牙耳机">★</a>★★    | [LG 蓝牙耳机] | 环颈设计，自动降噪设计 | ￥899 | [#](http://knewone.com/things/lg-tone-ultra-hbs-800)
+<a href="#航嘉-插线板" name="航嘉-插线板">★</a>★★    | [航嘉 插线板] | 干净简洁 | ￥148 | [#](http://www.jd.com/pinpai/1052-8011.html)
 
 #### 1.2 iPhone/iPad 外设周边类
 
@@ -49,7 +53,6 @@
 ----- | ----- | ------ | ----- | -----
 <a href="#Smart-Cover" name="Smart-Cover">★</a>★★★★  | [Smart Cover] | 官方出品，iPad好伴侣 | ￥298 | [#](http://store.apple.com/cn/ipad/ipad-accessories/cases#!)
 <a href="#小米-移动电源" name="小米-移动电源">★</a>★★★   | [小米 移动电源] | 大容量，酷设计，同Macbook质感外观 | ￥69 | [#](http://www.imore.com/elevation-dock-iphone-review)
-<a href="#VOJO-数据线" name="VOJO-数据线">★</a>★★☆   | [VOJO 数据线] | 多彩，短小，自带磁性收纳 | ￥25 | [#](http://item.jd.com/706550.html)
 <a href="#Elevation-底座" name="Elevation-底座">★</a>★★☆   | [Elevation 底座] | 时尚外观，航空材质，可带套充电 | ￥599 | [#](http://knewone.com/things/elevationdock/reviews/51f87e9cb10be55f3c000001)
 <a href="#罗技-mini键盘" name="罗技-mini键盘">★</a>★★☆   | [罗技 mini键盘] |  iPad Mini 2键盘，配合蜂窝网络版mini使用 | ￥430 | [#](http://apple.yesky.com/451/35418451.shtml)
 <a href="#Element-手机壳" name="Element-手机壳">★</a>★★☆   | [Element 手机壳] |  酷感外观，航空材质，贴合保护 | ￥900 | [#](http://www.chiphell.com/forum.php?mod=viewthread&tid=911118)
@@ -106,6 +109,7 @@ Released under [MIT] LICENSE
 [Magic Mouse]: https://www.apple.com/cn/magicmouse/
 [Incase 电脑包]: http://goincase.com/
 [STM 电脑包]: http://www.stmbags.com.au/
+[SLIM 电脑包]: http://www.cocooninnovations.com/cat_info.php
 [电源适配器x2]: http://store.apple.com/cn/mac/mac-accessories/power
 [xkaye 内胆包]: http://detail.tmall.com/item.htm?id=15979234188
 [QNAP NAS]: http://www.synology.com/ 'QNAP NAS 网络存储器'
@@ -119,6 +123,9 @@ Released under [MIT] LICENSE
 [Cocoon 收纳板]: https://www.cocooninnovations.com/grid.php
 [iFixit 工具包]: http://www.ifixit.com/Store
 [mStand 支架]: https://www.raindesigninc.com/mstand.html
+[Belkin USB扩展]: http://www.belkin.com/cn/ 'BELKIN 4-Port Ultra-Slim Desktop Hub'
+[LG 蓝牙耳机]: http://www.lg.com/us/cell-phone-accessories/lg-HBS700-tone 'LG Tone Ultra HBS-800'
+[航嘉 插线板]: http://www.jd.com/pinpai/1052-8011.html
 
 [Smart Cover]: http://store.apple.com/cn/ipad/ipad-accessories/cases
 [VOJO 数据线]: http://vojotech.taobao.com/
