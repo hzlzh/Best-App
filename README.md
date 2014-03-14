@@ -100,7 +100,7 @@ _发现 App 之美_
 <a href="#Kaleidoscope" name="Kaleidoscope">★</a>★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99 | [#](http://mac.appstorm.net/reviews/utilities/easily-compare-file-versions-with-kaleidoscope/)
 <a href="#MAMP-PRO" name="MAMP-PRO">★</a>★★★☆ | [MAMP PRO] | 开发集成环境，本地网站管理 | $59 | [#](http://mac.appstorm.net/reviews/internet-reviews/running-a-local-server-with-mamp/)
 <a href="#CodeRunner" name="CodeRunner">★</a>★★★☆ | [CodeRunner] | 各编程语言快速测试集成环境 | $9.99 | [#](http://brettterpstra.com/2011/10/28/app-review-coderunner/)
-<a href="#Charles" name="Charles">★</a>★★★☆ | [Charles] | 抓包代理调试工具、类Findle | $50 | [#](http://www.99css.com/archives/1272)
+<a href="#Charles" name="Charles">★</a>★★★☆ | [Charles] | 抓包代理调试工具、类 Fiddler | $50 | [#](http://www.99css.com/archives/1272)
 <a href="#LiveReload" name="LiveReload">★</a>★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99 | [#](http://brettterpstra.com/2011/12/02/app-review-livereload/)
 <a href="#CodeKit" name="CodeKit">★</a>★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
 <a href="#Sublime-Text" name="Sublime-Text">★</a>★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
