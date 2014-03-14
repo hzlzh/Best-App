@@ -44,6 +44,7 @@
 <a href="#iFixit-工具包" name="iFixit-工具包">★</a>★★    | [iFixit 工具包] | 硬件Geek必备，拆机/DIY好帮手 | ￥430 | [#](http://www.ifixit.com/Store)
 <a href="#mStand-支架" name="mStand-支架">★</a>★★    | [mStand 支架] | 铝质外壳，简约设计 | ￥300 | [#](http://show.smzdm.com/detail/21439)
 <a href="#Belkin-USB扩展" name="Belkin-USB扩展">★</a>★★    | [Belkin USB扩展] | USB Hub | ￥80 | [#](http://www.belkin.com/cn/)
+<a href="#Lacie-雷口硬盘" name="Lacie-雷口硬盘">★</a>★★    | [Lacie 移动硬盘] | 高速雷电接口，时尚外观，轻盈材质 | ￥2500 | [#](http://www.macx.cn/thread-2030260-1-1.html)
 <a href="#LG-蓝牙耳机" name="LG-蓝牙耳机">★</a>★★    | [LG 蓝牙耳机] | 环颈设计，自动降噪设计 | ￥899 | [#](http://knewone.com/things/lg-tone-ultra-hbs-800)
 <a href="#航嘉-插线板" name="航嘉-插线板">★</a>★★    | [航嘉 插线板] | 干净简洁 | ￥148 | [#](http://www.jd.com/pinpai/1052-8011.html)
 
@@ -52,7 +53,7 @@
 评分   | 名称  | 功能简述 | 参考报价 | 测评
 ----- | ----- | ------ | ----- | -----
 <a href="#Smart-Cover" name="Smart-Cover">★</a>★★★★  | [Smart Cover] | 官方出品，iPad好伴侣 | ￥298 | [#](http://store.apple.com/cn/ipad/ipad-accessories/cases#!)
-<a href="#小米-移动电源" name="小米-移动电源">★</a>★★★   | [小米 移动电源] | 大容量，酷设计，同Macbook质感外观 | ￥69 | [#](http://www.imore.com/elevation-dock-iphone-review)
+<a href="#小米-移动电源" name="小米-移动电源">★</a>★★★   | [小米 移动电源] | 大容量，酷设计，同Macbook质感外观 | ￥69 | [#](http://v.youku.com/v_show/id_XNjQzNjY0MjU2.html)
 <a href="#Elevation-底座" name="Elevation-底座">★</a>★★☆   | [Elevation 底座] | 时尚外观，航空材质，可带套充电 | ￥599 | [#](http://knewone.com/things/elevationdock/reviews/51f87e9cb10be55f3c000001)
 <a href="#罗技-mini键盘" name="罗技-mini键盘">★</a>★★☆   | [罗技 mini键盘] |  iPad Mini 2键盘，配合蜂窝网络版mini使用 | ￥430 | [#](http://apple.yesky.com/451/35418451.shtml)
 <a href="#Element-手机壳" name="Element-手机壳">★</a>★★☆   | [Element 手机壳] |  酷感外观，航空材质，贴合保护 | ￥900 | [#](http://www.chiphell.com/forum.php?mod=viewthread&tid=911118)
@@ -126,6 +127,7 @@ Released under [MIT] LICENSE
 [Belkin USB扩展]: http://www.belkin.com/cn/ 'BELKIN 4-Port Ultra-Slim Desktop Hub'
 [LG 蓝牙耳机]: http://www.lg.com/us/cell-phone-accessories/lg-HBS700-tone 'LG Tone Ultra HBS-800'
 [航嘉 插线板]: http://www.jd.com/pinpai/1052-8011.html
+[Lacie 雷口硬盘]: http://www.lacie.com/products/product.htm?id=10549
 
 [Smart Cover]: http://store.apple.com/cn/ipad/ipad-accessories/cases
 [VOJO 数据线]: http://vojotech.taobao.com/
