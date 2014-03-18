@@ -1,26 +1,25 @@
 
-Best App
+Best App v1.3
 ----
+_发现 App 之美_
 
-*经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些可以改善生活的优质产品，
-于是创建了这个 List 项目，旨在让推荐变得有章可循*
+*经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，
+于是创建了这个 List 项目，旨在收集和推荐出色的 App 和 服务*
+
+欢迎大家推荐好的 App 添加，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
 ## 总目录
 
-欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
-
 1. [付费 Apps 推荐列表(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/README.md)
 2. [付费 Apps 推荐列表(iOS & Cydia)](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md)
-3. [免费 Apps 推荐(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/Best-App-Mac-Free.md) - 整理中...
-4. [免费 Apps 推荐列表(iOS & Cydia)](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS-Free.md) - 整理中...
-5. [苹果设备 周边&配件 推荐列表](https://github.com/hzlzh/Best-App/blob/master/Best-Accessories-Apple.md)
-6. [付费 Apps 推荐列表(Android)](https://github.com/hzlzh/Best-App/blob/master/Best-App-Android.md) - 整理中...
-7. [改善生活+提升幸福度物品 推荐列表](https://github.com/hzlzh/Best-App/blob/master/Best-Life-Products.md) - 整理中...
+3. 免费 Apps 推荐(Mac OS) - 整理中...
+4. 免费 Apps 推荐列表(iOS & Cydia) - 整理中...
+5. [苹果设备 周边&配件 推荐列表](https://github.com/hzlzh/Best-App/blob/master/Best-Accessories-Apple.md) - 整理中...
 
 ====
 
->注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。  
->注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
+>注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。
+>注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
 ## 1. 付费软件篇 (Mac OS)
