@@ -47,6 +47,7 @@
 <a href="#Lacie-雷口硬盘" name="Lacie-雷口硬盘">★</a>★★    | [Lacie 移动硬盘] | 高速雷电接口，时尚外观，轻盈材质 | ￥2500 | [#](http://www.macx.cn/thread-2030260-1-1.html)
 <a href="#LG-蓝牙耳机" name="LG-蓝牙耳机">★</a>★★    | [LG 蓝牙耳机] | 环颈设计，自动降噪设计 | ￥899 | [#](http://knewone.com/things/lg-tone-ultra-hbs-800)
 <a href="#航嘉-插线板" name="航嘉-插线板">★</a>★★    | [航嘉 插线板] | 干净简洁 | ￥148 | [#](http://www.jd.com/pinpai/1052-8011.html)
+<a>★</a>★★    | **更多好产品** | **欢迎你的推荐或建议** | | 
 
 #### 1.2 iPhone/iPad 外设周边类
 
@@ -58,7 +59,7 @@
 <a href="#Element-手机壳" name="Element-手机壳">★</a>★★☆   | [Element 手机壳] |  酷感外观，航空材质，贴合保护 | ￥900 | [#](http://www.chiphell.com/forum.php?mod=viewthread&tid=911118)
 <a href="#小米-移动电源" name="小米-移动电源">★</a>★★☆   | [小米 移动电源] | 大容量，酷设计，同Macbook质感外观 | ￥49/￥69 | [#](http://v.youku.com/v_show/id_XNjQzNjY0MjU2.html)
 <a href="#外置镜头" name="外置镜头">★</a>★★    | [外置镜头] | 玩具，广角、鱼眼、微距三合一 | ￥25 | [#](http://digi.tech.qq.com/a/20110716/000005_2.htm)
-
+<a>★</a>★★    | **更多好产品** | **欢迎你的推荐或建议** | | 
 ## 购买建议
 
 * 按需购入，勿冲动
