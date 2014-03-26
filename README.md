@@ -91,7 +91,7 @@ Best App
 <a href="#Instashare" name="Instashare">★</a>★★   | [Instashare] | 基于 蓝牙/WiFi 文件互传(iOS/Mac)  | $2.99 | [#](http://www.imore.com/instashare-iphone-and-ipad-review)
 <a href="#WiFi-Explorer" name="WiFi-Explorer">★</a>★★   | [WiFi Explorer] | 深度解读身边 WiFi 信号，了如指掌 | $2.99 | [#](http://mac.appstorm.net/reviews/utilities/wifi-explorer-the-wireless-swiss-army-knife/)
 <a href="#WiFi-Scanner" name="WiFi-Scanner">★</a>★★   | [WiFi Scanner] | 同上，另一款，冰点中 | $0.99 | [#](http://download.cnet.com/WiFi-Scanner/3000-18508_4-75017924.html)
-
+<a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持iOS平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
 #### 1.2 开发类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
@@ -250,6 +250,7 @@ Released under [MIT] LICENSE
 [iPack]: http://ipackapp.com/‎
 [LiveReload]: http://livereload.com/‎
 [Kaleidoscope]: http://www.kaleidoscopeapp.com/
+[Moneywiz]: http://moneywizapp.com/
 [MAMP PRO]: http://www.mamp.info/
 [Play by Play]: http://playbyplayapp.com/
 [Intellij IDEA]: http://www.jetbrains.com/idea/
