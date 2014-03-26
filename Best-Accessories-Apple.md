@@ -44,6 +44,7 @@
 <a href="#iFixit-工具包" name="iFixit-工具包">★</a>★★    | [iFixit 工具包] | 硬件Geek必备，拆机/DIY好帮手 | ￥430 | [#](http://www.ifixit.com/Store)
 <a href="#mStand-支架" name="mStand-支架">★</a>★★    | [mStand 支架] | 铝质外壳，简约设计 | ￥300 | [#](http://show.smzdm.com/detail/21439)
 <a href="#Belkin-USB扩展" name="Belkin-USB扩展">★</a>★★    | [Belkin USB扩展] | USB Hub | ￥80 | [#](http://www.belkin.com/cn/)
+<a href="#JM-旋转底座" name="JM-旋转底座">★</a>★★    | [JM 旋转底座] | iMac 旋转底座，不怕被围观设计稿了 | $69 | [#](http://www.just-mobile.com/mac/aludisc.html)
 <a href="#Lacie-雷口硬盘" name="Lacie-雷口硬盘">★</a>★★    | [Lacie 移动硬盘] | 高速雷电接口，时尚外观，轻盈材质 | ￥2500 | [#](http://www.macx.cn/thread-2030260-1-1.html)
 <a href="#LG-蓝牙耳机" name="LG-蓝牙耳机">★</a>★★    | [LG 蓝牙耳机] | 环颈设计，自动降噪设计 | ￥899 | [#](http://knewone.com/things/lg-tone-ultra-hbs-800)
 <a href="#航嘉-插线板" name="航嘉-插线板">★</a>★★    | [航嘉 插线板] | 干净简洁 | ￥148 | [#](http://www.jd.com/pinpai/1052-8011.html)
@@ -125,6 +126,7 @@ Released under [MIT] LICENSE
 [Cocoon 收纳板]: https://www.cocooninnovations.com/grid.php
 [iFixit 工具包]: http://www.ifixit.com/Store
 [mStand 支架]: https://www.raindesigninc.com/mstand.html
+[JM 旋转底座]: http://www.just-mobile.com/mac/aludisc.html
 [Belkin USB扩展]: http://www.belkin.com/cn/ 'BELKIN 4-Port Ultra-Slim Desktop Hub'
 [LG 蓝牙耳机]: http://www.lg.com/us/cell-phone-accessories/lg-HBS700-tone 'LG Tone Ultra HBS-800'
 [航嘉 插线板]: http://www.jd.com/pinpai/1052-8011.html
