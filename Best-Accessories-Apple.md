@@ -59,6 +59,7 @@
 <a href="#罗技-mini键盘" name="罗技-mini键盘">★</a>★★☆   | [罗技 mini键盘] |  iPad Mini 2键盘，配合蜂窝网络版mini使用 | ￥430 | [#](http://apple.yesky.com/451/35418451.shtml)
 <a href="#Element-手机壳" name="Element-手机壳">★</a>★★☆   | [Element 手机壳] |  酷感外观，航空材质，贴合保护 | ￥900 | [#](http://www.chiphell.com/forum.php?mod=viewthread&tid=911118)
 <a href="#小米-移动电源" name="小米-移动电源">★</a>★★☆   | [小米 移动电源] | 大容量，酷设计，同Macbook质感外观 | ￥49/￥69 | [#](http://v.youku.com/v_show/id_XNjQzNjY0MjU2.html)
+<a href="#HiRise-底座" name="HiRise-底座">★</a>★★☆   | [HiRise-底座] | 全铝机身，带套可用，iOS通用 | $34.99 | [#](http://9to5mac.com/2013/08/11/review-twelve-south-hirise-stand-for-iphone-5-ipad-mini/)
 <a href="#外置镜头" name="外置镜头">★</a>★★    | [外置镜头] | 玩具，广角、鱼眼、微距三合一 | ￥25 | [#](http://digi.tech.qq.com/a/20110716/000005_2.htm)
 <a>★</a>★★    | **更多好产品** | **欢迎你的推荐或建议** | | 
 ## 购买建议
@@ -131,6 +132,7 @@ Released under [MIT] LICENSE
 [LG 蓝牙耳机]: http://www.lg.com/us/cell-phone-accessories/lg-HBS700-tone 'LG Tone Ultra HBS-800'
 [航嘉 插线板]: http://www.jd.com/pinpai/1052-8011.html
 [Lacie 移动硬盘]: http://www.lacie.com/products/product.htm?id=10549
+[HiRise-底座]: http://www.twelvesouth.com/product/hirise-iphone5-ipad-mini
 
 [Smart Cover]: http://store.apple.com/cn/ipad/ipad-accessories/cases
 [VOJO 数据线]: http://vojotech.taobao.com/
