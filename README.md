@@ -1,5 +1,5 @@
 
-Best App
+Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/trend.png)
 ----
 
 *经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些可以改善生活的优质产品，
