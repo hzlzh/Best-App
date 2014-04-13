@@ -1,4 +1,3 @@
-
 Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/trend.png)
 ----
 
@@ -106,7 +105,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#CodeKit" name="CodeKit">★</a>★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
 <a href="#Sublime-Text" name="Sublime-Text">★</a>★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
 <a href="#Intellij-IDEA" name="Intellij-IDEA">★</a>★★★  | [Intellij IDEA] | 编辑器 | $199 | [#](http://development-software.findthebest.com/l/19/IntelliJ-IDEA)
-<a href="#Atom" name="Atom">★</a>★★★  | [Atom] | Github 自家出的编辑器 | $xx/Free | [#](http://www.techspot.com/news/55845-github-unveils-atom-text-editor-for-developers.html)
+<a href="#Atom" name="Atom">★</a>★★★  | [Atom] | GitHub 自家出的编辑器 | $xx/Free | [#](http://www.techspot.com/news/55845-github-unveils-atom-text-editor-for-developers.html)
 <a href="#Coda" name="Coda">★</a>★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
 <a href="#Textastic" name="Textastic">★</a>★★★  | [Textastic] | 编辑器，iOS 同步/友好 | $8.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/textastic-the-ios-code-editor-to-beat-now-on-the-mac/)
 <a href="#Versions" name="Versions">★</a>★★★  | [Versions] | SVN 版本控制工具 | $59 | [#](http://stackoverflow.com/questions/899/best-subversion-client-for-mac-os)
@@ -128,7 +127,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#iTunes-Match" name="iTunes-Match">★</a>★★   | [iTunes Match] | iTunes 音乐服务 | $24.99/year | [#](http://www.maclife.com/article/reviews/itunes_match_review)
 <a href="#Google-Music" name="Google-Music">★</a>★★   | [Google Music] | Google 音乐服务 | $9.99/month | [#](https://play.google.com/about/music/)
 <a href="#Evernote-Pro" name="Evernote-Pro">★</a>★★   | [Evernote Pro] | 笔记服务 | $45/year | [#](http://www.pcworld.com/article/2033479/become-an-evernote-power-user-10-must-know-tips.html)
-<a href="#Github-Pro" name="Github-Pro">★</a>★★   | [Github Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features‎)
+<a href="#GitHub-Pro" name="GitHub-Pro">★</a>★★   | [GitHub Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features‎)
 <a href="#Dropbox-Pro" name="Dropbox-Pro">★</a>★★   | [Dropbox Pro] | 云存储/分享服务 | $9.99/month | [#](https://www.dropbox.com/upgrade)
 <a href="#Droplr-Pro" name="Droplr-Pro">★</a>★★   | [Droplr Pro] | 分享文件，支持自定义短链域名和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
 <a href="#CloudApp-Pro" name="CloudApp-Pro">★</a>★★   | [CloudApp Pro] | 云存储/分享服务 | $45/year | [#](http://store.getcloudapp.com/)
@@ -280,7 +279,7 @@ Released under [MIT] LICENSE
 [iTunes Match]: http://www.apple.com/itunes/itunes-match/
 [Textastic]: http://www.textasticapp.com/
 [Dropbox Pro]: https://www.dropbox.com/pricing
-[Github Pro]: https://github.com/features
+[GitHub Pro]: https://github.com/features
 [CloudApp Pro]: http://store.getcloudapp.com/
 [Rdio Pro]: http://www.rdio.com/
 [Google Music]: https://play.google.com/about/music/
