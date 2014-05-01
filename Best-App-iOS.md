@@ -59,7 +59,7 @@
 ★★★   | [Mextures] | 照片效果处理软件 | $1.99 | [#](http://reviews.cnet.com/software/mextures-ios/4505-3513_7-35782639.html)
 ★★★   | [Vesper] | 收集想法笔记 | $4.99 | [#](http://www.macstories.net/reviews/vesper-review-collect-your-thoughts/)
 ★★★   | [TeeVee] | 追美剧、TV Show等 | $1.99 | [#](http://www.imore.com/teevee-2-iphone-can-track-your-favorite-shows-and-alert-you-when-new-episode-airing)
-★★★   | [Air Display] | 用iOS设备做为扩展屏 | $19.99 | [#](http://www.148apps.com/reviews/air-display-2-review/)
+★★★   | [Air Display] | 用iOS设备做为扩展屏 | $9.99 | [#](http://www.148apps.com/reviews/air-display-2-review/)
 ★★★   | [Instaframe Pro] | 多图合一，拼合工具 | $1.99 | [#](http://www.148apps.com/reviews/instaframe-pro-review/)
 ★★★   | [OmmWriter] | 静心写作 | $4.99 | [#](http://www.148apps.com/reviews/ommwriter-ipad-review/)
 ★★★   | [Prompt] | SSH远程Host管理客户端 | $7.99 | [#](http://www.148apps.com/reviews/prompt-review/)
