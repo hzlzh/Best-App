@@ -64,6 +64,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Xee" name="Xee">★</a>★★★  | [Xee] | 图片浏览工具，可替代原生 | $4.5 | [#](http://www.cultofmac.com/49171/review-xee-a-cute-little-image-browser/)
 <a href="#Should-I-Sleep" name="Should-I-Sleep">★</a>★★★  | [Should I Sleep] | 让你的mac不仅节能，而且智能 | $9.99 | [#](http://www.macworld.com/article/2044786/mac-gems-should-i-sleep-puts-your-mac-into-a-proper-sleep-routine.html)
 <a href="#Pixelmator" name="Pixelmator">★</a>★★☆  | [Pixelmator] | 不想用PhotoShop？试试它 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/clash-of-the-image-editors-acorn-vs-pixelmator/)
+<a href="#PaintCode" name="PaintCode">★</a>★★★  | [PaintCode] | OC开发/设计工具 | $80 | [#](http://www.paintcodeapp.com/news/introducing-paintcode-2)
 <a href="#ScreenFlow" name="ScreenFlow">★</a>★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99 | [#](http://www.macworld.com/article/2039696/review-screenflow-4-a-great-but-quirky-video-capture-and-edit-tool.html)
 <a href="#OmmWriter" name="OmmWriter">★</a>★★☆  | [OmmWriter] | 静心写作 | $4.99 | [#](http://www.macworld.com/article/1166079/ommwriter_dana_helps_you_focus_when_writing.html)
 <a href="#Byword" name="Byword">★</a>★★☆  | [Byword] | 写博客App，支持MarkDown语法 | $9.99 | [#](http://macreview.com/2013/02/keycard-review/)
@@ -259,6 +260,7 @@ Released under [MIT] LICENSE
 [Short Menu]: http://floschliep.com/short-menu-mac/
 [Picatext]: http://www.picatext.com/
 [BetterSnap Tool]: http://blog.boastr.net/
+[PaintCode]: http://www.paintcodeapp.com/
 [Airmail]: http://airmailapp.com/
 [CodeKit]: http://incident57.com/codekit/
 [Instacast]: http://vemedio.com/products/instacast-mac
