@@ -138,7 +138,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 
 ## 购买建议
 
-* 建议尽量选择`冰点价格`或`打折促销`时购入，可以获得更大的优惠
+* 建议尽量选择`冰点价格`或`打折促销`时购入，如：[mou.li] 这样的团购代购服务
 * 部分软件开发商会有**官方**`团购打折`
 * `家庭装促销包授权`适合家里人一起使用
 * 关注和参与`个人`或`集体`组织的团购`活动`
@@ -294,3 +294,4 @@ Released under [MIT] LICENSE
 [WiFi Scanner]: https://itunes.apple.com/us/app/wifi-scanner/id411680127?mt=12
 [Atom]: https://atom.io/
 [Keka]: http://www.kekaosx.com/
+[mou.li]: http://mou.li/
