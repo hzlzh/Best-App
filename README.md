@@ -70,7 +70,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Byword" name="Byword">★</a>★★☆  | [Byword] | 写博客App，支持MarkDown语法 | $9.99 | [#](http://macreview.com/2013/02/keycard-review/)
 <a href="#Parallels-Desktop" name="Parallels-Desktop">★</a>★★☆  | [Parallels Desktop] | 虚拟机 | $79.99 | [#](http://www.macworld.com/article/2010694/review-parallels-desktop-8-vs-vmware-fusion-5.html)
 <a href="#Proxifier" name="Proxifier">★</a>★★☆  | [Proxifier] | 单App，规则代理工具 | $39.95 | [#](http://download.cnet.com/Proxifier/3000-2155_4-147076.html)
-<a href="#Growl" name="Growl">★</a>★★☆  | [Growl] | 消息提醒，原声提醒的鼻祖 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/meet-the-new-growl-improved-functionality-but-at-a-price/)
+<a href="#Growl" name="Growl">★</a>★★☆  | [Growl] | 消息提醒，原生提醒的鼻祖 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/meet-the-new-growl-improved-functionality-but-at-a-price/)
 <a href="#iPack" name="iPack">★</a>★★☆  | [iPack] | 压缩/解压工具，解决Win乱码问题 | $1.99 | [#](http://www.zhihu.com/question/20383279)
 <a href="#Keka" name="Keka">★</a>★★☆  | [Keka] | 压缩/解压工具 | $1.99 | [#](http://www.tuaw.com/2011/12/06/daily-mac-app-keka/)
 <a href="#Aperture" name="Aperture">★</a>★★☆  | [Aperture] | 专业的摄影相关软件 | $79.99 | [#](http://www.digitalcameraworld.com/2013/01/28/apple-aperture-3-4-3-review/)
