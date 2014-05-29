@@ -46,7 +46,6 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Keyboard-Maestro" name="Keyboard-Maestro">★</a>★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#](http://mac.appstorm.net/how-to/productivity-how-to/how-to-become-a-mac-keyboard-maestro/)
 <a href="#PopClip" name="PopClip">★</a>★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99 | [#](http://mac.appstorm.net/reviews/productivity-review/popclip-the-unexpectedly-awesome-productivity-tool/)
 <a href="#Clear" name="Clear">★</a>★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | [#](http://www.macstories.net/reviews/clear-for-mac-review/)
-<a href="#Readkit" name="Readkit">★</a>★★★☆ | [Readkit] | RSS客户端，支持feedly/pocket等服务  | ￥45 | [#](https://itunes.apple.com/cn/app/id588726889?mt=12/)
 <a href="#BreakTime" name="BreakTime">★</a>★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | [#](http://www.macworld.com/article/1164136/break_time_reminds_you_to_take_five.html)
 <a href="#Timing" name="Timing">★</a>★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $9.99 | [#](http://macdownload.informer.com/timing1/)
 <a href="#CleanMyMac" name="CleanMyMac">★</a>★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95 | [#](http://www.macworld.com/article/2036159/review-cleanmymac-2-removes-unnecessary-files-to-free-up-storage-space.html)
@@ -81,6 +80,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#DaisyDisk" name="DaisyDisk">★</a>★★   | [DaisyDisk] | 磁盘容量占用分布一目了然 | $9.95 | [#](http://mac.appstorm.net/reviews/utilities/daisydisk-3-beta-is-here-with-a-revamped-interface-and-new-tools/)
 <a href="#Gemini" name="Gemini">★</a>★★   | [Gemini] | 重复文件查找删除 | $9.99 | [#](http://www.macworld.com/article/1167669/gemini_finds_and_removes_your_duplicate_files.html)
 <a href="#plup" name="plup">★</a>★★   | [plup] | 新闻阅读器 | $9.99 | [#](http://mac.appstorm.net/reviews/internet-reviews/pulp-an-innovative-way-to-read-the-news-on-your-mac/)
+<a href="#Readkit" name="Readkit">★</a>★★   | [Readkit] | RSS客户端，支持feedly/pocket等服务  | ￥45 | [#](http://geekbeat.tv/review-readkit-for-os-x/)
 <a href="#Play-by-Play" name="Play-by-Play">★</a>★★   | [Play by Play] | Dribbble 客户端 | $4.99 | [#](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/)
 <a href="#Scrivener" name="Scrivener">★</a>★★   | [Scrivener] | 专业写作工具 | $59 | [#](http://mac.appstorm.net/reviews/office-review/scrivener-a-writers-best-friend/)
 <a href="#OmniOutliner" name="OmniOutliner">★</a>★★   | [OmniOutliner] | 写PPT、文档的好帮手 | $39.99 | [#](http://www.lifehack.org/articles/technology/30-days-with-omnioutliner-professional.html)
@@ -286,6 +286,7 @@ Released under [MIT] LICENSE
 [Dropbox Pro]: https://www.dropbox.com/pricing
 [Github Pro]: https://github.com/features
 [CloudApp Pro]: http://store.getcloudapp.com/
+[Readkit]: http://readkitapp.com/
 [Rdio Pro]: http://www.rdio.com/
 [Google Music]: https://play.google.com/about/music/
 [RescueTime]: https://www.rescuetime.com/plans
