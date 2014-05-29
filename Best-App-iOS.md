@@ -54,6 +54,7 @@
 ★★★   | [Wolfram] | 计算和知识库 | $2.99 | [#](http://lifehacker.com/tag/wolfram-alpha)
 ★★★   | [Solar] | 精美天气应用 | $0.99 | [#](http://www.imore.com/solar-weather-iphone-review)
 ★★★   | [Writer Pro] | 个人写作软件 | $19.99 | [#](http://www.imore.com/writer-pro-now-available-app-store-both-mac-and-ios)
+★★★   | [Editorial] | MarkDown书写软件 | $6.99 | [#](http://www.macstories.net/stories/editorial-for-ipad-review/)
 ★★★   | [Notability] | 日记软件 | $2.99 | [#](http://www.laptopmag.com/reviews/note-taking-apps/notability.aspx)
 ★★★   | [Gneo] | GTD:To-do类 | $9.99 | [#](http://appadvice.com/review/quickadvice-gneo)
 ★★★   | [Mextures] | 照片效果处理软件 | $1.99 | [#](http://reviews.cnet.com/software/mextures-ios/4505-3513_7-35782639.html)
@@ -188,6 +189,7 @@ Released under [MIT] LICENSE
 [Living Earth Clock]: http://www.livingearthapp.com/
 [xScope Mirror]: http://xscopeapp.com/
 [Sync for Firefox]: http://apollobrowser.com/
+[Editorial]: http://omz-software.com/editorial/
 [Screens VNC]: http://edovia.com/en/screens.html
 [Mobile Mouse]: http://mobilemouse.com/
 [Live Cams Pro]: http://eggmantechnologies.com/apps/livecamspro/
