@@ -183,6 +183,7 @@ Released under [MIT] LICENSE
 [Instaframe Pro]: http://www.insta-frame.com/
 [OmmWriter]: http://www.ommwriter.com/
 [Prompt]: http://panic.com/prompt/
+[Editorial]: http://omz-software.com/editorial/
 [iA Writer]: http://www.iawriter.com/iphone/
 [StockWatch]: http://stockwatch.toughturtle.com/
 [Money Monitor]: http://www.maxwellapps.com/
