@@ -101,7 +101,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Dash" name="Dash">★</a>★★★★ | [Dash] | 全语言文档手册速查 | $19.99 | [#](http://brettterpstra.com/2013/04/26/mac-app-review-dash-for-developers/)
 <a href="#xScope" name="xScope">★</a>★★★★ | [xScope] | 8合一标尺神器 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/xscope-3-big-improvements-to-the-designers-best-friend/)
 <a href="#Kaleidoscope" name="Kaleidoscope">★</a>★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99 | [#](http://mac.appstorm.net/reviews/utilities/easily-compare-file-versions-with-kaleidoscope/)
-<a href="#MAMP-PRO" name="MAMP-PRO">★</a>★★★☆ | [MAMP PRO] | 开发集成环境，本地网站管理 | $59 | [#](http://mac.appstorm.net/reviews/internet-reviews/running-a-local-server-with-mamp/)
+<a href="#MAMP-PRO" name="MAMP-PRO">★</a>★★★☆ | [MAMP PRO] | PHP+Mysql开发集成环境，本地站点 | $59 | [#](http://mac.appstorm.net/reviews/internet-reviews/running-a-local-server-with-mamp/)
 <a href="#CodeRunner" name="CodeRunner">★</a>★★★☆ | [CodeRunner] | 各编程语言快速测试集成环境 | $9.99 | [#](http://brettterpstra.com/2011/10/28/app-review-coderunner/)
 <a href="#Charles" name="Charles">★</a>★★★☆ | [Charles] | 抓包代理调试工具、类 Fiddler | $50 | [#](http://www.99css.com/archives/1272)
 <a href="#LiveReload" name="LiveReload">★</a>★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99 | [#](http://brettterpstra.com/2011/12/02/app-review-livereload/)
