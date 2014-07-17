@@ -24,9 +24,9 @@
 
 评分   | 名称  | 功能简述 | 参考价格 | 测评
 ----- | ----- | ------ | ----- | -----
-<a href="#Magic-Mouse" name="Magic-Mouse">★</a>★★★★  | [Magic Mouse] | 官方出品，无线鼠标 | ￥488 | [#](https://www.apple.com/cn/magicmouse/)
 <a href="#Magic-Trackpad" name="Magic-Trackpad">★</a>★★★★  | [Magic Trackpad] | 官方出品，无线触控板 | ￥488 | [#](https://www.apple.com/cn/magictrackpad/)
 <a href="#Wireless-Keyboard" name="Wireless-Keyboard">★</a>★★★★  | [Wireless Keyboard] | 官方出品，无线键盘 | ￥488| [#](https://www.apple.com/cn/keyboard/)
+<a href="#Magic-Mouse" name="Magic-Mouse">★</a>★★★☆  | [Magic Mouse] | 官方出品，无线鼠标 | ￥488 | [#](https://www.apple.com/cn/magicmouse/)
 <a href="#HHKB-键盘" name="HHKB-键盘">★</a>★★★☆  | [HHKB 键盘] | 口碑极佳，Vim/Emacs友好 | ￥1799 | [#](http://knewone.com/things/hhkb-pro-2)
 <a href="#Incase-电脑包" name="Incase-电脑包">★</a>★★★   | [Incase 电脑包] | 优秀设计，口碑极佳，官方推荐 | ￥600 | [#](https://www.youtube.com/watch?v=Re7hyVB01z4)
 <a href="#Mad-Catz-鼠标" name="Mad-Catz-鼠标">★</a>★★★   | [Mad Catz 鼠标] | 优质Mac驱动支持，充足自定义键 | ￥1129 | [#](http://news3.sanhaojie.com/2/lib/201209/28/20120928447.htm)
@@ -45,9 +45,11 @@
 <a href="#mStand-支架" name="mStand-支架">★</a>★★    | [mStand 支架] | 铝质外壳，简约设计 | ￥300 | [#](http://show.smzdm.com/detail/21439)
 <a href="#Belkin-USB扩展" name="Belkin-USB扩展">★</a>★★    | [Belkin USB扩展] | USB Hub | ￥80 | [#](http://www.belkin.com/cn/)
 <a href="#JM-旋转底座" name="JM-旋转底座">★</a>★★    | [JM 旋转底座] | iMac 旋转底座，不怕被围观设计稿了 | $69 | [#](http://www.just-mobile.com/mac/aludisc.html)
+<a href="#L4-Stand" name="L4-Stand">★</a>★★    | [L4 Stand] | Mac底座，设计简约 | $44.99 | [#](http://laptopstands.productreviewgroup.com/elago-l4-stand-for-laptop-computer-silver-review.html)
 <a href="#Lacie-雷口硬盘" name="Lacie-雷口硬盘">★</a>★★    | [Lacie 移动硬盘] | 高速雷电接口，时尚外观，轻盈材质 | ￥2500 | [#](http://www.macx.cn/thread-2030260-1-1.html)
 <a href="#LG-蓝牙耳机" name="LG-蓝牙耳机">★</a>★★    | [LG 蓝牙耳机] | 环颈设计，自动降噪设计 | ￥899 | [#](http://knewone.com/things/lg-tone-ultra-hbs-800)
 <a href="#航嘉-插线板" name="航嘉-插线板">★</a>★★    | [航嘉 插线板] | 干净简洁 | ￥148 | [#](http://www.jd.com/pinpai/1052-8011.html)
+
 <a>★</a>★★    | **更多好产品** | **欢迎你的推荐或建议** | | 
 
 #### 1.2 iPhone/iPad 外设周边类
@@ -57,6 +59,7 @@
 <a href="#Smart-Cover" name="Smart-Cover">★</a>★★★★  | [Smart Cover] | 官方出品，iPad好伴侣 | ￥298 | [#](http://store.apple.com/cn/ipad/ipad-accessories/cases#!)
 <a href="#Elevation-底座" name="Elevation-底座">★</a>★★☆   | [Elevation 底座] | 时尚外观，航空材质，可带套充电 | ￥599 | [#](http://knewone.com/things/elevationdock/reviews/51f87e9cb10be55f3c000001)
 <a href="#罗技-mini键盘" name="罗技-mini键盘">★</a>★★☆   | [罗技 mini键盘] |  iPad Mini 2键盘，配合蜂窝网络版mini使用 | ￥430 | [#](http://apple.yesky.com/451/35418451.shtml)
+<a href="#Slope-by-Dekke" name="Slope-by-Dekke">★</a>★★☆   | [Slope by Dekke] | 简洁纳米吸附底座 | $44.99 | [#](http://dekke.myshopify.com)
 <a href="#Element-手机壳" name="Element-手机壳">★</a>★★☆   | [Element 手机壳] |  酷感外观，航空材质，贴合保护 | ￥900 | [#](http://www.chiphell.com/forum.php?mod=viewthread&tid=911118)
 <a href="#小米-移动电源" name="小米-移动电源">★</a>★★☆   | [小米 移动电源] | 大容量，酷设计，同Macbook质感外观 | ￥49/￥69 | [#](http://v.youku.com/v_show/id_XNjQzNjY0MjU2.html)
 <a href="#HiRise-底座" name="HiRise-底座">★</a>★★    | [HiRise-底座] | 全铝机身，带套可用，iOS通用 | $34.99 | [#](http://9to5mac.com/2013/08/11/review-twelve-south-hirise-stand-for-iphone-5-ipad-mini/)
@@ -111,6 +114,7 @@ Released under [MIT] LICENSE
 [Wireless Keyboard]: https://www.apple.com/cn/keyboard/
 [Magic Trackpad]: https://www.apple.com/cn/magictrackpad/
 [Magic Mouse]: https://www.apple.com/cn/magicmouse/
+[L4 Stand]: http://elagodesign.com/view.php?p_seqno=33
 [Incase 电脑包]: http://goincase.com/
 [STM 电脑包]: http://www.stmbags.com.au/
 [SLIM 电脑包]: http://www.cocooninnovations.com/cat_info.php
@@ -128,6 +132,7 @@ Released under [MIT] LICENSE
 [iFixit 工具包]: http://www.ifixit.com/Store
 [mStand 支架]: https://www.raindesigninc.com/mstand.html
 [JM 旋转底座]: http://www.just-mobile.com/mac/aludisc.html
+[Slope by Dekke]: http://dekke.myshopify.com
 [Belkin USB扩展]: http://www.belkin.com/cn/ 'BELKIN 4-Port Ultra-Slim Desktop Hub'
 [LG 蓝牙耳机]: http://www.lg.com/us/cell-phone-accessories/lg-HBS700-tone 'LG Tone Ultra HBS-800'
 [航嘉 插线板]: http://www.jd.com/pinpai/1052-8011.html
