@@ -251,7 +251,7 @@ Released under [MIT] LICENSE
 [Gemini]: http://macpaw.com/gemini
 [Keycard]: http://www.appuous.com/products/mac/keycard.html
 [Geekbench]: http://browser.primatelabs.com/mac-benchmarks
-[iPack]: http://ipackapp.com/‎
+[iPack]: http://ipackapp.com/
 [LiveReload]: http://livereload.com/‎
 [Kaleidoscope]: http://www.kaleidoscopeapp.com/
 [Moneywiz]: http://moneywizapp.com/
