@@ -41,7 +41,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Tweetbot" name="Tweetbot">★</a>★★★☆ | [Tweetbot] | Twitter客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
 <a href="#Airmail" name="Airmail">★</a>★★★☆ | [Airmail] | Email客户端新秀 | $1.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
 <a href="#Sparrow" name="Sparrow">★</a>★★★☆ | [Sparrow] | Email客户端 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/sparrow-minimal-functional-and-elegant-email/)
-<a href="#jitouch" name="jitouch">★</a>★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $5.99 | [#](http://www.macworld.com/article/1151457/jitouch.html)
+<a href="#jitouch" name="jitouch">★</a>★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $7.99 | [#](http://www.macworld.com/article/1151457/jitouch.html)
 <a href="#OmniFocus" name="OmniFocus">★</a>★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 <a href="#Keyboard-Maestro" name="Keyboard-Maestro">★</a>★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#](http://mac.appstorm.net/how-to/productivity-how-to/how-to-become-a-mac-keyboard-maestro/)
 <a href="#PopClip" name="PopClip">★</a>★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99 | [#](http://mac.appstorm.net/reviews/productivity-review/popclip-the-unexpectedly-awesome-productivity-tool/)
