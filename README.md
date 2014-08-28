@@ -112,6 +112,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Atom" name="Atom">★</a>★★★  | [Atom] | Github 自家出的编辑器 | $xx/Free | [#](http://www.techspot.com/news/55845-github-unveils-atom-text-editor-for-developers.html)
 <a href="#Coda" name="Coda">★</a>★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
 <a href="#Textastic" name="Textastic">★</a>★★★  | [Textastic] | 编辑器，iOS 同步/友好 | $8.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/textastic-the-ios-code-editor-to-beat-now-on-the-mac/)
+<a href="#Tower" name="Tower">★</a>★★★  | [Tower] | Git 版本控制工具 | $59 | [#](http://mac.appstorm.net/reviews/utilities/tower-gits-it-done/)
 <a href="#Versions" name="Versions">★</a>★★★  | [Versions] | SVN 版本控制工具 | $59 | [#](http://stackoverflow.com/questions/899/best-subversion-client-for-mac-os)
 <a href="#Cornerstone" name="Cornerstone">★</a>★★★  | [Cornerstone] | 同样是 SVN 管理工具 | $59 | [#](http://srced.com/2011/02/cornerstone-2-review-the-best-version-control-system/)
 <a href="#ColorSchemer" name="ColorSchemer">★</a>★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/colorschemer-studio-2-instant-color-schemes/)
@@ -265,6 +266,7 @@ Released under [MIT] LICENSE
 [PaintCode]: http://www.paintcodeapp.com/
 [Airmail]: http://airmailapp.com/
 [CodeKit]: http://incident57.com/codekit/
+[Tower]: http://www.git-tower.com/
 [Instacast]: http://vemedio.com/products/instacast-mac
 [Sketch]: http://www.bohemiancoding.com/sketch/
 [ColorSnapper]: http://colorsnapper.com
