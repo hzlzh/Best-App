@@ -63,8 +63,9 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Scrapbook" name="Scrapbook">★</a>★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99 | [#](http://mac.appstorm.net/reviews/lifestyle/an-in-depth-look-at-ember-the-new-digital-scrapbook/)
 <a href="#Xee" name="Xee">★</a>★★★  | [Xee] | 图片浏览工具，可替代原生 | $4.5 | [#](http://www.cultofmac.com/49171/review-xee-a-cute-little-image-browser/)
 <a href="#Should-I-Sleep" name="Should-I-Sleep">★</a>★★★  | [Should I Sleep] | 让你的Mac不仅节能，而且智能 | $9.99 | [#](http://www.macworld.com/article/2044786/mac-gems-should-i-sleep-puts-your-mac-into-a-proper-sleep-routine.html)
+<a href="#SaneDesk" name="SaneDesk">★</a>★★★  | [SaneDesk] | 高效的切换/隐藏桌面工作区 | $17.99 | [#](http://mac.appstorm.net/reviews/utilities/sanedesk-empower-your-mac-desktop/)
 <a href="#Pixelmator" name="Pixelmator">★</a>★★☆  | [Pixelmator] | 不想用Photoshop？试试它 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/clash-of-the-image-editors-acorn-vs-pixelmator/)
-<a href="#PaintCode" name="PaintCode">★</a>★★★  | [PaintCode] | OC开发/设计工具 | $80 | [#](http://www.paintcodeapp.com/news/introducing-paintcode-2)
+<a href="#PaintCode" name="PaintCode">★</a>★★   | [PaintCode] | OC开发/设计工具 | $80 | [#](http://www.paintcodeapp.com/news/introducing-paintcode-2)
 <a href="#ScreenFlow" name="ScreenFlow">★</a>★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99 | [#](http://www.macworld.com/article/2039696/review-screenflow-4-a-great-but-quirky-video-capture-and-edit-tool.html)
 <a href="#OmmWriter" name="OmmWriter">★</a>★★☆  | [OmmWriter] | 静心写作 | $4.99 | [#](http://www.macworld.com/article/1166079/ommwriter_dana_helps_you_focus_when_writing.html)
 <a href="#Byword" name="Byword">★</a>★★☆  | [Byword] | 写博客App，支持Markdown语法 | $9.99 | [#](http://macreview.com/2013/02/keycard-review/)
@@ -221,6 +222,7 @@ Released under [MIT] LICENSE
 [LockScreen]: https://itunes.apple.com/us/app/lock-screen-2/id445423011?mt=12
 [Moom]: http://manytricks.com/moom/
 [OmmWriter]: http://www.ommwriter.com/
+[SaneDesk]: http://www.sanedeskapp.com/
 [Parallels Desktop]: http://www.parallels.com/products/desktop/
 [Proxifier]: http://www.proxifier.com/
 [ColorSchemer]: http://www.colorschemer.com/
