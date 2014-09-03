@@ -165,7 +165,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 * [AppFridays](http://appyfridays.com/)
 * [Macheist](http://macheist.com/)
 * [V2EX MacOS](http://v2ex.com/go/macosx)
-* [iNews](http://inews.io/)
+* [StackSocial](http://stacksocial.com/?aid=a-9j496mje)
 
 ## 关于
 
