@@ -66,7 +66,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#SaneDesk" name="SaneDesk">★</a>★★★  | [SaneDesk] | 高效的切换/隐藏桌面工作区 | $17.99 | [#](http://mac.appstorm.net/reviews/utilities/sanedesk-empower-your-mac-desktop/)
 <a href="#Entropy" name="Entropy">★</a>★★☆  | [Entropy] | 华丽高效快捷压缩工具 | $18.99 | [#](http://www.macupdate.com/app/mac/38116/entropy)
 <a href="#Pixelmator" name="Pixelmator">★</a>★★☆  | [Pixelmator] | 不想用Photoshop？试试它 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/clash-of-the-image-editors-acorn-vs-pixelmator/)
-<a href="#PaintCode" name="PaintCode">★</a>★★   | [PaintCode] | OC开发/设计工具 | $80 | [#](http://www.paintcodeapp.com/news/introducing-paintcode-2)
+<a href="#PaintCode" name="PaintCode">★</a>★★☆  | [PaintCode] | OC开发/设计工具 | $80 | [#](http://www.paintcodeapp.com/news/introducing-paintcode-2)
 <a href="#ScreenFlow" name="ScreenFlow">★</a>★★☆  | [ScreenFlow] | 屏幕录制、视频剪辑 | $99 | [#](http://www.macworld.com/article/2039696/review-screenflow-4-a-great-but-quirky-video-capture-and-edit-tool.html)
 <a href="#OmmWriter" name="OmmWriter">★</a>★★☆  | [OmmWriter] | 静心写作 | $4.99 | [#](http://www.macworld.com/article/1166079/ommwriter_dana_helps_you_focus_when_writing.html)
 <a href="#Byword" name="Byword">★</a>★★☆  | [Byword] | 写博客App，支持Markdown语法 | $9.99 | [#](http://macreview.com/2013/02/keycard-review/)
