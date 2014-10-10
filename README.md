@@ -85,7 +85,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#plup" name="plup">★</a>★★   | [plup] | 新闻阅读器 | $9.99 | [#](http://mac.appstorm.net/reviews/internet-reviews/pulp-an-innovative-way-to-read-the-news-on-your-mac/)
 <a href="#Readkit" name="Readkit">★</a>★★   | [Readkit] | RSS客户端，支持feedly/pocket等服务  | ￥45 | [#](http://geekbeat.tv/review-readkit-for-os-x/)
 <a href="#Play-by-Play" name="Play-by-Play">★</a>★★   | [Play by Play] | Dribbble 客户端 | $4.99 | [#](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/)
-<a href="#Scrivener" name="Scrivener">★</a>★★   | [Scrivener] | 专业写作工具 | $59 | [#](http://mac.appstorm.net/reviews/office-review/scrivener-a-writers-best-friend/)
+<a href="#Scrivener" name="Scrivener">★</a>★★   | [Scrivener] | 专业写作工具 | $45 | [#](http://mac.appstorm.net/reviews/office-review/scrivener-a-writers-best-friend/)
 <a href="#OmniOutliner" name="OmniOutliner">★</a>★★   | [OmniOutliner] | 写PPT、文档的好帮手 | $39.99 | [#](http://www.lifehack.org/articles/technology/30-days-with-omnioutliner-professional.html)
 <a href="#Ulysses" name="Ulysses">★</a>★★   | [Ulysses] | 专业文本编辑工具，支持 Markdown | $44.99 | [#](http://mac.appstorm.net/reviews/productivity-review/ulysses-iii-a-markdown-writing-app-like-no-other/)
 <a href="#iExplorer" name="iExplorer">★</a>★★   | [iExplorer] | 管理iOS设备 | $34.99 | [#](http://www.techrepublic.com/blog/windows-and-office/review-get-direct-access-to-your-iphones-files-with-iexplorer/)
