@@ -73,6 +73,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Parallels-Desktop" name="Parallels-Desktop">★</a>★★☆  | [Parallels Desktop] | 虚拟机 | $79.99 | [#](http://www.macworld.com/article/2010694/review-parallels-desktop-8-vs-vmware-fusion-5.html)
 <a href="#Proxifier" name="Proxifier">★</a>★★☆  | [Proxifier] | 单App，规则代理工具 | $39.95 | [#](http://download.cnet.com/Proxifier/3000-2155_4-147076.html)
 <a href="#Default-Folder-X" name="Default-Folder-X">★</a>★★☆  | [Default Folder X] | 快速定位/选择常用文件夹 | $34.94 | [#](http://mac.appstorm.net/reviews/productivity-review/default-folder-x-browse-file-dialogs-at-lightning-speed/)
+<a href="#GhostTile" name="GhostTile">★</a>★★☆  | [GhostTile] | 隐藏 Dock 上的图标/进程 | $9.99 | [#](http://www.appinn.com/ghosttile-for-osx/)
 <a href="#Growl" name="Growl">★</a>★★☆  | [Growl] | 消息提醒，原生提醒的鼻祖 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/meet-the-new-growl-improved-functionality-but-at-a-price/)
 <a href="#iPack" name="iPack">★</a>★★☆  | [iPack] | 压缩/解压工具，解决Win乱码问题 | $1.99 | [#](http://www.zhihu.com/question/20383279)
 <a href="#Keka" name="Keka">★</a>★★☆  | [Keka] | 压缩/解压工具 | $1.99 | [#](http://www.tuaw.com/2011/12/06/daily-mac-app-keka/)
@@ -282,6 +283,7 @@ Released under [MIT] LICENSE
 [Spotify Pro]: https://www.spotify.com/
 [Droplr Pro]: https://droplr.com/
 [DEFAULT FOLDER X]: http://www.stclairsoft.com/DefaultFolderX/
+[GhostTile]: http://ghosttile.kernelpanic.im/
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
 [Ember]: https://realmacsoftware.com/ember
