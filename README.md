@@ -62,6 +62,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#ForkLift" name="ForkLift">★</a>★★★  | [ForkLift] | Finder替代品兼FTP工具 | $19.95 | [#](http://mac.appstorm.net/reviews/forklift-the-fast-functional-ftp-client/)
 <a href="#Scrapbook" name="Scrapbook">★</a>★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99 | [#](http://mac.appstorm.net/reviews/lifestyle/an-in-depth-look-at-ember-the-new-digital-scrapbook/)
 <a href="#Xee" name="Xee">★</a>★★★  | [Xee] | 图片浏览工具，可替代原生 | $4.5 | [#](http://www.cultofmac.com/49171/review-xee-a-cute-little-image-browser/)
+<a href="#PhotoDesk" name="PhotoDesk">★</a>★★★  | [PhotoDesk] | Instagram 客户端，功能齐全 | $4.99 | [#](http://noodlemac.com/2014/01/photodesk-brings-instagram-to-your-mac-mostly/)
 <a href="#Should-I-Sleep" name="Should-I-Sleep">★</a>★★★  | [Should I Sleep] | 让你的Mac不仅节能，而且智能 | $9.99 | [#](http://www.macworld.com/article/2044786/mac-gems-should-i-sleep-puts-your-mac-into-a-proper-sleep-routine.html)
 <a href="#SaneDesk" name="SaneDesk">★</a>★★★  | [SaneDesk] | 高效的切换/隐藏桌面工作区 | $17.99 | [#](http://mac.appstorm.net/reviews/utilities/sanedesk-empower-your-mac-desktop/)
 <a href="#Entropy" name="Entropy">★</a>★★☆  | [Entropy] | 华丽高效快捷压缩工具 | $18.99 | [#](http://www.macupdate.com/app/mac/38116/entropy)
@@ -245,6 +246,7 @@ Released under [MIT] LICENSE
 [Sparrow]: http://sparrowmailapp.com/
 [Tweetbot]: http://tapbots.com/software/tweetbot/mac/
 [Xee]: http://xee.c3.cx/
+[PhotoDesk]: http://www.photodesk-app.com/
 [Pixelmator]: http://www.pixelmator.com/
 [xScope]: http://xscopeapp.com/
 [plup]: http://www.acrylicapps.com/pulp/
