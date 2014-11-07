@@ -100,6 +100,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#WiFi-Explorer" name="WiFi-Explorer">★</a>★★   | [WiFi Explorer] | 深度解读身边 WiFi 信号，了如指掌 | $2.99 | [#](http://mac.appstorm.net/reviews/utilities/wifi-explorer-the-wireless-swiss-army-knife/)
 <a href="#WiFi-Scanner" name="WiFi-Scanner">★</a>★★   | [WiFi Scanner] | 同上，另一款，冰点中 | $0.99 | [#](http://download.cnet.com/WiFi-Scanner/3000-18508_4-75017924.html)
 <a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持iOS平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
+<a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
 #### 1.2 开发类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
@@ -288,6 +289,7 @@ Released under [MIT] LICENSE
 [GhostTile]: http://ghosttile.kernelpanic.im/
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
+[Calcbot]: http://tapbots.com/software/calcbot/
 [Ember]: https://realmacsoftware.com/ember
 [Coda]: https://panic.com/coda/
 [Hazel]: http://www.noodlesoft.com/
