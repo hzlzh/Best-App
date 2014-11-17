@@ -49,6 +49,7 @@
 <a href="#Lacie-雷口硬盘" name="Lacie-雷口硬盘">★</a>★★    | [Lacie 移动硬盘] | 高速雷电接口，时尚外观，轻盈材质 | ￥2500 | [#](http://www.macx.cn/thread-2030260-1-1.html)
 <a href="#LG-蓝牙耳机" name="LG-蓝牙耳机">★</a>★★    | [LG 蓝牙耳机] | 环颈设计，自动降噪设计 | ￥899 | [#](http://knewone.com/things/lg-tone-ultra-hbs-800)
 <a href="#航嘉-插线板" name="航嘉-插线板">★</a>★★    | [航嘉 插线板] | 干净简洁 | ￥148 | [#](http://www.jd.com/pinpai/1052-8011.html)
+<a href="#Lexar急速U盘" name="Lexar急速U盘">★</a>★★    | [Lexar 急速U盘] | 镁光SLC芯片，读160写170 | ￥199 | [#](http://proclockers.com/reviews/storage/lexar-media-32gb-triton-usb-30-jump-drive-review)
 
 <a>★</a>★★    | **更多好产品** | **欢迎你的推荐或建议** | | 
 
@@ -127,6 +128,7 @@ Released under [MIT] LICENSE
 [HHKB 键盘]: https://elitekeyboards.com/ 'HHKB Pro 2'
 [Just Mobile 支架]: http://www.just-mobile.com/mac/lazy-couch.html 'Just Mobile Lazy Couch 支架'
 [zefyr2 散热器]: http://www.moshistore.com/
+[Lexar 急速U盘]: http://www.lexar.com/products/lexar-jumpdrive-triton-usb-30-flash-drive
 [Zowie 鼠标垫]: http://www.zowiegear.com/
 [Cocoon 收纳板]: https://www.cocooninnovations.com/grid.php
 [iFixit 工具包]: http://www.ifixit.com/Store
