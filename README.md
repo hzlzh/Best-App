@@ -115,7 +115,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#CodeKit" name="CodeKit">★</a>★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
 <a href="#Sublime-Text" name="Sublime-Text">★</a>★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
 <a href="#Intellij-IDEA" name="Intellij-IDEA">★</a>★★★  | [Intellij IDEA] | IDE(集成开发环境) | $199 | [#](http://development-software.findthebest.com/l/19/IntelliJ-IDEA)
-<a href="#Atom" name="Atom">★</a>★★★  | [Atom] | Github 自家出的编辑器 | $xx/Free | [#](http://www.techspot.com/news/55845-github-unveils-atom-text-editor-for-developers.html)
+<a href="#Atom" name="Atom">★</a>★★★  | [Atom] | Github 自家出的编辑器 | Free | [#](http://www.techspot.com/news/55845-github-unveils-atom-text-editor-for-developers.html)
 <a href="#Coda" name="Coda">★</a>★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
 <a href="#Textastic" name="Textastic">★</a>★★★  | [Textastic] | 编辑器，iOS 同步/友好 | $8.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/textastic-the-ios-code-editor-to-beat-now-on-the-mac/)
 <a href="#Tower" name="Tower">★</a>★★★  | [Tower] | Git 客户端，支持GitHub、Bitbucket等 | $59 | [#](http://mac.appstorm.net/reviews/utilities/tower-gits-it-done/)
