@@ -101,6 +101,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#WiFi-Scanner" name="WiFi-Scanner">★</a>★★   | [WiFi Scanner] | 同上，另一款，冰点中 | $0.99 | [#](http://download.cnet.com/WiFi-Scanner/3000-18508_4-75017924.html)
 <a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持iOS平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
 <a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
+
 #### 1.2 开发类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
@@ -127,6 +128,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Frank-DeLoupe" name="Frank-DeLoupe">★</a>★★   | [Frank DeLoupe] | 精美拾色器、可Photoshop联动 | $0.99 | [#](http://mac.appstorm.net/reviews/graphics/frank-deloupe-your-color-picking-friend/)
 <a href="#ColorSnapper" name="ColorSnapper">★</a>★★   | [ColorSnapper] | 屏幕取色，只做一件事，做到极致 | $4.99 | [#](http://mac.appstorm.net/reviews/utilities/colorsnapper-a-slick-simple-color-picker-for-the-mac/)
 <a href="#CodeBox" name="CodeBox">★</a>★★   | [CodeBox] | 代码片段收集 | $9.99 | [#](http://mac.appstorm.net/reviews/utilities/codebox-manage-your-snippets-effectively-and-efficiently/)
+<a href="#Slicy" name="Slicy">★</a>★★   | [Slicy] | 快速切图PSD->IMG，支持@2x | $29 | [#](http://mac.appstorm.net/reviews/graphics/layer-cake-exporting-from-photoshop-was-never-this-tasty/)
 
 #### 1.3 服务订阅类
 
@@ -258,6 +260,7 @@ Released under [MIT] LICENSE
 [Devonthink Pro]: http://www.devontechnologies.com/products/devonthink/overview.html
 [TextExpander]: http://smilesoftware.com/TextExpander/index.html
 [CodeBox]: http://www.codeboxapp.com
+[Slicy]: http://macrabbit.com/slicy/
 [Gemini]: http://macpaw.com/gemini
 [Keycard]: http://www.appuous.com/products/mac/keycard.html
 [Geekbench]: http://browser.primatelabs.com/mac-benchmarks
