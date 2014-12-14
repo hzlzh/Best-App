@@ -6,7 +6,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 于是创建了这个 List 项目，旨在让推荐变得有章可循*
 
 ## 总目录
-
+a
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
 1. [付费 Apps 推荐列表(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/README.md)
@@ -39,7 +39,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Bartender" name="Bartender">★</a>★★★★ | [Bartender] | 自定义右上角Menu栏图标 | $15 | [#](http://www.macworld.com/article/2013739/mac-gems-bartender-helps-you-take-control-of-menu-bar-icons.html)
 <a href="#Fantastical" name="Fantastical">★</a>★★★☆ | [Fantastical] | 基于日历的GTD提醒 | $19.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
 <a href="#Tweetbot" name="Tweetbot">★</a>★★★☆ | [Tweetbot] | Twitter客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
-<a href="#Airmail" name="Airmail">★</a>★★★☆ | [Airmail] | Email客户端新秀 | $1.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
+<a href="#Airmail" name="Airmail">★</a>★★★☆ | [Airmail] | Email客户端新秀 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
 <a href="#Sparrow" name="Sparrow">★</a>★★★☆ | [Sparrow] | Email客户端 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/sparrow-minimal-functional-and-elegant-email/)
 <a href="#jitouch" name="jitouch">★</a>★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $7.99 | [#](http://www.macworld.com/article/1151457/jitouch.html)
 <a href="#OmniFocus" name="OmniFocus">★</a>★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
@@ -122,6 +122,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Tower" name="Tower">★</a>★★★  | [Tower] | Git 客户端，支持GitHub、Bitbucket等 | $59 | [#](http://mac.appstorm.net/reviews/utilities/tower-gits-it-done/)
 <a href="#Versions" name="Versions">★</a>★★★  | [Versions] | SVN 版本控制工具 | $59 | [#](http://stackoverflow.com/questions/899/best-subversion-client-for-mac-os)
 <a href="#Cornerstone" name="Cornerstone">★</a>★★★  | [Cornerstone] | 同样是 SVN 管理工具 | $59 | [#](http://srced.com/2011/02/cornerstone-2-review-the-best-version-control-system/)
+<a href="#Paw" name="Paw">★</a>★★★  | [Paw] | HTTP、REST客户端 | $29.99 | [#](https://luckymarmot.com/paw)
 <a href="#ColorSchemer" name="ColorSchemer">★</a>★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/colorschemer-studio-2-instant-color-schemes/)
 <a href="#Sketch" name="Sketch">★</a>★★★  | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $69.99 | [#](http://mac.appstorm.net/reviews/graphics/sketch-2-a-simple-powerful-vector-graphics-app/)
 <a href="#Sparkbox" name="Sparkbox">★</a>★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99 | [#](http://mac.appstorm.net/reviews/productivity-review/keep-your-digital-inspiration-organized-with-sparkbox/)
@@ -296,6 +297,7 @@ Released under [MIT] LICENSE
 [Ember]: https://realmacsoftware.com/ember
 [Coda]: https://panic.com/coda/
 [Hazel]: http://www.noodlesoft.com/
+[Paw]: https://luckymarmot.com/paw
 [Byword]: http://metaclassy.com/
 [Cornerstone]: https://www.zennaware.com/cornerstone/
 [Evernote Pro]: https://evernote.com/
