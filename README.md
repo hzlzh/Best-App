@@ -101,7 +101,6 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#WiFi-Scanner" name="WiFi-Scanner">★</a>★★   | [WiFi Scanner] | 同上，另一款，冰点中 | $0.99 | [#](http://download.cnet.com/WiFi-Scanner/3000-18508_4-75017924.html)
 <a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持iOS平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
 <a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
-<a href="#Slicy" name="Slicy">★</a>★★★★ | [Slicy] | 设计师、前端必备，切图神器，轻松@2x，请扔PSD | $29 | [#](http://macrabbit.com/slicy/)
 
 #### 1.2 开发类
 
@@ -129,12 +128,13 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Frank-DeLoupe" name="Frank-DeLoupe">★</a>★★   | [Frank DeLoupe] | 精美拾色器、可Photoshop联动 | $0.99 | [#](http://mac.appstorm.net/reviews/graphics/frank-deloupe-your-color-picking-friend/)
 <a href="#ColorSnapper" name="ColorSnapper">★</a>★★   | [ColorSnapper] | 屏幕取色，只做一件事，做到极致 | $4.99 | [#](http://mac.appstorm.net/reviews/utilities/colorsnapper-a-slick-simple-color-picker-for-the-mac/)
 <a href="#CodeBox" name="CodeBox">★</a>★★   | [CodeBox] | 代码片段收集 | $9.99 | [#](http://mac.appstorm.net/reviews/utilities/codebox-manage-your-snippets-effectively-and-efficiently/)
+<a href="#Slicy" name="Slicy">★</a>★★   | [Slicy] | 快速切图PSD->IMG，支持@2x | $29 | [#](http://mac.appstorm.net/reviews/graphics/layer-cake-exporting-from-photoshop-was-never-this-tasty/)
 
 #### 1.3 服务订阅类
 
 评分   | 名称  | 推荐理由 | 单价 | 详细
 ----- | ----- | ------ | ----- | -----
-<a href="#MacUpdate-Desktop" name="MacUpdate-Desktop">★</a>★★☆  | [MacUpdate Desktop] | 管理/更新/下载App，跟踪App优惠信息 | $29.99/year | [#](http://www.macworld.com/article/1143823/macupdate_desktop_5.html)
+<a href="#MacUpdate-Desktop" name="MacUpdate-Desktop">★</a>★★☆  | [MacUpdate Desktop] | 管理/更新/下载App，跟踪优惠信息 | $29.99/year | [#](http://www.macworld.com/article/1143823/macupdate_desktop_5.html)
 <a href="#Spotify-Pro" name="Spotify-Pro">★</a>★★   | [Spotify Pro] | 音乐服务 | $9.99/month | [#](http://www.cultofmac.com/104703/spotify-is-everything-that-itunes-in-the-cloud-should-be-review/)
 <a href="#Rdio-Pro" name="Rdio-Pro">★</a>★★   | [Rdio Pro] | 音乐服务 | $9.99/month | [#](http://www.rdio.com/features/)
 <a href="#iTunes-Match" name="iTunes-Match">★</a>★★   | [iTunes Match] | iTunes 音乐服务 | $24.99/year | [#](http://www.maclife.com/article/reviews/itunes_match_review)
@@ -142,7 +142,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Evernote-Pro" name="Evernote-Pro">★</a>★★   | [Evernote Pro] | 笔记服务 | $45/year | [#](http://www.pcworld.com/article/2033479/become-an-evernote-power-user-10-must-know-tips.html)
 <a href="#Github-Pro" name="Github-Pro">★</a>★★   | [Github Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features‎)
 <a href="#Dropbox-Pro" name="Dropbox-Pro">★</a>★★   | [Dropbox Pro] | 云存储/分享服务 | $9.99/month | [#](https://www.dropbox.com/upgrade)
-<a href="#Droplr-Pro" name="Droplr-Pro">★</a>★★   | [Droplr Pro] | 分享文件，支持自定义短链域名和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
+<a href="#Droplr-Pro" name="Droplr-Pro">★</a>★★   | [Droplr Pro] | 分享文件，支持自定义短链和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
 <a href="#CloudApp-Pro" name="CloudApp-Pro">★</a>★★   | [CloudApp Pro] | 云存储/分享服务 | $45/year | [#](http://store.getcloudapp.com/)
 
 #### 2.1 不断更新中...
@@ -260,6 +260,7 @@ Released under [MIT] LICENSE
 [Devonthink Pro]: http://www.devontechnologies.com/products/devonthink/overview.html
 [TextExpander]: http://smilesoftware.com/TextExpander/index.html
 [CodeBox]: http://www.codeboxapp.com
+[Slicy]: http://macrabbit.com/slicy/
 [Gemini]: http://macpaw.com/gemini
 [Keycard]: http://www.appuous.com/products/mac/keycard.html
 [Geekbench]: http://browser.primatelabs.com/mac-benchmarks
