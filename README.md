@@ -124,7 +124,7 @@ a
 <a href="#Cornerstone" name="Cornerstone">★</a>★★★  | [Cornerstone] | 同样是 SVN 管理工具 | $59 | [#](http://srced.com/2011/02/cornerstone-2-review-the-best-version-control-system/)
 <a href="#Paw" name="Paw">★</a>★★★  | [Paw] | HTTP、REST客户端 | $29.99 | [#](https://luckymarmot.com/paw)
 <a href="#ColorSchemer" name="ColorSchemer">★</a>★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/colorschemer-studio-2-instant-color-schemes/)
-<a href="#Sketch" name="Sketch">★</a>★★★  | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $69.99 | [#](http://mac.appstorm.net/reviews/graphics/sketch-2-a-simple-powerful-vector-graphics-app/)
+<a href="#Sketch" name="Sketch">★</a>★★★  | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $99 | [#](http://mac.appstorm.net/reviews/graphics/sketch-2-a-simple-powerful-vector-graphics-app/)
 <a href="#Sparkbox" name="Sparkbox">★</a>★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99 | [#](http://mac.appstorm.net/reviews/productivity-review/keep-your-digital-inspiration-organized-with-sparkbox/)
 <a href="#Frank-DeLoupe" name="Frank-DeLoupe">★</a>★★   | [Frank DeLoupe] | 精美拾色器、可Photoshop联动 | $0.99 | [#](http://mac.appstorm.net/reviews/graphics/frank-deloupe-your-color-picking-friend/)
 <a href="#ColorSnapper" name="ColorSnapper">★</a>★★   | [ColorSnapper] | 屏幕取色，只做一件事，做到极致 | $4.99 | [#](http://mac.appstorm.net/reviews/utilities/colorsnapper-a-slick-simple-color-picker-for-the-mac/)
