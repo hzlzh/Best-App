@@ -127,7 +127,7 @@ Released under [MIT] LICENSE
 [Mad Catz 鼠标]: http://www.saitek.com.cn/ 'Mad Catz(赛钛客) M.M.O 7'
 [iklear 清洁套装]: https://www.klearscreen.com/ 'iklear 清洁套装'
 [HHKB 键盘]: https://elitekeyboards.com/ 'HHKB Pro 2'
-[Sabrent USB扩展]: http://www.sabrent.com/category/usb-hubs/HB-UMAC/
+[Sabrent USB扩展]: http://www.sabrent.com/category/usb-hubs/HB-MAC3/
 [Just Mobile 支架]: http://www.just-mobile.com/mac/lazy-couch.html 'Just Mobile Lazy Couch 支架'
 [zefyr2 散热器]: http://www.moshistore.com/
 [Lexar 急速U盘]: http://www.lexar.com/products/lexar-jumpdrive-triton-usb-30-flash-drive
