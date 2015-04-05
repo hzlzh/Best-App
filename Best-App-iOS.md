@@ -32,6 +32,7 @@
 ★★★★  | [iTranslate Voice] | 翻译利器 | $4.99 | [#](http://www.idownloadblog.com/2013/07/03/itranslate-voice-2/)
 ★★★★  | [Launch Center Pro] | 快速启动&书签 | $4.99 | [#](http://www.macstories.net/reviews/launch-center-pro-2-0-review/)
 ★★★★  | [Clear+] | 轻量级 To-Do List | $4.99 | [#](http://www.macworld.com/article/2048920/clear-for-ios-7-review-slick-to-do-list-app-gets-bigger-slicker.html)
+★★★★  | [Drafts 4] | 文字生产力 | $9.99 | [#](http://www.macstories.net/reviews/drafts-4-review/)
 ★★★☆  | [Todo] | 重量级 To-Do GTD | $4.99 | [#](http://www.imore.com/todo-7-ios-review-brand-new-look-and-great-new-experience)
 ★★★☆  | [Reeder] | RSS阅读器 | $4.99 | [#](http://www.macstories.net/reviews/reeder-2-review-2/)
 ★★★☆  | [Omnifocus] | 还是那个GTD | $19.99 | [#](http://www.imore.com/omnifocus-2-iphone-review-completely-redesigned-ios-7-easier-use-ever)
@@ -156,6 +157,7 @@ Released under [MIT] LICENSE
 [Launch Center Pro]: http://contrast.co/launch-center-pro/
 [Moves]: http://www.moves-app.com/
 [Clear+]: http://www.realmacsoftware.com/clear
+[Drafts 4]: http://agiletortoise.com/drafts/
 [Omnifocus]: http://www.omnigroup.com/products/omnifocus-iphone/
 [TextExpander]: http://ipad.appstorm.net/reviews/productivity/text-expander-a-staggeringly-useful-time-saver/
 [Pastebot]: http://tapbots.com/software/pastebot/
