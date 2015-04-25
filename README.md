@@ -295,7 +295,7 @@ Released under [MIT] LICENSE
 [MacUpdate Desktop]: https://www.macupdate.com/
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
 [Calcbot]: http://tapbots.com/software/calcbot/
-[Ember]: https://realmacsoftware.com/ember
+[Ember]: http://realmacsoftware.com/ember
 [Coda]: https://panic.com/coda/
 [Hazel]: http://www.noodlesoft.com/
 [Paw]: https://luckymarmot.com/paw
