@@ -107,7 +107,7 @@
 
 Released under [MIT] LICENSE
 
-[<< 查看总目录]: https://github.com/hzlzh/Best-App
+[<< 查看总目录]: ./Best-App
 [issue]: https://github.com/hzlzh/Best-App/issues
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
