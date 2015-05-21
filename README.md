@@ -9,18 +9,18 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 a
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
-1. [付费 Apps 推荐列表(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/README.md)
-2. [付费 Apps 推荐列表(iOS & Cydia)](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md)
-3. [免费 Apps 推荐(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/Best-App-Mac-Free.md) - 整理中...
-4. [免费 Apps 推荐列表(iOS & Cydia)](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS-Free.md) - 整理中...
-5. [苹果设备 周边&配件 推荐列表](https://github.com/hzlzh/Best-App/blob/master/Best-Accessories-Apple.md)
-6. [付费 Apps 推荐列表(Android)](https://github.com/hzlzh/Best-App/blob/master/Best-App-Android.md) - 整理中...
-7. [改善生活+提升幸福度物品 推荐列表](https://github.com/hzlzh/Best-App/blob/master/Best-Life-Products.md) - 整理中...
+1. [付费 Apps 推荐列表(Mac OS)](./README.md)
+2. [付费 Apps 推荐列表(iOS & Cydia)](./Best-App-iOS.md)
+3. [免费 Apps 推荐(Mac OS)](./Best-App-Mac-Free.md) - 整理中...
+4. [免费 Apps 推荐列表(iOS & Cydia)](./Best-App-iOS-Free.md) - 整理中...
+5. [苹果设备 周边&配件 推荐列表](./Best-Accessories-Apple.md)
+6. [付费 Apps 推荐列表(Android)](./Best-App-Android.md) - 整理中...
+7. [改善生活+提升幸福度物品 推荐列表](./Best-Life-Products.md) - 整理中...
 
 ====
 
->注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。  
->注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
+>注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。
+>注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
 ## 1. 付费软件篇 (Mac OS)
@@ -188,9 +188,9 @@ a
 ★★★☆  | 亮点突出
 ★★★   | 同类出众
 
-*注1：排名怎么可能不分先后*  
-*注2：此列表客观公正，绝无广告或推广*  
-*注3：此列表维护有个人感情色彩，如遇不适者，欢迎`Fork`一份进行修改*  
+*注1：排名怎么可能不分先后*
+*注2：此列表客观公正，绝无广告或推广*
+*注3：此列表维护有个人感情色彩，如遇不适者，欢迎`Fork`一份进行修改*
 
 #### 支持正版：
 

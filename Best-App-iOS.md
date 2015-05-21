@@ -2,28 +2,28 @@
 
 [<< 查看总目录]
 
-*经常会有朋友询问有哪些 iOS 下的 App 或 服务 值得付费使用，  
+*经常会有朋友询问有哪些 iOS 下的 App 或 服务 值得付费使用，
 于是制作了这个 List 页面，旨在收集和推荐出色的 App 和 服务*
 
 欢迎大家推荐好的 App 添加，请`Star`/`Pull Request`或在 [收集&提交页] 中提交贡献 :)
 
 ====
 
->注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。  
->注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
->注3：本项目 **不接受** 任何形式的捐赠、资助或广告。  
+>注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。
+>注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。
+>注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 >注4：由于个人色彩过重，暂不推荐游戏类 App。
 
 ## 1. 付费软件篇 (iOS)
 
-`iOS`平台下有众多优秀的软件工具。  
+`iOS`平台下有众多优秀的软件工具。
 下面为付费软件的推荐列表，希望供大家购买付费 App 时参考。
 
 #### 1.1 工具类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | 暂无 ([评级说明](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 五星付费 App  |  | 
+★★★★★  | 暂无 ([评级说明](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 五星付费 App  |  |
 ★★★★☆  | 暂无 ([评级说明](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 四星半付费 App |  |
 ★★★★  | [Camera+] | 替代原生拍照软件 | $1.99 | [#](http://iphone.appstorm.net/reviews/graphics/camera-4-an-almost-perfect-camera-app/)
 ★★★★  | [1Password] | 密码管理&同步 | $17.99 | [#](http://mac.appstorm.net/reviews/security/1password-4-is-hands-down-the-best-password-app/)
@@ -111,9 +111,9 @@
 
 ## 关于
 
-#### 评分说明： 
- 
-评分   | 推荐度 
+#### 评分说明：
+
+评分   | 推荐度
 ----- | -----
 ★★★★★ | 必装神器
 ★★★★☆ | 十分出色
@@ -121,18 +121,18 @@
 ★★★☆  | 亮点突出
 ★★★   | 同类出众
 
-*注1：排名怎么可能不分先后*  
-*注2：此列表客观公正，绝无广告或推广*  
+*注1：排名怎么可能不分先后*
+*注2：此列表客观公正，绝无广告或推广*
 *注3：此列表维护有个人感情色彩，如遇不适者，欢迎`Fork`一份进行修改*
 
 #### 支持正版：
 
-软件开发者和作家一样，有的只是代码和文字。  
+软件开发者和作家一样，有的只是代码和文字。
 在条件允许的情况下，请支持正版，有了良好的生态环境，App 开发者们会做出更多好玩的东西。
 
 #### 感谢所有参与推荐的朋友
 
-本推荐 List 会不断更新维护，会有更多分类和利器加入推荐。  
+本推荐 List 会不断更新维护，会有更多分类和利器加入推荐。
 感谢此处\[[收集&提交页]\]参与提交和讨论的朋友们
 
 [<< 查看总目录]
@@ -141,7 +141,7 @@
 
 Released under [MIT] LICENSE
 
-[<< 查看总目录]: https://github.com/hzlzh/Best-App
+[<< 查看总目录]: ./README.md
 [issue]: https://github.com/hzlzh/Best-App/issues
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
