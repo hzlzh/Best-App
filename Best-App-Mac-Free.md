@@ -52,6 +52,7 @@
 * [Macheist](http://macheist.com/)
 * [V2EX MacOS](http://v2ex.com/go/macosx)
 * [iNews](http://inews.io/)
+* [CheatSheet](http://www.cheatsheetapp.com/CheatSheet/) 查看当前应用的快捷键
 
 ## 关于
 
