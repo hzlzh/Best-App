@@ -23,7 +23,9 @@
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
+★★★★★  | [launcher](https://itunes.apple.com/cn/app/launcher-dai-tong-zhi-zhong/id905099592?mt=8) | IOS8通知栏显示快捷开关蜂窝数据，快捷开关VPN，快捷开关定位位置 | 0.00 | [#](http://www.akmumu.com/2014/10/24/314.html)
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
+
 
 ## 2. 免费 Cydia 插件篇
 
