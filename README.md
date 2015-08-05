@@ -142,7 +142,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#iTunes-Match" name="iTunes-Match">★</a>★★   | [iTunes Match] | iTunes 音乐服务 | $24.99/year | [#](http://www.maclife.com/article/reviews/itunes_match_review)
 <a href="#Google-Music" name="Google-Music">★</a>★★   | [Google Music] | Google 音乐服务 | $9.99/month | [#](https://play.google.com/about/music/)
 <a href="#Evernote-Pro" name="Evernote-Pro">★</a>★★   | [Evernote Pro] | 笔记服务 | $45/year | [#](http://www.pcworld.com/article/2033479/become-an-evernote-power-user-10-must-know-tips.html)
-<a href="#Github-Pro" name="Github-Pro">★</a>★★   | [Github Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features‎)
+<a href="#Github-Pro" name="Github-Pro">★</a>★★   | [Github Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features)
 <a href="#Dropbox-Pro" name="Dropbox-Pro">★</a>★★   | [Dropbox Pro] | 云存储/分享服务 | $9.99/month | [#](https://www.dropbox.com/upgrade)
 <a href="#Droplr-Pro" name="Droplr-Pro">★</a>★★   | [Droplr Pro] | 分享文件，支持自定义短链和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
 <a href="#CloudApp-Pro" name="CloudApp-Pro">★</a>★★   | [CloudApp Pro] | 云存储/分享服务 | $45/year | [#](http://store.getcloudapp.com/)
