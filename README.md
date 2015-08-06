@@ -56,7 +56,8 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Devonthink-Pro" name="Devonthink Pro">★</a>★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | [#](http://www.macworld.com/article/1161735/review_devonthink_pro_office_2_2_1_helps_manage_your_data.html)
 <a href="#Ember" name="Ember">★</a>★★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $49.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
 <a href="#Writer-Pro" name="Writer Pro">★</a>★★★☆ | [Writer Pro] | 写作利器，iA Writer的续作 | $19.99 | [#](http://mac.appstorm.net/reviews/office-review/writer-pro-is-an-exercise-in-disappointment/)
-<a href="#BetterSnap-Tool" name="BetterSnap Tool">★</a>★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1,79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
+<a href="#BetterSnap-Tool" name="BetterSnap Tool">★</a>★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1.79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
+<a href="#KeyCue" name="KeyCue">★</a>★★★☆ | [KeyCue] | 帮助你打开快捷大全菜单 | €19.99 | [#](http://www.osxtoy.com/?p=1054)
 <a href="#Little-Snitch" name="Little Snitch">★</a>★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95 | [#](http://www.macworld.com/article/2017161/mac-gems-little-snitch-snitches-on-misbehaving-apps.html)
 <a href="#OmniGraffle" name="OmniGraffle">★</a>★★★  | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99 | [#](http://www.macworld.com/article/1136253/omnigrafflepro5.html)
 <a href="#ForkLift" name="ForkLift">★</a>★★★  | [ForkLift] | Finder替代品兼FTP工具 | $19.95 | [#](http://mac.appstorm.net/reviews/forklift-the-fast-functional-ftp-client/)
@@ -276,6 +277,7 @@ Released under [MIT] LICENSE
 [Short Menu]: http://floschliep.com/short-menu-mac/
 [Picatext]: http://www.picatext.com/
 [BetterSnap Tool]: http://blog.boastr.net/
+[KeyCue]: http://www.ergonis.com/products/keycue/
 [PaintCode]: http://www.paintcodeapp.com/
 [Airmail]: http://airmailapp.com/
 [CodeKit]: http://incident57.com/codekit/
