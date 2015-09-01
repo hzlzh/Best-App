@@ -162,6 +162,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 
 ## Mac OS App 优惠&促销信息媒体
 
+* [MacTips](http://mactips.io/)
 * [AppShopper](http://appshopper.com/)
 * [MacUpdate](https://deals.macupdate.com/)
 * [Current Mac Bundles](http://www.squidoo.com/current-mac-bundles)
@@ -207,6 +208,11 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 #### License
 
 Released under [MIT] LICENSE
+
+#### 扩展阅读
+
+@hzlzh 创立了一个微信公众号：[MacTips](http://mactips.io/)  
+![MacTips](http://ww4.sinaimg.cn/large/644eac00gw1evn89qmu5aj20by0byaav.jpg)
 
 [<< 查看总目录]: ./README.md
 [issue]: https://github.com/hzlzh/Best-App/issues
