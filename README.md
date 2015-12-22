@@ -55,6 +55,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#aText" name="aText">★</a>★★★☆ | [aText] | 同 TextExpander 快速键入 | $4.99  | [#](http://mac.appstorm.net/reviews/productivity-review/atext-a-text-expansion-contender/)
 <a href="#Devonthink-Pro" name="Devonthink Pro">★</a>★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | [#](http://www.macworld.com/article/1161735/review_devonthink_pro_office_2_2_1_helps_manage_your_data.html)
 <a href="#Ember" name="Ember">★</a>★★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $49.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
+<a href="#Inboard" name="Inboard">★</a>★★★☆  | [Inboard] | 国产设计/素材订阅器及素材管理，如 Dribbble | ¥128 | [#](http://www.waerfa.com/inboard)
 <a href="#Writer-Pro" name="Writer Pro">★</a>★★★☆ | [Writer Pro] | 写作利器，iA Writer的续作 | $19.99 | [#](http://mac.appstorm.net/reviews/office-review/writer-pro-is-an-exercise-in-disappointment/)
 <a href="#BetterSnap-Tool" name="BetterSnap Tool">★</a>★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1.79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
 <a href="#KeyCue" name="KeyCue">★</a>★★★☆ | [KeyCue] | 帮助你打开快捷大全菜单 | €19.99 | [#](http://www.osxtoy.com/?p=1054)
@@ -119,6 +120,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Sublime-Text" name="Sublime-Text">★</a>★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
 <a href="#Intellij-IDEA" name="Intellij-IDEA">★</a>★★★  | [Intellij IDEA] | IDE(集成开发环境) | $199 | [#](http://development-software.findthebest.com/l/19/IntelliJ-IDEA)
 <a href="#Atom" name="Atom">★</a>★★★  | [Atom] | Github 自家出的编辑器 | Free | [#](http://www.techspot.com/news/55845-github-unveils-atom-text-editor-for-developers.html)
+<a href="#Brackets" name="Brackets">★</a>★★★  | [Brackets] | Adobe 出的开源编辑器 | Free | [#](http://www.iplaysoft.com/brackets.html)
 <a href="#Coda" name="Coda">★</a>★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
 <a href="#Textastic" name="Textastic">★</a>★★★  | [Textastic] | 编辑器，iOS 同步/友好 | $8.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/textastic-the-ios-code-editor-to-beat-now-on-the-mac/)
 <a href="#Tower" name="Tower">★</a>★★★  | [Tower] | Git 客户端，支持GitHub、Bitbucket等 | $59 | [#](http://mac.appstorm.net/reviews/utilities/tower-gits-it-done/)
@@ -304,6 +306,7 @@ Released under [MIT] LICENSE
 [OmniOutliner]: http://www.omnigroup.com/omnioutliner
 [Calcbot]: http://tapbots.com/software/calcbot/
 [Ember]: http://realmacsoftware.com/ember
+[Inboard]: http://www.inboardapp.com
 [Coda]: https://panic.com/coda/
 [Hazel]: http://www.noodlesoft.com/
 [Paw]: https://luckymarmot.com/paw
@@ -326,6 +329,7 @@ Released under [MIT] LICENSE
 [WiFi Explorer]: http://www.adriangranados.com/
 [WiFi Scanner]: https://itunes.apple.com/us/app/wifi-scanner/id411680127?mt=12
 [Atom]: https://atom.io/
+[Brackets]:http://brackets.io
 [Keka]: http://www.kekaosx.com/
 [mou.li]: http://mou.li/
 [Paste]: http://pasteapp.me
