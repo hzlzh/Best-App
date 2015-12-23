@@ -23,7 +23,7 @@
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | [launcher](https://itunes.apple.com/cn/app/launcher-dai-tong-zhi-zhong/id905099592?mt=8) | IOS8通知栏显示快捷开关蜂窝数据，快捷开关VPN，快捷开关定位位置 | 0.00 | [#](http://www.akmumu.com/2014/10/24/314.html)
+★★★★★  | [launcher](https://itunes.apple.com/cn/app/launcher-dai-tong-zhi-zhong/id905099592?mt=8) | iOS8通知栏显示快捷开关蜂窝数据，快捷开关VPN，快捷开关定位位置 | 0.00 | [#](http://www.akmumu.com/2014/10/24/314.html)
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
 
 
@@ -32,6 +32,8 @@
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 Cydia 免费 App  |  | 
+★★★★  | [SwipeSelection]() | 在键盘上单指左右滑动就可以控制输入光标的移动（也有 Pro 版，只是多了一个设置选项） | 0.00 | [#](http://iphone.tgbus.com/tutorial/shipinjiaocheng/201205/20120510155543.shtml)
+★★★★  | [AptBackup]() | 备份所有安装过的 Cydia 源/插件 | 0.00 | [#](http://www.baidu.com/link?url=kgFPSu87rzt0YUPNUwa-A4zueHkUehM0MoToXGFOCT8sTwN9XdR2DedrRzU7Htfh&wd=&eqid=f2ec20650003583e000000035678a4c6)
 ## 使用建议
 
 * `越狱`**不等于**`盗版(破解)`，越狱意味着更多的**自由**，同时也要承担更大的**风险**
