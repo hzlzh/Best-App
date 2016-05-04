@@ -157,7 +157,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 * 建议尽量选择`冰点价格`或`打折促销`时购入，如：[mou.li] 这样的团购代购服务
 * 部分软件开发商会有**官方**`团购打折`
 * `家庭装促销包授权`适合家里人一起使用
-* 关注和参与`个人`或`集体`组织的团购`活动`
+* 关注和参与`个人`或`集体`组织的团购`活动`，如：[BundleHunt] 家的促销包活动
 * 选择购买`Mac App Store`的版本通常升级后续版本会 Free
 * 部分 Apps **只有**`Mac App Store` 版会有`iCloud`同步功能
 * 如果官方有非沙盒版，建议不要选择`Mac App Store`的阉割版，购入原版
@@ -167,6 +167,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 * [MacTips](http://mactips.io/)
 * [AppShopper](http://appshopper.com/)
 * [MacUpdate](https://deals.macupdate.com/)
+* [BundleHunt]
 * [Current Mac Bundles](http://www.squidoo.com/current-mac-bundles)
 * [hzlzh/Best-App](https://github.com/hzlzh/Best-App)
 * [“反”斗限免](http://free.apprcn.com/)
@@ -333,3 +334,4 @@ Released under [MIT] LICENSE
 [Keka]: http://www.kekaosx.com/
 [mou.li]: http://mou.li/
 [Paste]: http://pasteapp.me
+[BundleHunt]: http://bundlehunt.com/?ap_id=macosx
