@@ -67,6 +67,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#PhotoDesk" name="PhotoDesk">★</a>★★★  | [PhotoDesk] | Instagram 客户端，功能齐全 | $4.99 | [#](http://noodlemac.com/2015/06/photodesk-is-mostly-instagram-on-a-mac/)
 <a href="#Should-I-Sleep" name="Should-I-Sleep">★</a>★★★  | [Should I Sleep] | 让你的Mac不仅节能，而且智能 | $9.99 | [#](http://www.macworld.com/article/2044786/mac-gems-should-i-sleep-puts-your-mac-into-a-proper-sleep-routine.html)
 <a href="#SaneDesk" name="SaneDesk">★</a>★★★  | [SaneDesk] | 高效的切换/隐藏桌面工作区 | $17.99 | [#](http://mac.appstorm.net/reviews/utilities/sanedesk-empower-your-mac-desktop/)
+<a href="#Noizio" name="Noizio">★</a>★★★  | [Noizio] | 让人感觉置身大自然的白噪声音效模拟工具 | $4.99 | [#](http://www.appinn.com/noizio-for-os-x/)
 <a href="#Entropy" name="Entropy">★</a>★★☆  | [Entropy] | 华丽高效快捷压缩工具 | $18.99 | [#](http://www.macupdate.com/app/mac/38116/entropy)
 <a href="#Pixelmator" name="Pixelmator">★</a>★★☆  | [Pixelmator] | 不想用Photoshop？试试它 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/clash-of-the-image-editors-acorn-vs-pixelmator/)
 <a href="#PaintCode" name="PaintCode">★</a>★★☆  | [PaintCode] | OC开发/设计工具 | $80 | [#](http://www.paintcodeapp.com/news/introducing-paintcode-2)
@@ -276,6 +277,7 @@ Released under [MIT] LICENSE
 [Gemini]: http://macpaw.com/gemini
 [Keycard]: http://www.appuous.com/products/mac/keycard.html
 [Geekbench]: http://browser.primatelabs.com/mac-benchmarks
+[Noizio]: http://noiz.io/
 [iPack]: http://ipackapp.com/
 [LiveReload]: http://livereload.com/‎
 [Kaleidoscope]: http://www.kaleidoscopeapp.com/
