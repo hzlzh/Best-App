@@ -83,6 +83,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Aperture" name="Aperture">★</a>★★☆  | [Aperture] | 专业的摄影相关软件 | $79.99 | [#](http://www.digitalcameraworld.com/2013/01/28/apple-aperture-3-4-3-review/)
 <a href="#Keycard" name="Keycard">★</a>★★☆  | [Keycard] | 蓝牙设备锁屏，人走屏锁 | $6.99 | [#](http://macreview.com/2013/02/keycard-review/)
 <a href="#Geekbench" name="Geekbench">★</a>★★☆  | [Geekbench] | 性能测试、硬件跑分 | $9.99 | [#](http://www.macrumors.com/2013/08/16/geekbench-3-with-15-new-benchmark-tests-released-for-mac-ios-and-more/)
+<a href="#Noizio" name="Noizio">★</a>★★☆  | [Noizio] | 让人感觉置身大自然的白噪声音效模拟工具 | $4.99 | [#](http://www.appinn.com/noizio-for-os-x/)
 <a href="#LockScreen" name="LockScreen">★</a>★★   | [LockScreen] | iOS风格锁屏、触摸板解锁 | $1.99 | [#](http://www.youtube.com/watch?v=aFpbSGasq2A)
 <a href="#DaisyDisk" name="DaisyDisk">★</a>★★   | [DaisyDisk] | 磁盘容量占用分布一目了然 | $9.95 | [#](http://mac.appstorm.net/reviews/utilities/daisydisk-3-beta-is-here-with-a-revamped-interface-and-new-tools/)
 <a href="#Gemini" name="Gemini">★</a>★★   | [Gemini] | 重复文件查找删除 | $9.99 | [#](http://www.macworld.com/article/1167669/gemini_finds_and_removes_your_duplicate_files.html)
@@ -276,6 +277,7 @@ Released under [MIT] LICENSE
 [Gemini]: http://macpaw.com/gemini
 [Keycard]: http://www.appuous.com/products/mac/keycard.html
 [Geekbench]: http://browser.primatelabs.com/mac-benchmarks
+[Noizio]: http://noiz.io/
 [iPack]: http://ipackapp.com/
 [LiveReload]: http://livereload.com/‎
 [Kaleidoscope]: http://www.kaleidoscopeapp.com/
