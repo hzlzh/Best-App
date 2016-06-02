@@ -6,7 +6,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 于是创建了这个 List 项目，旨在让推荐变得有章可循*
 
 ## 总目录
-
+ti
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
 1. [付费 Apps 推荐列表(Mac OS)](./README.md)
@@ -46,7 +46,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#PopClip" name="PopClip">★</a>★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99 | [#](http://mac.appstorm.net/reviews/productivity-review/popclip-the-unexpectedly-awesome-productivity-tool/)
 <a href="#Clear" name="Clear">★</a>★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | [#](https://www.macstories.net/reviews/clear-for-mac-review/)
 <a href="#BreakTime" name="BreakTime">★</a>★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | [#](http://www.macworld.com/article/1164136/break_time_reminds_you_to_take_five.html)
-<a href="#Timing" name="Timing">★</a>★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $9.99 | [#](http://macdownload.informer.com/timing1/)
+<a href="#Timing" name="Timing">★</a>★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $19.99 | [#](http://macdownload.informer.com/timing1/)
 <a href="#CleanMyMac" name="CleanMyMac">★</a>★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95 | [#](http://www.macworld.com/article/2036159/review-cleanmymac-2-removes-unnecessary-files-to-free-up-storage-space.html)
 <a href="#Hazel" name="Hazel">★</a>★★★☆ | [Hazel] | 自动化整理工具 | $28 | [#](http://www.macworld.com/article/1165835/hazel_the_standout_file_organizer_gets_even_smarter.html)
 <a href="#Things" name="Things">★</a>★★★☆ | [Things] | 又一个GTD | $49.99 | [#](http://www.lifehack.org/articles/productivity/battle-of-the-mac-and-ios-productivity-apps-omnifocus-vs-things-2-0.html)
@@ -54,7 +54,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#GhostNote" name="GhostNote">★</a>★★★☆ | [GhostNote] | 基于文件的笔记便签 | $4.99  | [#](https://zhuanlan.zhihu.com/pinapps/19971562)
 <a href="#aText" name="aText">★</a>★★★☆ | [aText] | 同 TextExpander 快速键入 | $4.99  | [#](http://mac.appstorm.net/reviews/productivity-review/atext-a-text-expansion-contender/)
 <a href="#Devonthink-Pro" name="Devonthink Pro">★</a>★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | [#](http://www.macworld.com/article/1161735/review_devonthink_pro_office_2_2_1_helps_manage_your_data.html)
-<a href="#Ember" name="Ember">★</a>★★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $49.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
+<a href="#Ember" name="Ember">★</a>★★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $32.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
 <a href="#Inboard" name="Inboard">★</a>★★★☆  | [Inboard] | 国产设计/素材订阅器及素材管理，如 Dribbble | ¥128 | [#](http://www.waerfa.com/inboard)
 <a href="#Writer-Pro" name="Writer Pro">★</a>★★★☆ | [Writer Pro] | 写作利器，iA Writer的续作 | $19.99 | [#](http://mac.appstorm.net/reviews/office-review/writer-pro-is-an-exercise-in-disappointment/)
 <a href="#BetterSnap-Tool" name="BetterSnap Tool">★</a>★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1.79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
