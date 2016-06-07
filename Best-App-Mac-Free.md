@@ -26,6 +26,7 @@
 ★★★★★  | InsomniaX ([评级说明](#%E5%85%B3%E4%BA%8E)) | 可以分别控制mac 在合上盖子和空闲超时后是否进入休眠状态的掉软件 | 0.00 |
 ★★★★★  | Bartender ([评级说明](#%E5%85%B3%E4%BA%8E)) | 隐藏菜单栏图标，还你干净的菜单栏 | 免费4周 |
 ★★★★☆  | MacID ([MacID](https://macid.co)) | 用手指解锁 Mac，需要配合 iOS app | OSX 免费 |
+★★★★☆  | Waltr ([Waltr](https://softorino.com/waltr)) | 拖拽拷贝音频/视频到 iOS 设备 | OSX 免费 |
 
 #### 1.2 开发类
 

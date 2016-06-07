@@ -106,6 +106,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持iOS平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
 <a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
 <a href="#Paste" name="Paste">★</a>★★   | [Paste] | 高颜值的剪贴板工具 | $5.99 | [#](http://sspai.com/t/7421)
+<a href="#One" name="One">★</a>★☆   | [One](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12) | 一览要闻 | ￥6 | [#](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12)
 
 #### 1.2 开发类
 
