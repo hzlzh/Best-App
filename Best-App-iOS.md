@@ -78,7 +78,7 @@
 ★★★   | [欧路词典 Pro] | 翻译软件，支持离线词库，屏幕取词 | ￥18 | [#](http://www.eudic.net/eudic/mac_dictionary.aspx)
 ★★★   | [Mercury Browser Pro] | 浏览器 | $0.99 | [#](http://www.macworld.com/product/377687/mercury-web-browser-pro-the-most-advanced-brow.html)
 ★★★   | [Air Video] | 移动端播放电脑上的视频流，无需拷贝 | $2.99 | [#](http://www.tuaw.com/2013/11/05/how-a-pc-and-air-video-hd-turned-my-ipad-into-the-ultimate-enter/)
-★★★   | [MacID](https://itunes.apple.com/app/id948478740?mt=8&ls=1) | 手机解锁 Mac, iOS 和 OS X 间剪贴板，itunes 简单控制 | $3.99 | [#](https://itunes.apple.com/app/id948478740?mt=8&ls=1)
+★★★   | [MacID](https://itunes.apple.com/app/id948478740?mt=8&ls=1) | 手机解锁 Mac, iOS 和 macOS 间剪贴板，itunes 简单控制 | $3.99 | [#](https://itunes.apple.com/app/id948478740?mt=8&ls=1)
 
 ## 2. 付费 Cydia 插件篇
 
