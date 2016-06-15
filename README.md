@@ -9,9 +9,9 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
-1. [付费 Apps 推荐列表(Mac OS)](./README.md)
+1. [付费 Apps 推荐列表(macOS)](./README.md)
 2. [付费 Apps 推荐列表(iOS & Cydia)](./Best-App-iOS.md)
-3. [免费 Apps 推荐(Mac OS)](./Best-App-Mac-Free.md) - 整理中...
+3. [免费 Apps 推荐(macOS)](./Best-App-Mac-Free.md) - 整理中...
 4. [免费 Apps 推荐列表(iOS & Cydia)](./Best-App-iOS-Free.md) - 整理中...
 5. [苹果设备 周边&配件 推荐列表](./Best-Accessories-Apple.md)
 6. [付费 Apps 推荐列表(Android)](./Best-App-Android.md) - 整理中...
@@ -23,9 +23,9 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 >注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
-## 1. 付费软件篇 (Mac OS)
+## 1. 付费软件篇 (macOS)
 
-`Mac OS`平台下有众多优秀的软件工具。
+`macOS`平台下有众多优秀的软件工具。
 下面先就付费软件做一个推荐列表，希望供大家购买付费App时参考。
 
 #### 1.1 效率工具类
@@ -163,7 +163,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 * 部分 Apps **只有**`Mac App Store` 版会有`iCloud`同步功能
 * 如果官方有非沙盒版，建议不要选择`Mac App Store`的阉割版，购入原版
 
-## Mac OS App 优惠&促销信息媒体
+## macOS App 优惠&促销信息媒体
 
 * [MacTips](http://mactips.io/)
 * [AppShopper](http://appshopper.com/)
