@@ -27,6 +27,7 @@
 ★★★★★  | Bartender ([评级说明](#%E5%85%B3%E4%BA%8E)) | 隐藏菜单栏图标，还你干净的菜单栏 | 免费4周 |
 ★★★★☆  | MacID ([MacID](https://macid.co)) | 用手指解锁 Mac，需要配合 iOS app | macOS 免费 |
 ★★★★★  | Jietu ([Jietu](http://jietu.qq.com/)) | 腾讯良心出品的快捷标注、便捷分享的截屏工具 | macOS 免费 |
+★★★★☆  | Waltr ([Waltr](https://softorino.com/waltr)) | 拖拽拷贝音频/视频到 iOS 设备 | OSX 免费 |
 
 #### 1.2 开发类
 

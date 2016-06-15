@@ -81,6 +81,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Growl" name="Growl">★</a>★★☆  | [Growl] | 消息提醒，原生提醒的鼻祖 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/meet-the-new-growl-improved-functionality-but-at-a-price/)
 <a href="#iPack" name="iPack">★</a>★★☆  | [iPack] | 压缩/解压工具，兼容 Win 乱码问题 | $1.99 | [#](http://www.zhihu.com/question/20383279)
 <a href="#Keka" name="Keka">★</a>★★☆  | [Keka] | 压缩/解压工具 | $1.99 | [#](http://www.engadget.com/2011/12/06/daily-mac-app-keka/)
+<a href="#Quiver" name="Quiver">★</a>★★☆   | [Quiver](http://happenapps.com/#quiver) | 程序员的记事本 | $9.99 | [#](http://happenapps.com/#quiver)
 <a href="#Aperture" name="Aperture">★</a>★★☆  | [Aperture] | 专业的摄影相关软件 | $79.99 | [#](http://www.digitalcameraworld.com/2013/01/28/apple-aperture-3-4-3-review/)
 <a href="#Keycard" name="Keycard">★</a>★★☆  | [Keycard] | 蓝牙设备锁屏，人走屏锁 | $6.99 | [#](http://macreview.com/2013/02/keycard-review/)
 <a href="#Geekbench" name="Geekbench">★</a>★★☆  | [Geekbench] | 性能测试、硬件跑分 | $9.99 | [#](http://www.macrumors.com/2013/08/16/geekbench-3-with-15-new-benchmark-tests-released-for-mac-ios-and-more/)
@@ -105,6 +106,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持 iOS 平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
 <a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
 <a href="#Paste" name="Paste">★</a>★★   | [Paste] | 高颜值的剪贴板工具 | $5.99 | [#](http://sspai.com/t/7421)
+<a href="#One" name="One">★</a>★☆   | [One](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12) | 一览要闻 | ￥6 | [#](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12)
 
 #### 1.2 开发类
 
