@@ -1,5 +1,5 @@
 
-Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/trend.png)
+Best App
 ----
 
 *经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的，
@@ -219,7 +219,7 @@ Released under [MIT] LICENSE
 
 @hzlzh 创立了一个微信公众号：[MacTips](http://mactips.io/)  
  -- 专注于分享 Mac 使用经验和技巧，打造 Mac 神兵利器。  --
-![MacTips](http://ww4.sinaimg.cn/large/644eac00gw1evn89qmu5aj20by0byaav.jpg)
+<center>![MacTips](http://ww4.sinaimg.cn/large/644eac00gw1evn89qmu5aj20by0byaav.jpg)</center>
 
 [<< 查看总目录]: ./README.md
 [issue]: https://github.com/hzlzh/Best-App/issues
