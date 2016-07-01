@@ -13,9 +13,9 @@
 >注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
-## 1. 免费软件篇 (Mac OS)
+## 1. 免费软件篇 (macOS)
 
-`Mac OS`平台下有众多优秀的软件工具。
+`macOS`平台下有众多优秀的软件工具。
 下面先就付费软件做一个推荐列表，希望供大家购买付费App时参考。
 
 #### 1.1 效率工具类
@@ -25,6 +25,9 @@
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  |
 ★★★★★  | InsomniaX ([评级说明](#%E5%85%B3%E4%BA%8E)) | 可以分别控制mac 在合上盖子和空闲超时后是否进入休眠状态的掉软件 | 0.00 |
 ★★★★★  | Bartender ([评级说明](#%E5%85%B3%E4%BA%8E)) | 隐藏菜单栏图标，还你干净的菜单栏 | 免费4周 |
+★★★★☆  | MacID ([MacID](https://macid.co)) | 用手指解锁 Mac，需要配合 iOS app | macOS 免费 |
+★★★★★  | Jietu ([Jietu](http://jietu.qq.com/)) | 腾讯良心出品的快捷标注、便捷分享的截屏工具 | macOS 免费 |
+★★★★☆  | Waltr ([Waltr](https://softorino.com/waltr)) | 拖拽拷贝音频/视频到 iOS 设备 | OSX 免费 |
 
 #### 1.2 开发类
 
@@ -32,6 +35,7 @@
 ----- | ----- | ------ | ----- | -----
 ★★★★★  | XCode | 苹果官方IDE | 0.00 | 暂无
 ★★★★★  | [Go2Shell](https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12) | 从Finder打开命令行 | 0.00 | [#](http://www.akmumu.com/2014/12/04/323.html)
+★★★★☆  | [SourceTree](https://www.sourcetreeapp.com/) |  代码版本管理工具(git, mercurial, github, bucket...) | 0.00 (需免费注册) | 暂无
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  |
 #### 1.3 服务订阅类
 
@@ -41,7 +45,7 @@
 
 #### 2.1 不断更新中...
 
-## Mac OS App 优惠&促销信息媒体
+## macOS App 优惠&促销信息媒体
 
 * [AppShopper](http://appshopper.com/)
 * [MacUpdate](https://deals.macupdate.com/)

@@ -37,6 +37,7 @@
 <a href="#Cocoon-收纳板" name="Cocoon-收纳板">★</a>★★☆   | [Cocoon 收纳板] | 弹性收纳板，iPad版或普通版，告别凌乱 | ￥178 | [#](http://bbs.dgtle.com/thread-104520-1-1.html)
 <a href="#Just-Mobile 支架" name="Just-Mobile-支架">★</a>★★☆   | [Just Mobile 支架] | 铝质外壳，小巧便携，扔包即走 | ￥128 | [#](http://store.apple.com/hk/product/H5003ZM/A/just-mobile-lazy-couch-stand-for-ipad-and-macbook-pro)
 <a href="#电源适配器x2" name="电源适配器x2">★</a>★★☆   | [电源适配器x2] | 适合多地点使用，让背包更轻盈 | ￥588 | [#](http://store.apple.com/cn/mac/mac-accessories/power)
+<a href="#Bose soundlink mini2" name="Bose soundlink mini2 蓝牙音箱">★</a>★★☆    | [Bose soundlink mini2 蓝牙音箱](https://www.bose.com/en_us/products/speakers/wireless_speakers/soundlink_mini_ii.html#v=soundlink_mini_ii_carbon) | Bose soundlink mini2 蓝牙音箱 | $179.95 | [#](https://www.bose.com/en_us/products/speakers/wireless_speakers/soundlink_mini_ii.html#v=soundlink_mini_ii_carbon)
 <a href="#QNAP-NAS" name="QNAP-NAS">★</a>★★    | [QNAP NAS] | 网络存储器 | ￥1000 | [#](http://8jiaz.com/archives/2605)
 <a href="#Synology-NAS" name="Synology-NAS">★</a>★★    | [Synology NAS] | 网络存储器 | ￥5800 | [#](http://detail.zol.com.cn/nas_networkstorage/index331932.shtml)
 <a href="#iklear-清洁套装" name="iklear-清洁套装">★</a>★★    | [iklear 清洁套装] | 专业环保，无毒，防油，防静电 | ￥250 | [#](http://www.pcpop.com/doc/0/842/842237_all.shtml)
@@ -51,6 +52,9 @@
 <a href="#LG-蓝牙耳机" name="LG-蓝牙耳机">★</a>★★    | [LG 蓝牙耳机] | 环颈设计，自动降噪设计 | ￥899 | [#](http://knewone.com/things/lg-tone-ultra-hbs-800)
 <a href="#航嘉-插线板" name="航嘉-插线板">★</a>★★    | [航嘉 插线板] | 干净简洁 | ￥148 | [#](http://www.jd.com/pinpai/1052-8011.html)
 <a href="#Lexar急速U盘" name="Lexar急速U盘">★</a>★★    | [Lexar 急速U盘] | 镁光SLC芯片，读160写170 | ￥199 | [#](http://proclockers.com/reviews/storage/lexar-media-32gb-triton-usb-30-jump-drive-review)
+<a href="#Twist Plus 全球旅行插座" name="Twist Plus 全球旅行插座">★</a>★★    | [Twist Plus 全球旅行插座] | 4 USB 口、支持 MacBook 电源 | ￥268 | [#](http://www.leiphone.com/news/201412/6ZAfnW7OUr89R9xi.html)
+<a href="#Roost Laptop Stand Mac 支架" name="Roost Laptop Stand Mac 支架">★</a>★★    | [Roost Laptop Stand Mac 支架](https://www.kickstarter.com/projects/86285180/roost-laptop-stand-free-yourself-from-laptop-neck/description) | 全球最轻 Mac 支架 | $74.95 | [#](https://www.kickstarter.com/projects/86285180/roost-laptop-stand-free-yourself-from-laptop-neck/description)
+
 
 <a>★</a>★★    | **更多好产品** | **欢迎你的推荐或建议** | | 
 

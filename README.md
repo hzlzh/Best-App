@@ -1,17 +1,17 @@
 
-Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/trend.png)
+Best App
 ----
 
-*经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些可以改善生活的优质产品，
-于是创建了这个 List 项目，旨在让推荐变得有章可循*
+*经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的，
+于是创建了 BesrApp 项目，旨在让推荐变得有章可循*
 
 ## 总目录
 
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
-1. [付费 Apps 推荐列表(Mac OS)](./README.md)
+1. [付费 Apps 推荐列表(macOS)](./README.md)
 2. [付费 Apps 推荐列表(iOS & Cydia)](./Best-App-iOS.md)
-3. [免费 Apps 推荐(Mac OS)](./Best-App-Mac-Free.md) - 整理中...
+3. [免费 Apps 推荐(macOS)](./Best-App-Mac-Free.md) - 整理中...
 4. [免费 Apps 推荐列表(iOS & Cydia)](./Best-App-iOS-Free.md) - 整理中...
 5. [苹果设备 周边&配件 推荐列表](./Best-Accessories-Apple.md)
 6. [付费 Apps 推荐列表(Android)](./Best-App-Android.md) - 整理中...
@@ -23,49 +23,51 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 >注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
-## 1. 付费软件篇 (Mac OS)
+## 1. 付费软件篇 (macOS)
 
-`Mac OS`平台下有众多优秀的软件工具。
+`macOS`平台下有众多优秀的软件工具。
 下面先就付费软件做一个推荐列表，希望供大家购买付费App时参考。
 
 #### 1.1 效率工具类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-<a href="#Alfred" name="Alfred">★</a>★★★★ | [Alfred] | Top#1，不解释 | £17 | [#](http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
-<a href="#1Password" name="1Password">★</a>★★★★ | [1Password] | 密码管理，用过就离不开了 | $49.99 | [#](http://www.macstories.net/reviews/1password-4-for-mac-review/)
+<a href="#Alfred" name="Alfred">★</a>★★★★ | [Alfred] | 效率软件 Top#1，不解释 | £17 | [#](https://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
+<a href="#1Password" name="1Password">★</a>★★★★ | [1Password] | 密码管理，自动登录，用过就离不开了 | $49.99 | [#](https://www.macstories.net/reviews/1password-4-for-mac-review/)
 <a href="#Moom" name="Moom">★</a>★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
-<a href="#iStat-Menus" name="iStat-Menus">★</a>★★★★ | [iStat Menus] | 系统状态参数实时查看 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
-<a href="#Bartender" name="Bartender">★</a>★★★★ | [Bartender] | 自定义右上角Menu栏图标 | $15 | [#](http://www.macworld.com/article/2013739/mac-gems-bartender-helps-you-take-control-of-menu-bar-icons.html)
-<a href="#Fantastical" name="Fantastical">★</a>★★★☆ | [Fantastical] | 基于日历的GTD提醒 | $19.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
-<a href="#Tweetbot" name="Tweetbot">★</a>★★★☆ | [Tweetbot] | Twitter客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
-<a href="#Airmail" name="Airmail">★</a>★★★☆ | [Airmail] | Email客户端新秀 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
+<a href="#iStat-Menus" name="iStat-Menus">★</a>★★★★ | [iStat Menus] | 实时显示系统状态、网速等 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
+<a href="#Bartender" name="Bartender">★</a>★★★★ | [Bartender] | 自定义右上角 Menu 栏图标 | $15 | [#](http://www.macworld.com/article/2013739/mac-gems-bartender-helps-you-take-control-of-menu-bar-icons.html)
+<a href="#Fantastical" name="Fantastical">★</a>★★★☆ | [Fantastical] | 基于日历的 GTD 提醒 | $19.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
+<a href="#Tweetbot" name="Tweetbot">★</a>★★★☆ | [Tweetbot] | Twitter 客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
+<a href="#Airmail" name="Airmail">★</a>★★★☆ | [Airmail] | Email 客户端新秀 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
 <a href="#jitouch" name="jitouch">★</a>★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $7.99 | [#](http://www.macworld.com/article/1151457/jitouch.html)
-<a href="#OmniFocus" name="OmniFocus">★</a>★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
+<a href="#OmniFocus" name="OmniFocus">★</a>★★★☆ | [OmniFocus] | 著名 GTD，上手之后秒杀同类 | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 <a href="#Keyboard-Maestro" name="Keyboard-Maestro">★</a>★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#](http://mac.appstorm.net/how-to/productivity-how-to/how-to-become-a-mac-keyboard-maestro/)
-<a href="#PopClip" name="PopClip">★</a>★★★☆ | [PopClip] | 类iOS文字选中弹出Menu扩展 | $4.99 | [#](http://mac.appstorm.net/reviews/productivity-review/popclip-the-unexpectedly-awesome-productivity-tool/)
-<a href="#Clear" name="Clear">★</a>★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | [#](http://www.macstories.net/reviews/clear-for-mac-review/)
+<a href="#PopClip" name="PopClip">★</a>★★★☆ | [PopClip] | 类 iOS 文字选中弹出 Menu 扩展 | $4.99 | [#](http://mac.appstorm.net/reviews/productivity-review/popclip-the-unexpectedly-awesome-productivity-tool/)
+<a href="#Clear" name="Clear">★</a>★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | [#](https://www.macstories.net/reviews/clear-for-mac-review/)
 <a href="#BreakTime" name="BreakTime">★</a>★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | [#](http://www.macworld.com/article/1164136/break_time_reminds_you_to_take_five.html)
-<a href="#Timing" name="Timing">★</a>★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $9.99 | [#](http://macdownload.informer.com/timing1/)
-<a href="#CleanMyMac" name="CleanMyMac">★</a>★★★☆ | [CleanMyMac] | 清理优化，正如其名 | $39.95 | [#](http://www.macworld.com/article/2036159/review-cleanmymac-2-removes-unnecessary-files-to-free-up-storage-space.html)
+<a href="#Timing" name="Timing">★</a>★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $19.99 | [#](http://macdownload.informer.com/timing1/)
+<a href="#CleanMyMac" name="CleanMyMac">★</a>★★★☆ | [CleanMyMac] | 系统清理优化，正如其名 | $39.95 | [#](http://www.macworld.com/article/2036159/review-cleanmymac-2-removes-unnecessary-files-to-free-up-storage-space.html)
 <a href="#Hazel" name="Hazel">★</a>★★★☆ | [Hazel] | 自动化整理工具 | $28 | [#](http://www.macworld.com/article/1165835/hazel_the_standout_file_organizer_gets_even_smarter.html)
-<a href="#Things" name="Things">★</a>★★★☆ | [Things] | 又一个GTD | $49.99 | [#](http://www.lifehack.org/articles/productivity/battle-of-the-mac-and-ios-productivity-apps-omnifocus-vs-things-2-0.html)
+<a href="#Things" name="Things">★</a>★★★☆ | [Things] | 又一个 GTD | $49.99 | [#](http://www.lifehack.org/articles/productivity/battle-of-the-mac-and-ios-productivity-apps-omnifocus-vs-things-2-0.html)
 <a href="#TextExpander" name="TextExpander">★</a>★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | [#](http://mac.appstorm.net/reviews/productivity-review/head-to-head-text-expander-mac-software-compared/)
-<a href="#GhostNote" name="GhostNote">★</a>★★★☆ | [GhostNote] | 基于文件的笔记便签 | $4.99  | [#](http://zhuanlan.zhihu.com/pinapps/19971562)
+<a href="#GhostNote" name="GhostNote">★</a>★★★☆ | [GhostNote] | 基于文件的笔记 & 便签 | $4.99  | [#](https://zhuanlan.zhihu.com/pinapps/19971562)
 <a href="#aText" name="aText">★</a>★★★☆ | [aText] | 同 TextExpander 快速键入 | $4.99  | [#](http://mac.appstorm.net/reviews/productivity-review/atext-a-text-expansion-contender/)
 <a href="#Devonthink-Pro" name="Devonthink Pro">★</a>★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | [#](http://www.macworld.com/article/1161735/review_devonthink_pro_office_2_2_1_helps_manage_your_data.html)
-<a href="#Ember" name="Ember">★</a>★★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $49.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
+<a href="#Ember" name="Ember">★</a>★★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $32.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
+<a href="#Inboard" name="Inboard">★</a>★★★☆  | [Inboard] | 国产设计/素材订阅器及素材管理，如 Dribbble | ¥128 | [#](http://www.waerfa.com/inboard)
 <a href="#Writer-Pro" name="Writer Pro">★</a>★★★☆ | [Writer Pro] | 写作利器，iA Writer的续作 | $19.99 | [#](http://mac.appstorm.net/reviews/office-review/writer-pro-is-an-exercise-in-disappointment/)
 <a href="#BetterSnap-Tool" name="BetterSnap Tool">★</a>★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1.79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
 <a href="#KeyCue" name="KeyCue">★</a>★★★☆ | [KeyCue] | 帮助你打开快捷大全菜单 | €19.99 | [#](http://www.osxtoy.com/?p=1054)
 <a href="#Little-Snitch" name="Little Snitch">★</a>★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95 | [#](http://www.macworld.com/article/2017161/mac-gems-little-snitch-snitches-on-misbehaving-apps.html)
 <a href="#OmniGraffle" name="OmniGraffle">★</a>★★★  | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99 | [#](http://www.macworld.com/article/1136253/omnigrafflepro5.html)
 <a href="#ForkLift" name="ForkLift">★</a>★★★  | [ForkLift] | Finder替代品兼FTP工具 | $19.95 | [#](http://mac.appstorm.net/reviews/forklift-the-fast-functional-ftp-client/)
-<a href="#Scrapbook" name="Scrapbook">★</a>★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99 | [#](http://mac.appstorm.net/reviews/lifestyle/an-in-depth-look-at-ember-the-new-digital-scrapbook/)
+<a href="#Scrapbook" name="Scrapbook">★</a>★★★  | [Scrapbook] | 剪切板历史记录 (注:Alfred 自带此功能) | $0.99 | [#](http://mac.appstorm.net/general/an-in-depth-look-at-ember-the-new-digital-scrapbook/)
 <a href="#Xee" name="Xee">★</a>★★★  | [Xee] | 图片浏览工具，可替代原生 | $4.5 | [#](http://www.cultofmac.com/49171/review-xee-a-cute-little-image-browser/)
-<a href="#PhotoDesk" name="PhotoDesk">★</a>★★★  | [PhotoDesk] | Instagram 客户端，功能齐全 | $4.99 | [#](http://noodlemac.com/2014/01/photodesk-brings-instagram-to-your-mac-mostly/)
+<a href="#PhotoDesk" name="PhotoDesk">★</a>★★★  | [PhotoDesk] | Instagram 客户端，功能齐全 | $4.99 | [#](http://noodlemac.com/2015/06/photodesk-is-mostly-instagram-on-a-mac/)
 <a href="#Should-I-Sleep" name="Should-I-Sleep">★</a>★★★  | [Should I Sleep] | 让你的Mac不仅节能，而且智能 | $9.99 | [#](http://www.macworld.com/article/2044786/mac-gems-should-i-sleep-puts-your-mac-into-a-proper-sleep-routine.html)
 <a href="#SaneDesk" name="SaneDesk">★</a>★★★  | [SaneDesk] | 高效的切换/隐藏桌面工作区 | $17.99 | [#](http://mac.appstorm.net/reviews/utilities/sanedesk-empower-your-mac-desktop/)
+<a href="#Noizio" name="Noizio">★</a>★★★  | [Noizio] | 让人感觉置身大自然的白噪声音效模拟工具 | $4.99 | [#](http://www.appinn.com/noizio-for-os-x/)
 <a href="#Entropy" name="Entropy">★</a>★★☆  | [Entropy] | 华丽高效快捷压缩工具 | $18.99 | [#](http://www.macupdate.com/app/mac/38116/entropy)
 <a href="#Pixelmator" name="Pixelmator">★</a>★★☆  | [Pixelmator] | 不想用Photoshop？试试它 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/clash-of-the-image-editors-acorn-vs-pixelmator/)
 <a href="#PaintCode" name="PaintCode">★</a>★★☆  | [PaintCode] | OC开发/设计工具 | $80 | [#](http://www.paintcodeapp.com/news/introducing-paintcode-2)
@@ -77,17 +79,18 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#Default-Folder-X" name="Default-Folder-X">★</a>★★☆  | [Default Folder X] | 快速定位/选择常用文件夹 | $34.94 | [#](http://mac.appstorm.net/reviews/productivity-review/default-folder-x-browse-file-dialogs-at-lightning-speed/)
 <a href="#GhostTile" name="GhostTile">★</a>★★☆  | [GhostTile] | 隐藏 Dock 上的图标/进程 | $9.99 | [#](http://www.appinn.com/ghosttile-for-osx/)
 <a href="#Growl" name="Growl">★</a>★★☆  | [Growl] | 消息提醒，原生提醒的鼻祖 | $3.99 | [#](http://mac.appstorm.net/reviews/utilities/meet-the-new-growl-improved-functionality-but-at-a-price/)
-<a href="#iPack" name="iPack">★</a>★★☆  | [iPack] | 压缩/解压工具，解决Win乱码问题 | $1.99 | [#](http://www.zhihu.com/question/20383279)
-<a href="#Keka" name="Keka">★</a>★★☆  | [Keka] | 压缩/解压工具 | $1.99 | [#](http://www.tuaw.com/2011/12/06/daily-mac-app-keka/)
+<a href="#iPack" name="iPack">★</a>★★☆  | [iPack] | 压缩/解压工具，兼容 Win 乱码问题 | $1.99 | [#](http://www.zhihu.com/question/20383279)
+<a href="#Keka" name="Keka">★</a>★★☆  | [Keka] | 压缩/解压工具 | $1.99 | [#](http://www.engadget.com/2011/12/06/daily-mac-app-keka/)
+<a href="#Quiver" name="Quiver">★</a>★★☆   | [Quiver](http://happenapps.com/#quiver) | 程序员的记事本 | $9.99 | [#](http://happenapps.com/#quiver)
 <a href="#Aperture" name="Aperture">★</a>★★☆  | [Aperture] | 专业的摄影相关软件 | $79.99 | [#](http://www.digitalcameraworld.com/2013/01/28/apple-aperture-3-4-3-review/)
 <a href="#Keycard" name="Keycard">★</a>★★☆  | [Keycard] | 蓝牙设备锁屏，人走屏锁 | $6.99 | [#](http://macreview.com/2013/02/keycard-review/)
 <a href="#Geekbench" name="Geekbench">★</a>★★☆  | [Geekbench] | 性能测试、硬件跑分 | $9.99 | [#](http://www.macrumors.com/2013/08/16/geekbench-3-with-15-new-benchmark-tests-released-for-mac-ios-and-more/)
-<a href="#LockScreen" name="LockScreen">★</a>★★   | [LockScreen] | iOS风格锁屏、触摸板解锁 | $1.99 | [#](http://www.youtube.com/watch?v=aFpbSGasq2A)
+<a href="#LockScreen" name="LockScreen">★</a>★★   | [LockScreen] | iOS风格锁屏、触摸板解锁 | $1.99 | [#](https://www.youtube.com/watch?v=aFpbSGasq2A)
 <a href="#DaisyDisk" name="DaisyDisk">★</a>★★   | [DaisyDisk] | 磁盘容量占用分布一目了然 | $9.95 | [#](http://mac.appstorm.net/reviews/utilities/daisydisk-3-beta-is-here-with-a-revamped-interface-and-new-tools/)
 <a href="#Gemini" name="Gemini">★</a>★★   | [Gemini] | 重复文件查找删除 | $9.99 | [#](http://www.macworld.com/article/1167669/gemini_finds_and_removes_your_duplicate_files.html)
 <a href="#plup" name="plup">★</a>★★   | [plup] | 新闻阅读器 | $9.99 | [#](http://mac.appstorm.net/reviews/internet-reviews/pulp-an-innovative-way-to-read-the-news-on-your-mac/)
 <a href="#Readkit" name="Readkit">★</a>★★   | [Readkit] | RSS客户端，支持feedly/pocket等服务  | ￥45 | [#](http://geekbeat.tv/review-readkit-for-os-x/)
-<a href="#Play-by-Play" name="Play-by-Play">★</a>★★   | [Play by Play] | Dribbble 客户端 | $4.99 | [#](http://mac.appstorm.net/reviews/graphics/dribbble-on-your-desktop-with-play-by-play/)
+<a href="#Play-by-Play" name="Play-by-Play">★</a>★★   | [Play by Play] | Dribbble 客户端 | $4.99 | [#](http://mac.appstorm.net/general/dribbble-on-your-desktop-with-play-by-play/)
 <a href="#Scrivener" name="Scrivener">★</a>★★   | [Scrivener] | 专业写作工具 | $45 | [#](http://mac.appstorm.net/reviews/office-review/scrivener-a-writers-best-friend/)
 <a href="#OmniOutliner" name="OmniOutliner">★</a>★★   | [OmniOutliner] | 写PPT、文档的好帮手 | $39.99 | [#](http://www.lifehack.org/articles/technology/30-days-with-omnioutliner-professional.html)
 <a href="#Ulysses" name="Ulysses">★</a>★★   | [Ulysses] | 专业文本编辑工具，支持 Markdown | $44.99 | [#](http://mac.appstorm.net/reviews/productivity-review/ulysses-iii-a-markdown-writing-app-like-no-other/)
@@ -99,39 +102,41 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#RescueTime" name="RescueTime">★</a>★★   | [RescueTime] | 时间管理跟踪分析 | $72/y | [#](http://mac.appstorm.net/reviews/office-review/rescuetime-what-have-you-been-up-to/)
 <a href="#Instashare" name="Instashare">★</a>★★   | [Instashare] | 基于 蓝牙/WiFi 文件互传(iOS/Mac)  | $2.99 | [#](http://www.imore.com/instashare-iphone-and-ipad-review)
 <a href="#WiFi-Explorer" name="WiFi-Explorer">★</a>★★   | [WiFi Explorer] | 深度解读身边 WiFi 信号，了如指掌 | $2.99 | [#](http://mac.appstorm.net/reviews/utilities/wifi-explorer-the-wireless-swiss-army-knife/)
-<a href="#WiFi-Scanner" name="WiFi-Scanner">★</a>★★   | [WiFi Scanner] | 同上，另一款，冰点中 | $0.99 | [#](http://download.cnet.com/WiFi-Scanner/3000-18508_4-75017924.html)
-<a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持iOS平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
+<a href="#WiFi-Scanner" name="WiFi-Scanner">★</a>★★   | [WiFi Scanner] | 同上，另一款 WiFi 工具 | $0.99 | [#](http://download.cnet.com/WiFi-Scanner/3000-18508_4-75017924.html)
+<a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持 iOS 平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
 <a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
 <a href="#Paste" name="Paste">★</a>★★   | [Paste] | 高颜值的剪贴板工具 | $5.99 | [#](http://sspai.com/t/7421)
+<a href="#One" name="One">★</a>★☆   | [One](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12) | 一览要闻 | ￥6 | [#](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12)
 
 #### 1.2 开发类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
 <a href="#Dash" name="Dash">★</a>★★★★ | [Dash] | 全语言文档手册速查 | $19.99 | [#](http://brettterpstra.com/2013/04/26/mac-app-review-dash-for-developers/)
-<a href="#xScope" name="xScope">★</a>★★★★ | [xScope] | 8合一标尺神器 | $29.99 | [#](http://mac.appstorm.net/reviews/graphics/xscope-3-big-improvements-to-the-designers-best-friend/)
-<a href="#Kaleidoscope" name="Kaleidoscope">★</a>★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99 | [#](http://mac.appstorm.net/reviews/utilities/easily-compare-file-versions-with-kaleidoscope/)
-<a href="#MAMP-PRO" name="MAMP-PRO">★</a>★★★☆ | [MAMP PRO] | PHP+Mysql开发集成环境，本地站点 | $59 | [#](http://mac.appstorm.net/reviews/internet-reviews/running-a-local-server-with-mamp/)
+<a href="#xScope" name="xScope">★</a>★★★★ | [xScope] | 8 合一开发标尺神器 | $29.99 | [#](http://mac.appstorm.net/general/xscope-3-big-improvements-to-the-designers-best-friend/)
+<a href="#Kaleidoscope" name="Kaleidoscope">★</a>★★★☆ | [Kaleidoscope] | 精美强大的 Diff 对比工具 | $69.99 | [#](http://mac.appstorm.net/reviews/utilities/easily-compare-file-versions-with-kaleidoscope/)
+<a href="#MAMP-PRO" name="MAMP-PRO">★</a>★★★☆ | [MAMP PRO] | PHP+Mysql 开发集成环境，本地站点 | $59 | [#](http://mac.appstorm.net/reviews/internet-reviews/running-a-local-server-with-mamp/)
 <a href="#CodeRunner" name="CodeRunner">★</a>★★★☆ | [CodeRunner] | 各编程语言快速测试集成环境 | $9.99 | [#](http://brettterpstra.com/2011/10/28/app-review-coderunner/)
-<a href="#Charles" name="Charles">★</a>★★★☆ | [Charles] | 抓包代理调试工具、类 Fiddler | $50 | [#](http://www.99css.com/archives/1272)
+<a href="#Charles" name="Charles">★</a>★★★☆ | [Charles] | 抓包代理调试工具、类 Fiddler | $50 | [#](http://www.99css.com/1272)
 <a href="#LiveReload" name="LiveReload">★</a>★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99 | [#](http://brettterpstra.com/2011/12/02/app-review-livereload/)
 <a href="#CodeKit" name="CodeKit">★</a>★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
 <a href="#Sublime-Text" name="Sublime-Text">★</a>★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
 <a href="#Intellij-IDEA" name="Intellij-IDEA">★</a>★★★  | [Intellij IDEA] | IDE(集成开发环境) | $199 | [#](http://development-software.findthebest.com/l/19/IntelliJ-IDEA)
 <a href="#Atom" name="Atom">★</a>★★★  | [Atom] | Github 自家出的编辑器 | Free | [#](http://www.techspot.com/news/55845-github-unveils-atom-text-editor-for-developers.html)
+<a href="#Brackets" name="Brackets">★</a>★★★  | [Brackets] | Adobe 出的开源编辑器 | Free | [#](http://www.iplaysoft.com/brackets.html)
 <a href="#Coda" name="Coda">★</a>★★★  | [Coda] | 编辑器 | $74.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/coda-2-its-here-and-its-awesome/)
 <a href="#Textastic" name="Textastic">★</a>★★★  | [Textastic] | 编辑器，iOS 同步/友好 | $8.99 | [#](http://mac.appstorm.net/reviews/web-dev-review/textastic-the-ios-code-editor-to-beat-now-on-the-mac/)
 <a href="#Tower" name="Tower">★</a>★★★  | [Tower] | Git 客户端，支持GitHub、Bitbucket等 | $59 | [#](http://mac.appstorm.net/reviews/utilities/tower-gits-it-done/)
 <a href="#Versions" name="Versions">★</a>★★★  | [Versions] | SVN 版本控制工具 | $59 | [#](http://stackoverflow.com/questions/899/best-subversion-client-for-mac-os)
-<a href="#Cornerstone" name="Cornerstone">★</a>★★★  | [Cornerstone] | 同样是 SVN 管理工具 | $59 | [#](http://srced.com/2011/02/cornerstone-2-review-the-best-version-control-system/)
+<a href="#Cornerstone" name="Cornerstone">★</a>★★★  | [Cornerstone] | 同样是 SVN 管理工具 | $59 | [#](http://www.taylorjasko.com/2011/02/cornerstone-2-review-the-best-version-control-system/)
 <a href="#Paw" name="Paw">★</a>★★★  | [Paw] | HTTP、REST客户端 | $29.99 | [#](https://luckymarmot.com/paw)
-<a href="#ColorSchemer" name="ColorSchemer">★</a>★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/reviews/graphics/colorschemer-studio-2-instant-color-schemes/)
-<a href="#Sketch" name="Sketch">★</a>★★★  | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $99 | [#](http://mac.appstorm.net/reviews/graphics/sketch-2-a-simple-powerful-vector-graphics-app/)
+<a href="#ColorSchemer" name="ColorSchemer">★</a>★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99 | [#](http://mac.appstorm.net/general/colorschemer-studio-2-instant-color-schemes/)
+<a href="#Sketch" name="Sketch">★</a>★★★  | [Sketch] | 图像处理设计工具，获2012苹果设计大奖 | $99 | [#](http://mac.appstorm.net/general/sketch-2-a-simple-powerful-vector-graphics-app/)
 <a href="#Sparkbox" name="Sparkbox">★</a>★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99 | [#](http://mac.appstorm.net/reviews/productivity-review/keep-your-digital-inspiration-organized-with-sparkbox/)
-<a href="#Frank-DeLoupe" name="Frank-DeLoupe">★</a>★★   | [Frank DeLoupe] | 精美拾色器、可Photoshop联动 | $0.99 | [#](http://mac.appstorm.net/reviews/graphics/frank-deloupe-your-color-picking-friend/)
+<a href="#Frank-DeLoupe" name="Frank-DeLoupe">★</a>★★   | [Frank DeLoupe] | 精美拾色器、可Photoshop联动 | $0.99 | [#](http://mac.appstorm.net/general/frank-deloupe-your-color-picking-friend/)
 <a href="#ColorSnapper" name="ColorSnapper">★</a>★★   | [ColorSnapper] | 屏幕取色，只做一件事，做到极致 | $4.99 | [#](http://mac.appstorm.net/reviews/utilities/colorsnapper-a-slick-simple-color-picker-for-the-mac/)
 <a href="#CodeBox" name="CodeBox">★</a>★★   | [CodeBox] | 代码片段收集 | $9.99 | [#](http://mac.appstorm.net/reviews/utilities/codebox-manage-your-snippets-effectively-and-efficiently/)
-<a href="#Slicy" name="Slicy">★</a>★★   | [Slicy] | 快速切图PSD->IMG，支持@2x | $29 | [#](http://mac.appstorm.net/reviews/graphics/layer-cake-exporting-from-photoshop-was-never-this-tasty/)
+<a href="#Slicy" name="Slicy">★</a>★★   | [Slicy] | 快速切图 PSD->IMG，支持@2x | $29 | [#](http://mac.appstorm.net/general/layer-cake-exporting-from-photoshop-was-never-this-tasty/)
 
 #### 1.3 服务订阅类
 
@@ -155,17 +160,18 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 * 建议尽量选择`冰点价格`或`打折促销`时购入，如：[mou.li] 这样的团购代购服务
 * 部分软件开发商会有**官方**`团购打折`
 * `家庭装促销包授权`适合家里人一起使用
-* 关注和参与`个人`或`集体`组织的团购`活动`
+* 关注和参与`个人`或`集体`组织的团购`活动`，如：[BundleHunt] 家的促销包活动
 * 选择购买`Mac App Store`的版本通常升级后续版本会 Free
 * 部分 Apps **只有**`Mac App Store` 版会有`iCloud`同步功能
 * 如果官方有非沙盒版，建议不要选择`Mac App Store`的阉割版，购入原版
 
-## Mac OS App 优惠&促销信息媒体
+## macOS App 优惠&促销信息媒体
 
 * [MacTips](http://mactips.io/)
 * [AppShopper](http://appshopper.com/)
-* [MacUpdate](https://deals.macupdate.com/)
-* [Current Mac Bundles](http://www.squidoo.com/current-mac-bundles)
+* [MacUpdate](http://www.macupdate.com/app/mac/56871/windscribe)
+* [BundleHunt]
+* [Current Mac Bundles](http://hubpages.com/technology/current-mac-bundles)
 * [hzlzh/Best-App](https://github.com/hzlzh/Best-App)
 * [“反”斗限免](http://free.apprcn.com/)
 * [AppyDays for Mac](https://itunes.apple.com/cn/app/id428240257?mt=12)
@@ -173,9 +179,9 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 * [MacAppDeals](http://www.macappdeals.com/)
 * [$2tuesday](http://twodollartues.com/)
 * [AppFridays](http://appyfridays.com/)
-* [Macheist](http://macheist.com/)
+* [Macheist](https://macheist.com/welcome)
 * [V2EX MacOS](http://v2ex.com/go/macosx)
-* [StackSocial](http://stacksocial.com/?aid=a-9j496mje)
+* [StackSocial](https://stacksocial.com/?aid=a-9j496mje)
 
 ## 关于
 
@@ -213,102 +219,104 @@ Released under [MIT] LICENSE
 
 @hzlzh 创立了一个微信公众号：[MacTips](http://mactips.io/)  
  -- 专注于分享 Mac 使用经验和技巧，打造 Mac 神兵利器。  --
-![MacTips](http://ww4.sinaimg.cn/large/644eac00gw1evn89qmu5aj20by0byaav.jpg)
+<center>![MacTips](http://ww4.sinaimg.cn/large/644eac00gw1evn89qmu5aj20by0byaav.jpg)</center>
 
 [<< 查看总目录]: ./README.md
 [issue]: https://github.com/hzlzh/Best-App/issues
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
-[MIT]: http://rem.mit-license.org/
+[MIT]: https://rem.mit-license.org/
 
 [Alfred]: https://www.macupdate.com/app/mac/34344/alfred
-[1Password]: https://agilebits.com/onepassword/mac
-[iStat Menus]: http://bjango.com/mac/istatmenus/
-[Keyboard Maestro]: http://www.keyboardmaestro.com/
-[Little Snitch]: http://www.obdev.at/products/littlesnitch/
+[1Password]: https://1password.com/features
+[iStat Menus]: https://bjango.com/mac/istatmenus/
+[Keyboard Maestro]: http://www.keyboardmaestro.com/main/
+[Little Snitch]: https://www.obdev.at/products/littlesnitch/
 [PopClip]: http://pilotmoon.com/popclip/
-[Clear]: http://www.realmacsoftware.com/clear/
+[Clear]: http://realmacsoftware.com/clear/
 [Versions]: http://versionsapp.com/
-[Bartender]: http://www.macbartender.com/
+[Bartender]: https://www.macbartender.com/
 [BreakTime]: http://breaktimeapp.com/
 [Timing]: http://timingapp.com/
 [Day One]: http://dayoneapp.com/
 [Should I Sleep]: http://www.mrmilk.com.br/
-[CleanMyMac]: http://macpaw.com/cleanmymac/
+[CleanMyMac]: http://macpaw.com/cleanmymac
 [LockScreen]: https://itunes.apple.com/us/app/lock-screen-2/id445423011?mt=12
 [Moom]: http://manytricks.com/moom/
 [OmmWriter]: http://www.ommwriter.com/
 [SaneDesk]: http://www.sanedeskapp.com/
-[Entropy]: http://www.eigenlogik.com/entropy
+[Entropy]: http://www.eigenlogik.com/entropy/
 [Parallels Desktop]: http://www.parallels.com/products/desktop/
 [Proxifier]: http://www.proxifier.com/
 [ColorSchemer]: http://www.colorschemer.com/
-[DaisyDisk]: http://www.daisydiskapp.com/
-[iExplorer]: http://www.macroplant.com/iexplorer/
+[DaisyDisk]: https://daisydiskapp.com/
+[iExplorer]: https://www.macroplant.com/iexplorer/
 [Growl]: http://growl.info/
 [Frank DeLoupe]: http://jumpzero.com/frank/
 [Fantastical]: http://flexibits.com/fantastical
 [aText]: http://www.trankynam.com/atext/
-[Dash]: http://kapeli.com/dash
+[Dash]: https://kapeli.com/dash
 [ForkLift]: http://www.binarynights.com/
-[CodeRunner]: http://krillapps.com/coderunner/
+[CodeRunner]: https://coderunnerapp.com
 [Charles]: http://www.charlesproxy.com/
 [Scrapbook]: http://www.ariessolutions.de/sites/scrapbook/
 [ScreenFlow]: http://www.telestream.net/screenflow/
 [Sparkbox]: http://www.icyblaze.com/sparkbox/
-[Tweetbot]: http://tapbots.com/software/tweetbot/mac/
+[Tweetbot]: http://tapbots.com/tweetbot/mac/
 [Xee]: http://xee.c3.cx/
 [PhotoDesk]: http://www.photodesk-app.com/
 [Pixelmator]: http://www.pixelmator.com/
 [xScope]: http://xscopeapp.com/
 [plup]: http://www.acrylicapps.com/pulp/
-[Things]: http://culturedcode.com/things/
-[Aperture]: http://www.apple.com/hk/en/aperture/
+[Things]: https://culturedcode.com/things/
+[Aperture]: http://www.apple.com/hk/en/osx/photos/
 [jitouch]: http://www.jitouch.com/
-[OmniFocus]: http://www.omnigroup.com/products/omnifocus/
+[OmniFocus]: https://www.omnigroup.com/products/omnifocus/
 [Devonthink Pro]: http://www.devontechnologies.com/products/devonthink/overview.html
-[TextExpander]: http://smilesoftware.com/TextExpander/index.html
+[TextExpander]: https://smilesoftware.com/TextExpander/index.html
 [CodeBox]: http://www.codeboxapp.com
 [Slicy]: http://macrabbit.com/slicy/
 [Gemini]: http://macpaw.com/gemini
 [Keycard]: http://www.appuous.com/products/mac/keycard.html
 [Geekbench]: http://browser.primatelabs.com/mac-benchmarks
+[Noizio]: http://noiz.io/
 [iPack]: http://ipackapp.com/
 [LiveReload]: http://livereload.com/‎
 [Kaleidoscope]: http://www.kaleidoscopeapp.com/
 [Moneywiz]: http://moneywizapp.com/
-[MAMP PRO]: http://www.mamp.info/
+[MAMP PRO]: https://www.mamp.info/
 [Play by Play]: http://playbyplayapp.com/
 [Intellij IDEA]: http://www.jetbrains.com/idea/
 [Sublime Text]: http://www.sublimetext.com/
-[Short Menu]: http://floschliep.com/short-menu-mac/
+[Short Menu]: https://floschliep.com/short-menu-mac/
 [Picatext]: http://www.picatext.com/
-[BetterSnap Tool]: http://blog.boastr.net/
+[BetterSnap Tool]: https://www.boastr.net/
 [KeyCue]: http://www.ergonis.com/products/keycue/
 [PaintCode]: http://www.paintcodeapp.com/
 [Airmail]: http://airmailapp.com/
 [CodeKit]: http://incident57.com/codekit/
-[Tower]: http://www.git-tower.com/
+[Tower]: https://www.git-tower.com/
 [Instacast]: http://vemedio.com/products/instacast-mac
-[Sketch]: http://www.bohemiancoding.com/sketch/
+[Sketch]: http://www.sketchapp.com/
 [ColorSnapper]: http://colorsnapper.com
 [Scrivener]: http://www.literatureandlatte.com/
 [Ulysses]: http://www.ulyssesapp.com/
-[OmniGraffle]: http://www.omnigroup.com/omnigraffle
+[OmniGraffle]: https://www.omnigroup.com/omnigraffle
 [Promotee]: http://www.netwalkapps.com/app/promotee
 [Spotify Pro]: https://www.spotify.com/
 [Droplr Pro]: https://droplr.com/
 [DEFAULT FOLDER X]: http://www.stclairsoft.com/DefaultFolderX/
 [GhostTile]: http://ghosttile.kernelpanic.im/
 [MacUpdate Desktop]: https://www.macupdate.com/
-[OmniOutliner]: http://www.omnigroup.com/omnioutliner
-[Calcbot]: http://tapbots.com/software/calcbot/
-[Ember]: http://realmacsoftware.com/ember
+[OmniOutliner]: https://www.omnigroup.com/omnioutliner
+[Calcbot]: http://tapbots.com/calcbot/
+[Ember]: https://www.realmacsoftware.com/ember
+[Inboard]: http://www.inboardapp.com
 [Coda]: https://panic.com/coda/
-[Hazel]: http://www.noodlesoft.com/
+[Hazel]: https://www.noodlesoft.com/
 [Paw]: https://luckymarmot.com/paw
 [GhostNote]: http://www.ghostnoteapp.com/
-[Byword]: http://metaclassy.com/
+[Byword]: https://metaclassy.com/
 [Cornerstone]: https://www.zennaware.com/cornerstone/
 [Evernote Pro]: https://evernote.com/
 [Overflow]: http://stuntsoftware.com/overflow/
@@ -322,10 +330,12 @@ Released under [MIT] LICENSE
 [Google Music]: https://play.google.com/about/music/
 [RescueTime]: https://www.rescuetime.com/plans
 [Instashare]: http://instashareapp.com/
-[Writer Pro]: http://writer.pro/
-[WiFi Explorer]: http://www.adriangranados.com/
+[Writer Pro]: https://ia.net/writer
+[WiFi Explorer]: https://www.adriangranados.com/
 [WiFi Scanner]: https://itunes.apple.com/us/app/wifi-scanner/id411680127?mt=12
 [Atom]: https://atom.io/
+[Brackets]:http://brackets.io
 [Keka]: http://www.kekaosx.com/
 [mou.li]: http://mou.li/
 [Paste]: http://pasteapp.me
+[BundleHunt]: https://bundlehunt.com/?ap_id=macosx
