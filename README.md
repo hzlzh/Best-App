@@ -3,7 +3,7 @@ Best App
 ----
 
 *经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的，
-于是创建了 BesrApp 项目，旨在让推荐变得有章可循*
+于是创建了 BestApp 项目，旨在让推荐变得有章可循*
 
 ## 总目录
 
@@ -121,6 +121,7 @@ Best App
 <a href="#LiveReload" name="LiveReload">★</a>★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99 | [#](http://brettterpstra.com/2011/12/02/app-review-livereload/)
 <a href="#CodeKit" name="CodeKit">★</a>★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
 <a href="#Sublime-Text" name="Sublime-Text">★</a>★★★  | [Sublime Text] | 编辑器 | $70/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
+<a href="#Slack" name="Slack">★</a>★★★  | [Slack] | 团队合作沟通工具 | Free | [#](http://mac.appstorm.net/reviews/productivity-review/slack-team-collaboration-made-simple/)
 <a href="#Intellij-IDEA" name="Intellij-IDEA">★</a>★★★  | [Intellij IDEA] | IDE(集成开发环境) | $199 | [#](http://development-software.findthebest.com/l/19/IntelliJ-IDEA)
 <a href="#Atom" name="Atom">★</a>★★★  | [Atom] | Github 自家出的编辑器 | Free | [#](http://www.techspot.com/news/55845-github-unveils-atom-text-editor-for-developers.html)
 <a href="#Brackets" name="Brackets">★</a>★★★  | [Brackets] | Adobe 出的开源编辑器 | Free | [#](http://www.iplaysoft.com/brackets.html)
@@ -288,6 +289,7 @@ Released under [MIT] LICENSE
 [Play by Play]: http://playbyplayapp.com/
 [Intellij IDEA]: http://www.jetbrains.com/idea/
 [Sublime Text]: http://www.sublimetext.com/
+[Slack]: https://slack.com
 [Short Menu]: https://floschliep.com/short-menu-mac/
 [Picatext]: http://www.picatext.com/
 [BetterSnap Tool]: https://www.boastr.net/
