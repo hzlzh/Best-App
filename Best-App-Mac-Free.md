@@ -28,6 +28,7 @@
 ★★★★☆  | MacID ([MacID](https://macid.co)) | 用手指解锁 Mac，需要配合 iOS app | macOS 免费 |
 ★★★★★  | Jietu ([Jietu](http://jietu.qq.com/)) | 腾讯良心出品的快捷标注、便捷分享的截屏工具 | macOS 免费 |
 ★★★★☆  | Waltr ([Waltr](https://softorino.com/waltr)) | 拖拽拷贝音频/视频到 iOS 设备 | OSX 免费 |
+★★★☆☆  | Scroll Reverser ([Scroll Reverser](http://pilotmoon.com/scrollreverser/)) | 设置鼠标、触摸板滚动方向，外接鼠标必备。 | OSX 免费 |
 
 #### 1.2 开发类
 
