@@ -108,6 +108,8 @@ Best App
 <a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
 <a href="#Paste" name="Paste">★</a>★★   | [Paste] | 高颜值的剪贴板工具 | $5.99 | [#](http://sspai.com/t/7421)
 <a href="#One" name="One">★</a>★☆   | [One](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12) | 一览要闻 | ￥6 | [#](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12)
+<a href="#Unclutter" name="Unclutter">★★</a>★   | [Unclutter] | 存储剪贴板内容，临时文件及笔记 | ￥40 | [#](https://unclutterapp.com)
+<a href="#Magnet" name="Magnet">★★</a>★   | [Magnet] | Mac 窗口管理器 | ￥6 | [#](http://magnet.crowdcafe.com)
 
 #### 1.2 开发类
 
@@ -343,3 +345,5 @@ Released under [MIT] LICENSE
 [Paste]: http://pasteapp.me
 [BundleHunt]: https://bundlehunt.com/?ap_id=macosx
 [reeder]: http://reederapp.com/mac/
+[Unclutter]: https://unclutterapp.com
+[Magnet]: http://magnet.crowdcafe.com
