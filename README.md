@@ -90,6 +90,7 @@ Best App
 <a href="#Gemini" name="Gemini">★</a>★★   | [Gemini] | 重复文件查找删除 | $9.99 | [#](http://www.macworld.com/article/1167669/gemini_finds_and_removes_your_duplicate_files.html)
 <a href="#plup" name="plup">★</a>★★   | [plup] | 新闻阅读器 | $9.99 | [#](http://mac.appstorm.net/reviews/internet-reviews/pulp-an-innovative-way-to-read-the-news-on-your-mac/)
 <a href="#Readkit" name="Readkit">★</a>★★   | [Readkit] | RSS客户端，支持feedly/pocket等服务  | ￥45 | [#](http://geekbeat.tv/review-readkit-for-os-x/)
+<a href="#Reeder" name="Reeder">★</a>★★   | [Reeder] | 简洁强大的 RSS 订阅器 Mac 版，支持feedbin/feedly/readability/installpaper等服务  | ￥68 | [#](http://reederapp.com/mac/)
 <a href="#Play-by-Play" name="Play-by-Play">★</a>★★   | [Play by Play] | Dribbble 客户端 | $4.99 | [#](http://mac.appstorm.net/general/dribbble-on-your-desktop-with-play-by-play/)
 <a href="#Scrivener" name="Scrivener">★</a>★★   | [Scrivener] | 专业写作工具 | $45 | [#](http://mac.appstorm.net/reviews/office-review/scrivener-a-writers-best-friend/)
 <a href="#OmniOutliner" name="OmniOutliner">★</a>★★   | [OmniOutliner] | 写PPT、文档的好帮手 | $39.99 | [#](http://www.lifehack.org/articles/technology/30-days-with-omnioutliner-professional.html)
@@ -107,6 +108,8 @@ Best App
 <a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
 <a href="#Paste" name="Paste">★</a>★★   | [Paste] | 高颜值的剪贴板工具 | $5.99 | [#](http://sspai.com/t/7421)
 <a href="#One" name="One">★</a>★☆   | [One](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12) | 一览要闻 | ￥6 | [#](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12)
+<a href="#Unclutter" name="Unclutter">★★</a>★   | [Unclutter] | 存储剪贴板内容，临时文件及笔记 | ￥40 | [#](https://unclutterapp.com)
+<a href="#Magnet" name="Magnet">★★</a>★   | [Magnet] | Mac 窗口管理器 | ￥6 | [#](http://magnet.crowdcafe.com)
 
 #### 1.2 开发类
 
@@ -341,3 +344,6 @@ Released under [MIT] LICENSE
 [mou.li]: http://mou.li/
 [Paste]: http://pasteapp.me
 [BundleHunt]: https://bundlehunt.com/?ap_id=macosx
+[reeder]: http://reederapp.com/mac/
+[Unclutter]: https://unclutterapp.com
+[Magnet]: http://magnet.crowdcafe.com
