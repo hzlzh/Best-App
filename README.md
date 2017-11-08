@@ -110,6 +110,7 @@ Best App
 <a href="#One" name="One">★</a>★☆   | [One](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12) | 一览要闻 | ￥6 | [#](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12)
 <a href="#Unclutter" name="Unclutter">★★</a>★   | [Unclutter] | 存储剪贴板内容，临时文件及笔记 | ￥40 | [#](https://unclutterapp.com)
 <a href="#Magnet" name="Magnet">★★</a>★   | [Magnet] | Mac 窗口管理器 | ￥6 | [#](http://magnet.crowdcafe.com)
+<a href="#Synergy" name="Synergy">★★</a>★   | [Synergy] | 全平台鼠标键盘共享软件 | $19 | [#](https://symless.com/synergy)
 
 #### 1.2 开发类
 
