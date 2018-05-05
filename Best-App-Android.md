@@ -20,6 +20,7 @@
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
+★★★★★ | [Nova Launcher Prime](http://novalauncher.com/) | 自定义启动器 | $7 | [#](http://www.igao7.com/news/201512/w5qI9VUU4i1cZawq.html)
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  | 
 
 ## 2. 免费应用篇
