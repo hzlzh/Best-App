@@ -1,6 +1,8 @@
 
 Best App
 ----
+[![Backers on Open Collective](https://opencollective.com/best-app/backers/badge.svg)](#backers)
+ [![Sponsors on Open Collective](https://opencollective.com/best-app/sponsors/badge.svg)](#sponsors) 
 
 *经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的，
 于是创建了 BestApp 项目，旨在让推荐变得有章可循*
@@ -215,6 +217,36 @@ Best App
 感谢此处\[[收集&提交页]\]参与提交和讨论的朋友们
 
 [<< 查看总目录]
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="graphs/contributors"><img src="https://opencollective.com/Best-App/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/Best-App#backer)]
+
+<a href="https://opencollective.com/Best-App#backers" target="_blank"><img src="https://opencollective.com/Best-App/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/Best-App#sponsor)]
+
+<a href="https://opencollective.com/Best-App/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/Best-App/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/Best-App/sponsor/2/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/Best-App/sponsor/3/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/Best-App/sponsor/4/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/Best-App/sponsor/5/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/Best-App/sponsor/6/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/Best-App/sponsor/7/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/Best-App/sponsor/8/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/Best-App/sponsor/9/website" target="_blank"><img src="https://opencollective.com/Best-App/sponsor/9/avatar.svg"></a>
+
+
 
 #### License
 
