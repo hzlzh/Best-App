@@ -42,6 +42,7 @@
 ★★★★☆  | Atom | github官方代码编辑器 | 0.00 | 打开大的项目时比较慢
 ★★★★★  | [Go2Shell](https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12) | 从Finder打开命令行 | 0.00 | [#](http://www.akmumu.com/2014/12/04/323.html)
 ★★★★☆  | [SourceTree](https://www.sourcetreeapp.com/) |  代码版本管理工具(git, mercurial, github, bucket...) | 0.00 (需免费注册) | 暂无
+★★★★☆  | [Fork](https://git-fork.com/) |  Git GUI 客户端 | 0.00 | 暂无
 ★★★★☆  | [Dash](https://kapeli.com/dash) | 开发文档速查、代码片段管理工具(Dosc + code snipper) | $24.99 (配套iOS版已经在[GitHub](https://github.com/Kapeli/Dash-iOS)开源) | 暂无
 ★★★★☆  | [SQLPro Studio](http://www.sqlprostudio.com) | 同时支持四种数据库连接的图形工具(MySQL MSSQL Postgres Oracle) | CNY797 | 暂无
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  |
