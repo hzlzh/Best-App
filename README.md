@@ -162,8 +162,7 @@ Best App
 
 ## 购买建议
 
-* 建议尽量选择`冰点价格`或`打折促销`时购入，如：[mou.li] 这样的团购代购服务
-* 部分软件开发商会有**官方**`团购打折`
+* 建议尽量选择`打折促销`时购入，可在 [荔枝数码](https://partner.lizhi.io/mactips/cp) 这类正版软件销售平台购入
 * `家庭装促销包授权`适合家里人一起使用
 * 关注和参与`个人`或`集体`组织的团购`活动`，如：[BundleHunt] 家的促销包活动
 * 选择购买`Mac App Store`的版本通常升级后续版本会 Free
@@ -172,7 +171,7 @@ Best App
 
 ## macOS App 优惠&促销信息媒体
 
-* [MacTips](http://mactips.io/)
+* [荔枝数码](https://partner.lizhi.io/mactips/cp)
 * [AppShopper](http://appshopper.com/)
 * [MacUpdate](http://www.macupdate.com/app/mac/56871/windscribe)
 * [BundleHunt]
