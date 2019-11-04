@@ -35,6 +35,7 @@ Best App
 <a href="#Alfred" name="Alfred">★</a>★★★★ | [Alfred] | 效率软件 Top#1，不解释 | £17 | [#](https://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 <a href="#1Password" name="1Password">★</a>★★★★ | [1Password] | 密码管理，自动登录，用过就离不开了 | $49.99 | [#](https://www.macstories.net/reviews/1password-4-for-mac-review/)
 <a href="#Moom" name="Moom">★</a>★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
+<a href="#Magnet" name="Magnet">★</a>★★★★ | [Moom] | 窗口管理，上架了AppStore | ￥12 | [#](https://medium.com/@davidmles/moom-vs-magnet-493fd2d31a77)
 <a href="#iStat-Menus" name="iStat-Menus">★</a>★★★★ | [iStat Menus] | 实时显示系统状态、网速等 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
 <a href="#Bartender" name="Bartender">★</a>★★★★ | [Bartender] | 自定义右上角 Menu 栏图标 | $15 | [#](http://www.macworld.com/article/2013739/mac-gems-bartender-helps-you-take-control-of-menu-bar-icons.html)
 <a href="#Fantastical" name="Fantastical">★</a>★★★☆ | [Fantastical] | 基于日历的 GTD 提醒 | $19.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
@@ -107,10 +108,9 @@ Best App
 <a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持 iOS 平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
 <a href="#Calcbot" name="Calcbot">★</a>★★   | [Calcbot] | 计算器，可单位换算、实时汇率转换 | $24.99 | [#](http://www.imore.com/calcbot-mac-calculator-unit-converter-flare)
 <a href="#Paste" name="Paste">★</a>★★   | [Paste] | 高颜值的剪贴板工具 | $5.99 | [#](http://sspai.com/t/7421)
-<a href="#One" name="One">★</a>★☆   | [One](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12) | 一览要闻 | ￥6 | [#](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12)
 <a href="#Unclutter" name="Unclutter">★★</a>★   | [Unclutter] | 存储剪贴板内容，临时文件及笔记 | ￥40 | [#](https://unclutterapp.com)
-<a href="#Magnet" name="Magnet">★★</a>★   | [Magnet] | Mac 窗口管理器 | ￥6 | [#](http://magnet.crowdcafe.com)
 <a href="#Synergy" name="Synergy">★★</a>★   | [Synergy] | 全平台鼠标键盘共享软件 | $19 | [#](https://symless.com/synergy)
+<a href="#One" name="One">★</a>★☆   | [One](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12) | 一览要闻 | ￥6 | [#](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12)
 
 #### 1.2 开发类
 
@@ -162,7 +162,7 @@ Best App
 
 ## 购买建议
 
-* 建议尽量选择`打折促销`时购入，可在 [荔枝数码](https://partner.lizhi.io/mactips/cp) 这类正版软件销售平台购入
+* 建议尽量选择`打折促销`时购入，可在 [数码荔枝](https://partner.lizhi.io/mactips/cp) 这类正版软件销售平台购入
 * `家庭装促销包授权`适合家里人一起使用
 * 关注和参与`个人`或`集体`组织的团购`活动`，如：[BundleHunt] 家的促销包活动
 * 选择购买`Mac App Store`的版本通常升级后续版本会 Free
@@ -171,7 +171,7 @@ Best App
 
 ## macOS App 优惠&促销信息媒体
 
-* [荔枝数码](https://partner.lizhi.io/mactips/cp)
+* [数码荔枝](https://partner.lizhi.io/mactips/cp)
 * [AppShopper](http://appshopper.com/)
 * [MacUpdate](http://www.macupdate.com/app/mac/56871/windscribe)
 * [BundleHunt]
@@ -347,3 +347,4 @@ Released under [MIT] LICENSE
 [reeder]: http://reederapp.com/mac/
 [Unclutter]: https://unclutterapp.com
 [Magnet]: http://magnet.crowdcafe.com
+[Synergy]: https://symless.com/synergy
