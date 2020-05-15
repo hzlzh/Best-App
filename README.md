@@ -172,21 +172,15 @@ Best App
 
 ## macOS App 优惠&促销信息媒体
 
-* [数码荔枝](https://partner.lizhi.io/mactips/cp)
+* [数码荔枝](https://store.lizhi.io/site/index/cid/skdrzvap)
+* [StackSocial](https://stacksocial.com/?aid=a-9j496mje)
+* [BundleHunt](https://bundlehunt.com/?ap_id=macosx)
+* [MacUpdate](http://www.macupdate.com/)
 * [AppShopper](http://appshopper.com/)
-* [MacUpdate](http://www.macupdate.com/app/mac/56871/windscribe)
-* [BundleHunt]
-* [Current Mac Bundles](http://hubpages.com/technology/current-mac-bundles)
+* [V2EX MacOS](http://v2ex.com/go/macosx)
 * [hzlzh/Best-App](https://github.com/hzlzh/Best-App)
 * [“反”斗限免](http://free.apprcn.com/)
-* [AppyDays for Mac](https://itunes.apple.com/cn/app/id428240257?mt=12)
-* [AppDown for Mac](http://www.ipadown.com/appdown-mac/)
-* [MacAppDeals](http://www.macappdeals.com/)
-* [$2tuesday](http://twodollartues.com/)
-* [AppFridays](http://appyfridays.com/)
-* [Macheist](https://macheist.com/welcome)
-* [V2EX MacOS](http://v2ex.com/go/macosx)
-* [StackSocial](https://stacksocial.com/?aid=a-9j496mje)
+* [Macheist](https://macheist.com/)
 
 ## 关于
 
@@ -345,7 +339,6 @@ Released under [MIT] LICENSE
 [Keka]: http://www.kekaosx.com/
 [mou.li]: http://mou.li/
 [Paste]: http://pasteapp.me
-[BundleHunt]: https://bundlehunt.com/?ap_id=macosx
 [reeder]: http://reederapp.com/mac/
 [Unclutter]: https://unclutterapp.com
 [Magnet]: http://magnet.crowdcafe.com
