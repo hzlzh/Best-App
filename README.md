@@ -229,6 +229,7 @@ Released under [MIT] LICENSE
 [MIT]: https://rem.mit-license.org/
 
 [Alfred]: https://www.macupdate.com/app/mac/34344/alfred
+[MenubarX]: https://menubarx.app/
 [1Password]: https://1password.com/features
 [iStat Menus]: https://bjango.com/mac/istatmenus/
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
