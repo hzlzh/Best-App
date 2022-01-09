@@ -33,6 +33,8 @@ Best App
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
 <a href="#Alfred" name="Alfred">★</a>★★★★ | [Alfred] | 效率软件 Top#1，不解释 | £17 | [#](https://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
+<a href="#MenubarX" name="MenubarX">★</a>★★★★ | [MenubarX] | 效率工具，强大的菜单栏浏览器 | 限免中 | [#](https://www.producthunt.com/posts/menubarx)
+<a href="#Alfred" name="Alfred">★</a>★★★★ | [Alfred] | 效率软件 Top#1，不解释 | £17 | [#](https://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 <a href="#1Password" name="1Password">★</a>★★★★ | [1Password] | 密码管理，自动登录，用过就离不开了 | $49.99 | [#](https://www.macstories.net/reviews/1password-4-for-mac-review/)
 <a href="#Moom" name="Moom">★</a>★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
 <a href="#Magnet" name="Magnet">★</a>★★★★ | [Magnet] | 窗口管理，上架了AppStore | ￥12 | [#](https://medium.com/@davidmles/moom-vs-magnet-493fd2d31a77)
