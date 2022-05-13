@@ -164,6 +164,7 @@ Best App
 
 ## 购买建议
 
+* 可以选择如 [SetApp] 这样的付费软件合集平台
 * 建议尽量选择`打折促销`时购入，可在 [数码荔枝](https://partner.lizhi.io/mactips/cp) 这类正版软件销售平台购入
 * `家庭装促销包授权`适合家里人一起使用
 * 关注和参与`个人`或`集体`组织的团购`活动`，如：[BundleHunt] 家的促销包活动
@@ -173,6 +174,7 @@ Best App
 
 ## macOS App 优惠&促销信息媒体
 
+* [SetApp]
 * [数码荔枝](https://store.lizhi.io/site/index/cid/skdrzvap)
 * [StackSocial](https://stacksocial.com/?aid=a-9j496mje)
 * [BundleHunt](https://bundlehunt.com/?ap_id=macosx)
@@ -345,3 +347,4 @@ Released under [MIT] LICENSE
 [Unclutter]: https://unclutterapp.com
 [Magnet]: http://magnet.crowdcafe.com
 [Synergy]: https://symless.com/synergy
+[SetApp]: https://go.setapp.com/stp354?utm_medium=vendor_program&utm_source=6X+Studio&utm_content=link
