@@ -5,7 +5,9 @@ Best App
 *经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的，
 于是创建了 BestApp 项目，旨在让推荐变得有章可循*
 
-安利我最近的一款 iOS App 作品：[锁屏启动](https://apps.apple.com/cn/app/id1636719674)，可以一键打开健康码、付款码，感谢大家的支持❤️
+安利我最近的一款 iOS/macOS App 作品，感谢大家的支持❤️
+* [ChatX](https://apps.apple.com/cn/app/id6446304087) 一款强大的 ChatGPT 客户端，无需 API Key，支持 iCloud 多端同步等
+* [锁屏启动](https://apps.apple.com/cn/app/id1636719674) 一键打开扫一扫，付款码，各种小程序等，灵动岛支持网速、天气、步数等
 
 ## 总目录
 
