@@ -5,7 +5,9 @@ Best App
 *经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的，
 于是创建了 BestApp 项目，旨在让推荐变得有章可循*
 
-安利我最近的一款 iOS App 作品：[锁屏启动](https://apps.apple.com/cn/app/id1636719674)，可以一键打开健康码、付款码，感谢大家的支持❤️
+安利我最近的一款 iOS/macOS App 作品，感谢大家的支持❤️
+* [ChatX](https://apps.apple.com/cn/app/id6446304087) 一款强大的 ChatGPT 客户端，无需 API Key，支持 iCloud 多端同步等
+* [锁屏启动](https://apps.apple.com/cn/app/id1636719674) 一键打开扫一扫，付款码，各种小程序等，灵动岛支持网速、天气、步数等
 
 ## 总目录
 
@@ -36,6 +38,7 @@ Best App
 ----- | ----- | ------ | ----- | -----
 <a href="#Alfred" name="Alfred">★</a>★★★★ | [Alfred] | 效率软件 Top#1，不解释 | £17 | [#](https://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 <a href="#MenubarX" name="MenubarX">★</a>★★★★ | [MenubarX] | 效率神器，强大的菜单栏浏览器 | $4.99 | [#](https://www.producthunt.com/posts/menubarx)
+<a href="#DockX" name="DockX">★</a>★★★★ | [DockX] | 在程序坞和菜单栏显示任意内容 | $4.99 | [#](https://www.producthunt.com/posts/dockx)
 <a href="#1Password" name="1Password">★</a>★★★★ | [1Password] | 密码管理，自动登录，用过就离不开了 | $49.99 | [#](https://www.macstories.net/reviews/1password-4-for-mac-review/)
 <a href="#Moom" name="Moom">★</a>★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
 <a href="#Magnet" name="Magnet">★</a>★★★★ | [Magnet] | 窗口管理，上架了AppStore | ￥12 | [#](https://medium.com/@davidmles/moom-vs-magnet-493fd2d31a77)
@@ -128,6 +131,7 @@ Best App
 <a href="#Charles" name="Charles">★</a>★★★☆ | [Charles] | 抓包代理调试工具、类 Fiddler | $50 | [#](http://www.99css.com/1272)
 <a href="#LiveReload" name="LiveReload">★</a>★★★☆ | [LiveReload] | 调试工具：浏览器自刷新、前端代码编译等 | $6.99 | [#](http://brettterpstra.com/2011/12/02/app-review-livereload/)
 <a href="#CodeKit" name="CodeKit">★</a>★★★☆ | [CodeKit] | 前端项目编译工具合集 | $28 | [#](http://www.stalecoffee.com/2012/12/codekit-app-review/)
+<a href="#CodeLobster" name="CodeLobster">★</a>★★★  | [CodeLobster] | 编辑器 | $59.95/Free | [#](https://www.blog.duomly.com/codelobster-ide-review/)
 <a href="#Sublime-Text" name="Sublime-Text">★</a>★★★  | [Sublime Text] | 编辑器 | $80/Free | [#](http://mac.appstorm.net/roundups/web-dev/the-best-code-editors-for-your-mac-in-2013/)
 <a href="#Slack" name="Slack">★</a>★★★  | [Slack] | 团队合作沟通工具 | Free | [#](http://mac.appstorm.net/reviews/productivity-review/slack-team-collaboration-made-simple/)
 <a href="#Intellij-IDEA" name="Intellij-IDEA">★</a>★★★  | [Intellij IDEA] | IDE(集成开发环境) | $199 | [#](http://development-software.findthebest.com/l/19/IntelliJ-IDEA)
@@ -233,6 +237,7 @@ Released under [MIT] LICENSE
 
 [Alfred]: https://www.macupdate.com/app/mac/34344/alfred
 [MenubarX]: https://menubarx.app/
+[DockX]: https://dockx.app/
 [1Password]: https://1password.com/features
 [iStat Menus]: https://bjango.com/mac/istatmenus/
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
@@ -350,3 +355,4 @@ Released under [MIT] LICENSE
 [Magnet]: http://magnet.crowdcafe.com
 [Synergy]: https://symless.com/synergy
 [SetApp]: https://go.setapp.com/stp354?utm_medium=vendor_program&utm_source=6X+Studio&utm_content=link
+[CodeLobster]: https://codelobster.com
