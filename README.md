@@ -5,7 +5,7 @@ Best App
 *经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些产品是可以提升生活品质的，
 于是创建了 BestApp 项目，旨在让推荐变得有章可循*
 
-安利我最近的一款 iOS App 作品：[锁屏启动](https://apps.apple.com/cn/app/id1636719674)，可以一键打开健康码、付款码，感谢大家的支持❤️
+自荐我最近发布的 iOS App 作品：[2Camera](https://itunes.apple.com/app/id1584095090) 前后双摄相机，双份故事，双倍精彩，感谢大家的支持❤️
 
 ## 总目录
 
@@ -36,6 +36,7 @@ Best App
 ----- | ----- | ------ | ----- | -----
 <a href="#Alfred" name="Alfred">★</a>★★★★ | [Alfred] | 效率软件 Top#1，不解释 | £17 | [#](https://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 <a href="#MenubarX" name="MenubarX">★</a>★★★★ | [MenubarX] | 效率神器，强大的菜单栏浏览器 | $4.99 | [#](https://www.producthunt.com/posts/menubarx)
+<a href="#DockX" name="DockX">★</a>★★★★ | [DockX] | 在程序坞和菜单栏显示任何内容 | $3.99 | [#](https://www.producthunt.com/posts/dockx)
 <a href="#1Password" name="1Password">★</a>★★★★ | [1Password] | 密码管理，自动登录，用过就离不开了 | $49.99 | [#](https://www.macstories.net/reviews/1password-4-for-mac-review/)
 <a href="#Moom" name="Moom">★</a>★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
 <a href="#Magnet" name="Magnet">★</a>★★★★ | [Magnet] | 窗口管理，上架了AppStore | ￥12 | [#](https://medium.com/@davidmles/moom-vs-magnet-493fd2d31a77)
@@ -233,6 +234,7 @@ Released under [MIT] LICENSE
 
 [Alfred]: https://www.macupdate.com/app/mac/34344/alfred
 [MenubarX]: https://menubarx.app/
+[DockX]: https://dockx.app/
 [1Password]: https://1password.com/features
 [iStat Menus]: https://bjango.com/mac/istatmenus/
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
