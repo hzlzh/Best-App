@@ -116,6 +116,7 @@ Best App
 <a href="#Unclutter" name="Unclutter">★★</a>★   | [Unclutter] | 存储剪贴板内容，临时文件及笔记 | ￥40 | [#](https://unclutterapp.com)
 <a href="#Synergy" name="Synergy">★★</a>★   | [Synergy] | 全平台鼠标键盘共享软件 | $19 | [#](https://symless.com/synergy)
 <a href="#One" name="One">★</a>★☆   | [One](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12) | 一览要闻 | ￥6 | [#](https://itunes.apple.com/cn/app/yi-lan/id941552500?mt=12)
+<a href="#Cozy" name="Cozy">★</a>★★★   | [Cozy] | 本地优先的私密日记，纯文本 Markdown 存储，数据不上传服务器 | $35 | [#](https://cozyjournal.app)
 
 #### 1.2 开发类
 
@@ -233,6 +234,7 @@ Released under [MIT] LICENSE
 [MIT]: https://rem.mit-license.org/
 
 [Alfred]: https://www.macupdate.com/app/mac/34344/alfred
+[Cozy]: https://cozyjournal.app
 [MenubarX]: https://menubarx.app/
 [DockX]: https://dockx.app/
 [1Password]: https://1password.com/features
