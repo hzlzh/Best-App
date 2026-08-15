@@ -33,6 +33,7 @@
 ★★☆☆☆  | Usage ([Usage](https://www.mediaatelier.com/Usage/)) | 记录应用使用时长。 | macOS 免费 |
 ★★★★★  | LICEcap ([LICEcap](http://www.cockos.com/licecap/)) | GIF制作工具 | 开源软件 | 操作简单，录制动图，演示很方便
 ★★★★★  | IINA player([IINA](https://github.com/lhc70000/iina)) | 视频播放器 | 开源软件 | 基于MPV，当前开发活跃问题解决快
+★★★★☆  | [MetaClean](https://github.com/Moresyl/metaclean) | 本地检查并移除图片、PDF、Office 文档和文本文件中的敏感元数据 | 免费 + 开源 | [下载](https://github.com/Moresyl/metaclean/releases)
 #### 1.2 开发类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
