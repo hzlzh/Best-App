@@ -33,6 +33,7 @@
 ★★☆☆☆  | Usage ([Usage](https://www.mediaatelier.com/Usage/)) | 记录应用使用时长。 | macOS 免费 |
 ★★★★★  | LICEcap ([LICEcap](http://www.cockos.com/licecap/)) | GIF制作工具 | 开源软件 | 操作简单，录制动图，演示很方便
 ★★★★★  | IINA player([IINA](https://github.com/lhc70000/iina)) | 视频播放器 | 开源软件 | 基于MPV，当前开发活跃问题解决快
+★★★★★  | [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) | macOS 系统清理与维护工具，可清理缓存、临时文件、应用残留和重复文件，并提供磁盘分析、应用卸载、进程管理等功能 | 开源软件
 #### 1.2 开发类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
