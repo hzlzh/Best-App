@@ -159,6 +159,7 @@ Best App
 <a href="#Google-Music" name="Google-Music">★</a>★★   | [Google Music] | Google 音乐服务 | $9.99/month | [#](https://play.google.com/about/music/)
 <a href="#Evernote-Pro" name="Evernote-Pro">★</a>★★   | [Evernote Pro] | 笔记服务 | $45/year | [#](http://www.pcworld.com/article/2033479/become-an-evernote-power-user-10-must-know-tips.html)
 <a href="#Github-Pro" name="Github-Pro">★</a>★★   | [Github Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features)
+<a href="#Taskade" name="Taskade">★</a>★★★  | [Taskade] | 用提示词构建应用、AI 代理与自动化的协作工作区 | $10/mo billed annually | [#](https://www.producthunt.com/products/taskade)
 <a href="#Dropbox-Pro" name="Dropbox-Pro">★</a>★★   | [Dropbox Pro] | 云存储/分享服务 | $9.99/month | [#](https://www.dropbox.com/upgrade)
 <a href="#Droplr-Pro" name="Droplr-Pro">★</a>★★   | [Droplr Pro] | 分享文件，支持自定义短链和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
 <a href="#CloudApp-Pro" name="CloudApp-Pro">★</a>★★   | [CloudApp Pro] | 云存储/分享服务 | $45/year | [#](http://store.getcloudapp.com/)
@@ -333,6 +334,7 @@ Released under [MIT] LICENSE
 [Textastic]: http://www.textasticapp.com/
 [Dropbox Pro]: https://www.dropbox.com/pricing
 [Github Pro]: https://github.com/features
+[Taskade]: https://www.taskade.com
 [CloudApp Pro]: http://store.getcloudapp.com/
 [Readkit]: http://readkitapp.com/
 [Rdio Pro]: http://www.rdio.com/
