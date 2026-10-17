@@ -34,6 +34,7 @@ Best App
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
+<a href="#DisplayPilot" name="DisplayPilot">★★★</a>   | [DisplayPilot] | 外接显示器的亮度/对比度/色彩/滚轮一站式调节，DDC/CI 失灵时用伽马表接管，删除前先隔离 | ￥99 | [#](https://huayanming.github.io/displaypilot/audit.html?src=bestapp)
 <a href="#Alfred" name="Alfred">★</a>★★★★ | [Alfred] | 效率软件 Top#1，不解释 | £17 | [#](https://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 <a href="#MenubarX" name="MenubarX">★</a>★★★★ | [MenubarX] | 效率神器，强大的菜单栏浏览器 | $4.99 | [#](https://www.producthunt.com/posts/menubarx)
 <a href="#DockX" name="DockX">★</a>★★★★ | [DockX] | 在程序坞和菜单栏显示任何内容 | $3.99 | [#](https://www.producthunt.com/posts/dockx)
@@ -352,3 +353,4 @@ Released under [MIT] LICENSE
 [Magnet]: http://magnet.crowdcafe.com
 [Synergy]: https://symless.com/synergy
 [SetApp]: https://go.setapp.com/stp354?utm_medium=vendor_program&utm_source=6X+Studio&utm_content=link
+[DisplayPilot]: https://huayanming.github.io/displaypilot/?src=bestapp
