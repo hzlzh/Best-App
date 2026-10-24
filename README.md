@@ -54,6 +54,7 @@ Best App
 <a href="#BreakTime" name="BreakTime">★</a>★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | [#](http://www.macworld.com/article/1164136/break_time_reminds_you_to_take_five.html)
 <a href="#Timing" name="Timing">★</a>★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $19.99 | [#](http://macdownload.informer.com/timing1/)
 <a href="#CleanMyMac" name="CleanMyMac">★</a>★★★☆ | [CleanMyMac] | 系统清理优化，正如其名 | $39.95 | [#](http://www.macworld.com/article/2036159/review-cleanmymac-2-removes-unnecessary-files-to-free-up-storage-space.html)
+<a href="#MacClean" name="MacClean">★</a>★★★  | [MacClean] | 原生 Mac 磁盘清理：微信/QQ/企微缓存、Xcode/AI 缓存、大文件与可视化存储地图 | 免费 | [#](https://thulem.com/)
 <a href="#Hazel" name="Hazel">★</a>★★★☆ | [Hazel] | 自动化整理工具 | $28 | [#](http://www.macworld.com/article/1165835/hazel_the_standout_file_organizer_gets_even_smarter.html)
 <a href="#Things" name="Things">★</a>★★★☆ | [Things] | 又一个 GTD | $49.99 | [#](http://www.lifehack.org/articles/productivity/battle-of-the-mac-and-ios-productivity-apps-omnifocus-vs-things-2-0.html)
 <a href="#TextExpander" name="TextExpander">★</a>★★★☆ | [TextExpander] | 短语扩展，快速键入 | $34.95  | [#](http://mac.appstorm.net/reviews/productivity-review/head-to-head-text-expander-mac-software-compared/)
@@ -248,6 +249,7 @@ Released under [MIT] LICENSE
 [Day One]: http://dayoneapp.com/
 [Should I Sleep]: http://www.mrmilk.com.br/
 [CleanMyMac]: http://macpaw.com/cleanmymac
+[MacClean]: https://thulem.com/
 [LockScreen]: https://itunes.apple.com/us/app/lock-screen-2/id445423011?mt=12
 [Moom]: http://manytricks.com/moom/
 [SteerMouse]: http://plentycom.jp/en/steermouse/index.html
