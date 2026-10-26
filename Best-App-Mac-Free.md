@@ -33,6 +33,7 @@
 ★★☆☆☆  | Usage ([Usage](https://www.mediaatelier.com/Usage/)) | 记录应用使用时长。 | macOS 免费 |
 ★★★★★  | LICEcap ([LICEcap](http://www.cockos.com/licecap/)) | GIF制作工具 | 开源软件 | 操作简单，录制动图，演示很方便
 ★★★★★  | IINA player([IINA](https://github.com/lhc70000/iina)) | 视频播放器 | 开源软件 | 基于MPV，当前开发活跃问题解决快
+★★★★☆  | LayoutKeeper ([LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)) | 按外接显示器记住窗口位置、大小和所在桌面（Space），插回时自动恢复原位，支持 DDC 调外接屏亮度 | 开源软件 | 适合在家和公司切换外接屏的 MacBook 用户
 #### 1.2 开发类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
