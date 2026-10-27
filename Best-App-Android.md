@@ -30,6 +30,7 @@
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
 ★★★★  | [AirDroid](https://www.airdroid.com/) | 通过PC浏览器来管理Android手机的应用 | |[#](http://news.tongbu.com/news/84127.html)|
+★★★★☆ | [涟漪 (Ripple)](https://ripplefocus.github.io/) | 自控与防冲动卸载的屏幕时间管理工具（支持中英双语与本机无线调试自愈） | Free | |
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  | 
 
 #### 2.2 生活类
