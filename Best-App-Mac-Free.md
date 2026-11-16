@@ -45,6 +45,7 @@
 ★★★★☆  | [Fork](https://git-fork.com/) |  Git GUI 客户端 | 0.00 | 暂无
 ★★★★☆  | [Dash](https://kapeli.com/dash) | 开发文档速查、代码片段管理工具(Dosc + code snipper) | $24.99 (配套iOS版已经在[GitHub](https://github.com/Kapeli/Dash-iOS)开源) | 暂无
 ★★★★☆  | [SQLPro Studio](http://www.sqlprostudio.com) | 同时支持四种数据库连接的图形工具(MySQL MSSQL Postgres Oracle) | CNY797 | 暂无
+待评  | [RockxyBase](https://github.com/RockxyApp/RockxyBase/releases/latest) | Mac 原生 BI 工具、Power BI 的 Mac 替代选择，可连接数据库、运行 SQL，并将查询结果制作成图表和报表 | 免费版，Pro 可选 | 暂无
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  |
 
 #### 1.3 服务订阅类
