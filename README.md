@@ -53,6 +53,7 @@ Best App
 <a href="#Clear" name="Clear">★</a>★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | [#](https://www.macstories.net/reviews/clear-for-mac-review/)
 <a href="#BreakTime" name="BreakTime">★</a>★★★☆ | [BreakTime] | 健康管理和休息提醒，番茄工作法 | $4.99 | [#](http://www.macworld.com/article/1164136/break_time_reminds_you_to_take_five.html)
 <a href="#Timing" name="Timing">★</a>★★★☆ | [Timing] | 统计 Mac 使用习惯，每天做了什么 | $19.99 | [#](http://macdownload.informer.com/timing1/)
+<a href="#Vow" name="Vow">★</a>★★★★ | [Vow] | 定时断网专注锁，深度工作无即时取消 | $9.99 | [#](https://vow.byarnav.com/)
 <a href="#CleanMyMac" name="CleanMyMac">★</a>★★★☆ | [CleanMyMac] | 系统清理优化，正如其名 | $39.95 | [#](http://www.macworld.com/article/2036159/review-cleanmymac-2-removes-unnecessary-files-to-free-up-storage-space.html)
 <a href="#Hazel" name="Hazel">★</a>★★★☆ | [Hazel] | 自动化整理工具 | $28 | [#](http://www.macworld.com/article/1165835/hazel_the_standout_file_organizer_gets_even_smarter.html)
 <a href="#Things" name="Things">★</a>★★★☆ | [Things] | 又一个 GTD | $49.99 | [#](http://www.lifehack.org/articles/productivity/battle-of-the-mac-and-ios-productivity-apps-omnifocus-vs-things-2-0.html)
@@ -352,3 +353,4 @@ Released under [MIT] LICENSE
 [Magnet]: http://magnet.crowdcafe.com
 [Synergy]: https://symless.com/synergy
 [SetApp]: https://go.setapp.com/stp354?utm_medium=vendor_program&utm_source=6X+Studio&utm_content=link
+[Vow]: https://vow.byarnav.com/
