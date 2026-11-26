@@ -32,6 +32,7 @@
 ★★☆☆☆  | CheatSheet ([CheatSheet](https://www.mediaatelier.com/CheatSheet/)) | Mac 应用快捷键小抄。 | macOS 免费 |
 ★★☆☆☆  | Usage ([Usage](https://www.mediaatelier.com/Usage/)) | 记录应用使用时长。 | macOS 免费 |
 ★★★★★  | LICEcap ([LICEcap](http://www.cockos.com/licecap/)) | GIF制作工具 | 开源软件 | 操作简单，录制动图，演示很方便
+★★★★★  | OhMyShot ([OhMyShot](https://www.ohmyshot.org/)) | 原生 macOS 截图、录屏、标注、贴图与端侧 OCR 工具（Apple 芯片，macOS 26+） | 开源软件 | [GitHub](https://github.com/MMFoundation/OhMyShot)
 ★★★★★  | IINA player([IINA](https://github.com/lhc70000/iina)) | 视频播放器 | 开源软件 | 基于MPV，当前开发活跃问题解决快
 #### 1.2 开发类
 
