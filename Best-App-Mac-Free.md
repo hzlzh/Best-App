@@ -24,6 +24,7 @@
 ----- | ----- | ------ | ----- | -----
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  |
 ★★★★★  | InsomniaX ([评级说明](#%E5%85%B3%E4%BA%8E)) | 可以分别控制mac 在合上盖子和空闲超时后是否进入休眠状态的掉软件 | 0.00 |
+★★★★★  | Mouse Jiggler for Mac ([Mouse Jiggler for Mac](https://mousejigglermac.com/)) | 菜单栏工具，防止 Mac 进入睡眠状态，可按计划移动鼠标光标 | 免费（PRO 一次性内购） |
 ★★★★★  | Bartender ([评级说明](#%E5%85%B3%E4%BA%8E)) | 隐藏菜单栏图标，还你干净的菜单栏 | 免费4周 |
 ★★★★☆  | MacID ([MacID](https://macid.co)) | 用手指解锁 Mac，需要配合 iOS app | macOS 免费 |
 ★★★★★  | Jietu ([Jietu](http://jietu.qq.com/)) | 腾讯良心出品的快捷标注、便捷分享的截屏工具 | macOS 免费 |
